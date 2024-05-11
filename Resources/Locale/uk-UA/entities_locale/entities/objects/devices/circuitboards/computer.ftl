@@ -103,3 +103,6 @@ ent-ComputerMassMediaCircuitboard = mass-media console board
 ent-SensorConsoleCircuitboard = sensor monitoring console board
     .desc = A computer printed circuit board for a sensor monitoring console.
 
+ent-RoboticsConsoleCircuitboard = robotics control console board
+    .desc = A computer printed circuit board for a robotics control console.
+

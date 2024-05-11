@@ -28,9 +28,6 @@ ent-NinjaSpawn = { ent-BaseGameRule }
 ent-RevenantSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-FalseAlarm = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-GasLeak = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -56,9 +53,6 @@ ent-SolarFlare = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-VentClog = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
-ent-VentCritters = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-SlimesSpawn = { ent-BaseGameRule }

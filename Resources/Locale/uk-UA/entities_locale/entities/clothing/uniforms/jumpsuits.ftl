@@ -67,6 +67,9 @@ ent-ClothingUniformJumpsuitJesterAlt = { ent-ClothingUniformJumpsuitJester }
 ent-ClothingUniformJumpsuitCMO = комбінезон головного лікаря
     .desc = It's a jumpsuit worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
 
+ent-ClothingUniformJumpsuitCMOTurtle = chief medical officer's turtleneck jumpsuit
+    .desc = It's a turtleneck worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
+
 ent-ClothingUniformJumpsuitDetective = hard-worn suit
     .desc = Someone who wears this means business.
 

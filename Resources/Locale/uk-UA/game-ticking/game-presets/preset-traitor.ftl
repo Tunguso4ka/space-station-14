@@ -1,43 +1,39 @@
-## Traitor
+traitor-round-end-codewords = Кодові слова: [color=White]{$codewords}[/color]
+traitor-round-end-agent-name = зрадник
 
-traitor-round-end-codewords = The codewords were: [color=White]{$codewords}[/color]
-traitor-round-end-agent-name = traitor
+objective-issuer-syndicate = [color=#87cefa]Синдикат[/color]
 
-objective-issuer-syndicate = [color=#87cefa]The Syndicate[/color]
 
-# Shown at the end of a round of Traitor
+objective-issuer-unknown = Невідомий
 
-traitor-title = Traitor
-traitor-description = There are traitors among us...
-traitor-not-enough-ready-players = Not enough players readied up for the game! There were {$readyPlayersCount} players readied up out of {$minimumPlayers} needed. Can't start Traitor.
-traitor-no-one-ready = No players readied up! Can't start Traitor.
 
-## TraitorDeathMatch
-traitor-death-match-title = Traitor Deathmatch
-traitor-death-match-description = Everyone's a traitor. Everyone wants each other dead.
-traitor-death-match-station-is-too-unsafe-announcement = The station is too unsafe to continue. You have one minute.
-traitor-death-match-end-round-description-first-line = The PDAs recovered afterwards...
-traitor-death-match-end-round-description-entry = {$originalName}'s PDA, with {$tcBalance} TC
+traitor-title = Зрадники
+traitor-description = Серед нас є зрадники...
+traitor-not-enough-ready-players = Не достатньо гравців приготувалися для гри! Було {$readyPlayersCount} гравців з {$minimumPlayers} потрібних. Не можемо почати режим Зрадники.
+traitor-no-one-ready = Жодного гравця не приготувалося! Не можемо почати режим Зрадники.
 
-## TraitorRole
+traitor-death-match-title = Голодні ігри зрадників
+traitor-death-match-description = Кожний зрадник й кожний хоче вбити іншого.
+traitor-death-match-station-is-too-unsafe-announcement = Станція занадто небезпечна. У вас є тільки одна хвилина.
+traitor-death-match-end-round-description-first-line = Знайдені після КПК:
+traitor-death-match-end-round-description-entry = КПК {$originalName}, з {$tcBalance} ТК
 
-# TraitorRole
+
 traitor-role-greeting =
-    You are a syndicate agent.
-    Your objectives and codewords are listed in the character menu.
-    Use the uplink loaded into your PDA to buy the tools you'll need for this mission.
-    Death to Nanotrasen!
+    Ви - агент Синдикату.
+    Ваші обов'язкі та кодові слова знаходяться в Меню Персонажа.
+    У вашому КПК є аплінк через який ви можете купити необхідні для місії речі.
+    Смерть НаноТрайзен!
 traitor-role-codewords =
-    The codewords are:
+    Кодові слова:
     {$codewords}.
-    Codewords can be used in regular conversation to identify yourself discretely to other syndicate agents.
-    Listen for them, and keep them secret.
+    Ви можеет використати кодові слова в звичайному розговорі, щоб знайти таких же агентів як і ви.
+    Бережить їх в секреті.
 traitor-role-uplink-code =
-    Set your ringtone to the notes {$code} to lock or unlock your uplink.
-    Remember to lock it after, or the stations crew will easily open it too!
+    Поставте рінгтон свого КПК на ноти {$code} щоб розблокувати чи заблокувати ваш аплінк.
+    Не забудьте заблокувати його, інакше персонал станції зможе викрити вас.
 
-# don't need all the flavour text for character menu
 traitor-role-codewords-short =
-    The codewords are:
+    Кодові слова:
     {$codewords}.
-traitor-role-uplink-code-short = Your uplink code is {$code}.
+traitor-role-uplink-code-short = Код вашого аплінку: {$code}.

@@ -16,3 +16,6 @@ ent-NinjaSurviveObjective = Survive
 ent-TerrorObjective = Call in a threat
     .desc = Use your gloves on a communication console in order to bring another threat to the station.
 
+ent-MassArrestObjective = Set everyone to wanted
+    .desc = Use your gloves to hack a criminal records console, setting the entire station to be wanted!
+

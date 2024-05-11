@@ -31,6 +31,9 @@ ent-ClothingUniformJumpskirtGenetics = genetics jumpskirt
 ent-ClothingUniformJumpskirtCMO = chief medical officer's jumpskirt
     .desc = It's a jumpskirt worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
 
+ent-ClothingUniformJumpskirtCMOTurtle = chief medical officer's turtleneck jumpskirt
+    .desc = It's a turtleneck worn by those with the experience to be Chief Medical Officer. It provides minor biological protection.
+
 ent-ClothingUniformJumpskirtDetective = hard-worn suit
     .desc = Someone who wears this means business.
 

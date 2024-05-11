@@ -3,6 +3,8 @@ ent-Clothing = { ent-BaseItem }
 
 ent-GeigerCounterClothing = ця сутність не має назви
 
+ent-AllowSuitStorageClothing = ця сутність не має назви
+
 ent-ClothingSlotBase = ця сутність не має назви
 
 ent-ContentsExplosionResistanceBase = ця сутність не має назви

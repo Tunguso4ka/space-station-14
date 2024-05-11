@@ -16,6 +16,9 @@ ent-ClothingHeadHatPumpkin = pumpkin hat
 ent-ClothingHeadHatPwig = pwig
     .desc = To be honest, those look ridiculous.
 
+ent-ClothingHeadMirror = head mirror
+    .desc = I doubt even the CMO knows how to use this thing.
+
 ent-ClothingHeadHatRichard = richard
     .desc = 'Do you like hurting people?'
 

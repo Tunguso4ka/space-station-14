@@ -1,5 +1,3 @@
-﻿### Locale for wielding items; i.e. two-handing them
-
 wieldable-verb-text-wield = У дві руки
 wieldable-verb-text-unwield = В одну руку
 
@@ -17,3 +15,4 @@ wieldable-component-not-in-hands = { CAPITALIZE($item) } не у твоїх ру
 
 wieldable-component-requires = { CAPITALIZE($item)} повинен бути у двух руках!
 
+gunwieldbonus-component-examine = This weapon has improved accuracy when wielded.

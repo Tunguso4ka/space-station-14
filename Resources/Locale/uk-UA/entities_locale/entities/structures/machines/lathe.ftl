@@ -1,6 +1,11 @@
 ent-BaseLathe = lathe
     .desc = { ent-BaseMachinePowered.desc }
 
+ent-BaseLatheLube = { ent-BaseLathe }
+    .desc = { ent-BaseLathe.desc }
+
+ent-BaseHyperlathe = ця сутність не має назви
+
 ent-Autolathe = autolathe
     .desc = It produces items using metal and glass.
 

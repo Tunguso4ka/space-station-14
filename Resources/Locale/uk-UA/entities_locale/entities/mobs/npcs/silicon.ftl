@@ -15,3 +15,6 @@ ent-MobMedibot = medibot
 ent-MobMimeBot = mimebot
     .desc = Why not give mimebot a friendly wave.
 
+ent-MobSupplyBot = supplybot
+    .desc = Delivers cargo!
+

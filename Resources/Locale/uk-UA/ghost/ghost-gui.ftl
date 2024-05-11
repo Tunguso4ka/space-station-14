@@ -14,6 +14,17 @@ ghost-target-window-current-button = До: {$name}
 ghost-target-window-warp-to-most-followed = Телепортуватися до найвідомого
 
 ghost-roles-window-title = Ролі для привидів
+ghost-roles-window-join-raffle-button = Join raffle
+ghost-roles-window-raffle-in-progress-button =
+    Join raffle ({$time} left, { $players ->
+         [one] {$players} player
+        *[other] {$players} players
+    })
+ghost-roles-window-leave-raffle-button =
+    Leave raffle ({$time} left, { $players ->
+         [one] {$players} player
+        *[other] {$players} players
+    })
 ghost-roles-window-request-role-button = Запросити
 ghost-roles-window-request-role-button-timer = Запросити через ({$time}с)
 ghost-roles-window-follow-role-button = Слідувати

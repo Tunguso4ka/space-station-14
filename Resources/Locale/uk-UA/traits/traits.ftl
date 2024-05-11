@@ -1,6 +1,9 @@
 trait-blindness-name = Сліпий
 trait-blindness-desc = Ви маєте діагностовану сліпоту й не можете бачити дальше декільків метрів попереду себе.
 
+trait-poor-vision-name = Short-sighted
+trait-poor-vision-desc = Your eyes are not what they once were, you have difficulty seeing things far away without corrective glasses.
+
 trait-narcolepsy-name = Нарколепсія
 trait-narcolepsy-desc = Ви можете заснути у будь який момент.
 

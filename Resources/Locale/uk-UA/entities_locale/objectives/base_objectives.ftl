@@ -24,3 +24,6 @@ ent-BaseStealObjective = { ent-BaseLivingObjective }
 ent-BaseSurviveObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
+ent-BaseCodeObjective = { ent-BaseObjective }
+    .desc = { ent-BaseObjective.desc }
+
