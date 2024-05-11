@@ -1,5 +1,5 @@
-rat-king-domain-popup = A cloud of miasma is released into the air!
+rat-king-domain-popup = Хмара міазмів здіймається в повітря!
 
-rat-king-too-hungry = You are too hungry to use this ability!
+rat-king-too-hungry = Ви занадто голодні, щоб використати цю здібність!
 
-rat-king-rummage-text = Rummage
+rat-king-rummage-text = Розгром
