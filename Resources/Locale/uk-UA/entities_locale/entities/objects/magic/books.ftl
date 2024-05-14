@@ -1,13 +1,21 @@
-ent-BaseSpellbook = spellbook
+ent-BaseSpellbook = книга замовлянь
     .desc = { ent-BaseItem.desc }
 
-ent-SpawnSpellbook = spawn spellbook
+ent-WizardsGrimoire = чародійський ґримуар
+    .desc = { ent-BaseItem.desc }
+    .suffix = Чародій
+
+ent-WizardsGrimoireNoRefund = чародійський ґримуар
+    .desc = { ent-WizardsGrimoire.desc }
+    .suffix = чародій, Без повернення
+
+ent-SpawnSpellbook = спавн книги замовлянь
     .desc = { ent-BaseSpellbook.desc }
 
-ent-ForceWallSpellbook = force wall spellbook
+ent-ForceWallSpellbook = книга силової стіни
     .desc = { ent-BaseSpellbook.desc }
 
-ent-BlinkBook = blink spellbook
+ent-BlinkBook = книга блима
     .desc = { ent-BaseSpellbook.desc }
 
 ent-SmiteBook = smite spellbook
@@ -16,9 +24,9 @@ ent-SmiteBook = smite spellbook
 ent-KnockSpellbook = knock spellbook
     .desc = { ent-BaseSpellbook.desc }
 
-ent-FireballSpellbook = fireball spellbook
+ent-FireballSpellbook = книга вогняної кулі
     .desc = { ent-BaseSpellbook.desc }
 
-ent-ScrollRunes = scroll of runes
+ent-ScrollRunes = сувой рун
     .desc = { ent-BaseSpellbook.desc }
 

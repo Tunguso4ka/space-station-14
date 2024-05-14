@@ -19,6 +19,7 @@ humanoid-profile-editor-pronouns-neuter-text = Воно / його
 humanoid-profile-editor-import-button = Імпорт
 humanoid-profile-editor-export-button = Експорт
 humanoid-profile-editor-save-button = Зберегти
+humanoid-profile-editor-reset-button = Скинути
 humanoid-profile-editor-spawn-priority-label = Пріоритет спавна:
 humanoid-profile-editor-eyes-label = Колір очей:
 humanoid-profile-editor-jobs-tab = Посади
@@ -31,7 +32,6 @@ humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Мішок
 humanoid-profile-editor-guidebook-button-tooltip = Натисніть щоб дізнатися різницю.
 
-# Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = Нема
 humanoid-profile-editor-preference-spawn-priority-arrivals = Прибуття
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Кріосон

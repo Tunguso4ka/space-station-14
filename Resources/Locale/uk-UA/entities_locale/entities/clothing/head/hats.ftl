@@ -118,6 +118,9 @@ ent-ClothingHeadHatWitch = witch hat
 ent-ClothingHeadHatWizardFake = fake wizard hat
     .desc = It has WIZZARD written across it in sequins. Comes with a cool beard.
 
+ent-ClothingHeadHatWizardBase = { ent-ClothingHeadBase }
+    .desc = { ent-ClothingHeadBase.desc }
+
 ent-ClothingHeadHatWizard = wizard hat
     .desc = Strange-looking blue hat-wear that most certainly belongs to a powerful magic user.
 

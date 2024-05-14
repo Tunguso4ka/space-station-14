@@ -43,6 +43,9 @@ ent-ClothingOuterPoncho = poncho
 ent-ClothingOuterSanta = santa suit
     .desc = Ho ho ho!
 
+ent-ClothingOuterWizardBase = { ent-ClothingOuterBase }
+    .desc = { ent-ClothingOuterBase.desc }
+
 ent-ClothingOuterWizardViolet = violet wizard robes
     .desc = A bizarre gem-encrusted violet robe that radiates magical energies.
 

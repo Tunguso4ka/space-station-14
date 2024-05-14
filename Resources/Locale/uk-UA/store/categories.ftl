@@ -1,17 +1,21 @@
-﻿# Uplink
 store-category-debug = debug category
 store-category-debug2 = debug category 2
-store-category-weapons = Weapons
-store-category-ammo = Ammo
-store-category-explosives = Explosives
-store-category-misc = Misc
-store-category-bundles = Bundles
-store-category-tools = Tools
-store-category-utility = Utility
-store-category-implants = Implants
-store-category-job = Job
-store-category-armor = Armor
-store-category-pointless = Pointless
+store-category-weapons = Зброя
+store-category-ammo = Набої
+store-category-explosives = Вибухівка
+store-category-chemicals = Хімікати
+store-category-deception = Обман
+store-category-disruption = Знешкодження
+store-category-implants = Імпланти
+store-category-allies = Союзники
+store-category-job = Спеціальні
+store-category-wearables = Одяг
+store-category-pointless = Інше
 
-# Revenant
-store-category-abilities = Abilities
+store-category-abilities = Здібності
+store-caregory-spellbook-offensive = Атакуючі
+store-caregory-spellbook-defensive = Захисні
+store-caregory-spellbook-utility = Допоміжні 
+store-caregory-spellbook-equipment = Обладнання
+store-caregory-spellbook-events = Евентові
+

@@ -6,6 +6,7 @@ admin-verbs-admin-logs-entity = Entity Logs
 admin-verbs-teleport-to = Телепортуватися до
 admin-verbs-teleport-here = Телепортувати сюди
 admin-verbs-freeze = Заморозити
+admin-verbs-freeze-and-mute = Заморозити та заткнути
 admin-verbs-unfreeze = Розморозити
 admin-verbs-erase = Стерти
 admin-verbs-erase-description = Removes the player from the round and crew manifest and deletes their chat messages.

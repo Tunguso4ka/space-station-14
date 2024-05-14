@@ -1,7 +1,6 @@
 character-setup-gui-character-setup-label = Кастомізація персонажу
 character-setup-gui-character-setup-stats-button = Статистика
 character-setup-gui-character-setup-rules-button = Правила
-character-setup-gui-character-setup-save-button = Зберегти
 character-setup-gui-character-setup-close-button = Закрити
 character-setup-gui-create-new-character-button = Створити нового...
 character-setup-gui-create-new-character-button-tooltip = Максимально доступно {$maxCharacters} персонажів.
