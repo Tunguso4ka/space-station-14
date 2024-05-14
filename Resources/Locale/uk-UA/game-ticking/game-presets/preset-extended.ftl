@@ -1,2 +1,2 @@
-extended-title = Extended
-extended-description = A calm experience. Admin intervention required.
+extended-title = Розширений
+extended-description = Спокійна зміна. Ще краще з івентами від адміністрації.

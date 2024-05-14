@@ -3,12 +3,15 @@ ent-DebugGenerator = { ent-BaseGenerator }
     .suffix = DEBUG
 
 ent-DebugConsumer = consumer
+    .desc = DEBUG
     .suffix = DEBUG
 
 ent-DebugBatteryStorage = battery storage
+    .desc = DEBUG
     .suffix = DEBUG
 
 ent-DebugBatteryDischarger = battery discharger
+    .desc = DEBUG
     .suffix = DEBUG
 
 ent-DebugSMES = { ent-BaseSMES }
@@ -24,5 +27,6 @@ ent-DebugAPC = { ent-BaseAPC }
     .suffix = DEBUG
 
 ent-DebugPowerReceiver = power receiver
+    .desc = DEBUG
     .suffix = DEBUG
 

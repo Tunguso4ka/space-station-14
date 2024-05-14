@@ -9,5 +9,5 @@ main-menu-address-label = Адреса сервера:
 main-menu-join-public-server-button = Під'єднатися
 main-menu-join-public-server-button-tooltip = Ви не можете під'єднатися до публичного сервера зі збірки для дебага.
 main-menu-direct-connect-button = Пряме під'єднання
-main-menu-options-button = Налаштунки
+main-menu-options-button = Налаштування
 main-menu-quit-button = Вийти

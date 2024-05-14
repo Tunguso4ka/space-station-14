@@ -1,10 +1,12 @@
-ent-RandomHumanoidSpawnerDeathSquad = Death Squad Agent
+ent-RandomHumanoidSpawnerDeathSquad = агент Загону Смерті
+    .desc = ""
     .suffix = ERTRole, Death Squad
 
-ent-RandomHumanoidSpawnerERTLeader = ERT leader
+ent-RandomHumanoidSpawnerERTLeader = лідер ГШР
+    .desc = ""
     .suffix = ERTRole, Basic
 
-ent-RandomHumanoidSpawnerERTLeaderEVA = ERT leader
+ent-RandomHumanoidSpawnerERTLeaderEVA = лідер ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Armored EVA
 
@@ -12,35 +14,35 @@ ent-RandomHumanoidSpawnerERTLeaderEVALecter = { ent-RandomHumanoidSpawnerERTLead
     .desc = { ent-RandomHumanoidSpawnerERTLeaderEVA.desc }
     .suffix = ERTRole, Lecter, EVA
 
-ent-RandomHumanoidSpawnerERTChaplain = ERT chaplain
+ent-RandomHumanoidSpawnerERTChaplain = капелан ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Basic
 
-ent-RandomHumanoidSpawnerERTChaplainEVA = ERT chaplain
+ent-RandomHumanoidSpawnerERTChaplainEVA = капелан ГШР
     .desc = { ent-RandomHumanoidSpawnerERTChaplain.desc }
     .suffix = ERTRole, Enviro EVA
 
-ent-RandomHumanoidSpawnerERTJanitor = ERT janitor
+ent-RandomHumanoidSpawnerERTJanitor = прибиральник ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Basic
 
-ent-RandomHumanoidSpawnerERTJanitorEVA = ERT janitor
+ent-RandomHumanoidSpawnerERTJanitorEVA = прибиральник ГШР
     .desc = { ent-RandomHumanoidSpawnerERTJanitor.desc }
     .suffix = ERTRole, Enviro EVA
 
-ent-RandomHumanoidSpawnerERTEngineer = ERT engineer
+ent-RandomHumanoidSpawnerERTEngineer = інженер ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Basic
 
-ent-RandomHumanoidSpawnerERTEngineerEVA = ERT engineer
+ent-RandomHumanoidSpawnerERTEngineerEVA = інженер ГШР
     .desc = { ent-RandomHumanoidSpawnerERTEngineer.desc }
     .suffix = ERTRole, Enviro EVA
 
-ent-RandomHumanoidSpawnerERTSecurity = ERT security
+ent-RandomHumanoidSpawnerERTSecurity = офіцер ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Basic
 
-ent-RandomHumanoidSpawnerERTSecurityEVA = ERT security
+ent-RandomHumanoidSpawnerERTSecurityEVA = офіцер ГШР
     .desc = { ent-RandomHumanoidSpawnerERTSecurity.desc }
     .suffix = ERTRole, Armored EVA
 
@@ -48,35 +50,42 @@ ent-RandomHumanoidSpawnerERTSecurityEVALecter = { ent-RandomHumanoidSpawnerERTSe
     .desc = { ent-RandomHumanoidSpawnerERTSecurityEVA.desc }
     .suffix = ERTRole, Lecter, EVA
 
-ent-RandomHumanoidSpawnerERTMedical = ERT medic
+ent-RandomHumanoidSpawnerERTMedical = лікар ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
     .suffix = ERTRole, Basic
 
-ent-RandomHumanoidSpawnerERTMedicalEVA = ERT medic
+ent-RandomHumanoidSpawnerERTMedicalEVA = лікар ГШР
     .desc = { ent-RandomHumanoidSpawnerERTMedical.desc }
     .suffix = ERTRole, Armored EVA
 
-ent-RandomHumanoidSpawnerCBURNUnit = CBURN Agent
+ent-RandomHumanoidSpawnerCBURNUnit = агент РХБЗ
+    .desc = ""
     .suffix = ERTRole
 
-ent-RandomHumanoidSpawnerCentcomOfficial = CentCom official
+ent-RandomHumanoidSpawnerCentcomOfficial = представник ЦентКома
+    .desc = ""
 
-ent-RandomHumanoidSpawnerSyndicateAgent = syndicate agent
+ent-RandomHumanoidSpawnerSyndicateAgent = агент синдикату
+    .desc = ""
 
-ent-RandomHumanoidSpawnerNukeOp = Nuclear Operative
+ent-RandomHumanoidSpawnerNukeOp = ядерний оперативник
+    .desc = ""
 
-ent-RandomHumanoidSpawnerCluwne = Cluwne
+ent-RandomHumanoidSpawnerCluwne = клувня
+    .desc = ""
     .suffix = spawns a cluwne
 
 ent-LostCargoTechnicianSpawner = lost cargo technician spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-RandomHumanoidLostCargoTechnician = lost cargo technician ghost role
+    .desc = ""
 
 ent-ClownTroupeSpawner = clown troupe spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-RandomHumanoidClownTroupe = clown troupe ghost role
+    .desc = ""
 
 ent-RandomHumanoidClownTroupeBanana = banana clown troupe
     .desc = { ent-RandomHumanoidClownTroupe.desc }
@@ -85,11 +94,13 @@ ent-TravelingChefSpawner = traveling chef spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-RandomHumanoidTravelingChef = traveling chef ghost role
+    .desc = ""
 
 ent-DisasterVictimSpawner = disaster victim spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-RandomHumanoidDisasterVictimRD = disaster victim RD ghost role
+    .desc = ""
 
 ent-RandomHumanoidDisasterVictimCMO = disaster victim CMO ghost role
     .desc = { ent-RandomHumanoidDisasterVictimRD.desc }
@@ -101,4 +112,5 @@ ent-SyndieDisasterVictimSpawner = syndie disaster victim spawner
     .desc = { ent-MarkerBase.desc }
 
 ent-RandomHumanoidSyndieDisasterVictim = syndie disaster victim ghost role
+    .desc = ""
 

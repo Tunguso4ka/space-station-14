@@ -1,15 +1,15 @@
-﻿nukeops-title = Nuclear Operatives
-nukeops-description = Nuclear operatives have targeted the station. Try to keep them from arming and detonating the nuke by protecting the nuke disk!
+﻿nukeops-title = Ядерні оперативники
+nukeops-description = Ядерні оперативники націлилися на станцію. Захистить диск ядерної активації та не дайте їм підірвати ядерну боєголовку.
 
 nukeops-welcome =
-    You are a nuclear operative. Your goal is to blow up {$station}, and ensure that it is nothing but a pile of rubble. Your bosses, the Syndicate, have provided you with the tools you'll need for the task.
-    Operation {$name} is a go ! Death to Nanotrasen!
+    Ви - Ядерний Оперативник. Ваша ціль - підірвати {$station}, та впевнетися що від неї не залишиться і камінця. Ваш наймач, Синдикат, забезпечив вас потрібними речима.
+    Операція {$name} розпочата ! Смерть НаноТрайзен!
 
-nukeops-opsmajor = [color=crimson]Syndicate major victory![/color]
-nukeops-opsminor = [color=crimson]Syndicate minor victory![/color]
-nukeops-neutral = [color=yellow]Neutral outcome![/color]
-nukeops-crewminor = [color=green]Crew minor victory![/color]
-nukeops-crewmajor = [color=green]Crew major victory![/color]
+nukeops-opsmajor = [color=crimson]Мажорна перемога Синдикату![/color]
+nukeops-opsminor = [color=crimson]Мінорна перемога Синдикату![/color]
+nukeops-neutral = [color=yellow]Нічия![/color]
+nukeops-crewminor = [color=green]Мінорна перемога екіпажу![/color]
+nukeops-crewmajor = [color=green]Мажорна перемога екіпажу![/color]
 
 nukeops-cond-nukeexplodedoncorrectstation = The nuclear operatives managed to blow up the station.
 nukeops-cond-nukeexplodedonnukieoutpost = The nuclear operative outpost was destroyed by a nuclear blast.

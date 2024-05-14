@@ -16,7 +16,7 @@ ent-DieObjective = Die a glorious death
 ent-KillRandomPersonObjective = { ent-BaseKillObjective }
     .desc = Do it however you like, just make sure they don't make it to centcom.
 
-ent-KillRandomHeadObjective = { ent-BaseHeadKillObjective }
+ent-KillRandomHeadObjective = { ent-BaseKillObjective }
     .desc = We need this head gone and you probably know why. Good luck, agent.
 
 ent-RandomTraitorAliveObjective = { ent-BaseKeepAliveObjective }
