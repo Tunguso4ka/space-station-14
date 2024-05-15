@@ -1,3 +1,2 @@
-ent-ActionSmite = Smite
-    .desc = Instantly gibs a target.
-
+ent-ActionSmite = Шмак
+    .desc = Моментально знищує ціль.

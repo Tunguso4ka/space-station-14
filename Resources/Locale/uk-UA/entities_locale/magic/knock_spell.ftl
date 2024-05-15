@@ -1,3 +1,2 @@
-ent-ActionKnock = Knock
-    .desc = This spell opens nearby doors.
-
+ent-ActionKnock = Стук
+    .desc = Відкриває двері поряд.

@@ -1,31 +1,31 @@
 ent-CollideFloorTrap = ця сутність не має назви
 
-ent-CollideFloorTrapSpawn = floor trap spawn
+ent-CollideFloorTrapSpawn = спавн пастка
     .desc = { ent-CollideFloorTrap.desc }
 
-ent-FloorTrapExplosion = explosion floor trap
+ent-FloorTrapExplosion = вибухова пастка
     .desc = { ent-CollideFloorTrap.desc }
 
-ent-FloorTrapEMP = EMP floor trap
+ent-FloorTrapEMP = ЕМІ пастка
     .desc = { ent-CollideFloorTrap.desc }
 
 ent-SpawnFloorTrapCarp = { ent-CollideFloorTrapSpawn }
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Carp
+    .suffix = карп
 
 ent-SpawnFloorTrapBear = { ent-CollideFloorTrapSpawn }
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Bear
+    .suffix = ведмідь
 
 ent-SpawnFloorTrapKangaroo = { ent-CollideFloorTrapSpawn }
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Kangaroo
+    .suffix = Кенгуру
 
 ent-SpawnFloorTrapXenoDrone = { ent-CollideFloorTrapSpawn }
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Xeno. Drone
+    .suffix = Ксено. Дрон
 
 ent-SpawnFloorTrapXenoBurrower = { ent-CollideFloorTrapSpawn }
     .desc = { ent-CollideFloorTrapSpawn.desc }
-    .suffix = Xeno. Burrower
+    .suffix = Ксено. Нюхач
 

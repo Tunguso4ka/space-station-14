@@ -6,4 +6,3 @@ ent-ActionFireballII = Вогняна куля  II
 
 ent-ActionFireballIII = Вогняна куля III
     .desc = Найшвидша вогняна куля яку ви тільки бачили!
-

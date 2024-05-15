@@ -1,2 +1,2 @@
-terror-dragon = Attention crew, it appears that someone on your station has made an unexpected communication with a strange fish in nearby space.
-terror-revenant = Attention crew, it appears that someone on your station has made an unexpected communication with an otherworldly energy in nearby space.
+terror-dragon = Увага екіпаже, по нашим данним хтось з вашої станції зв'язався з дивною рибою у ближньому космосі.
+terror-revenant = Увага екіпаже, по нашим данним хтось з вашої станції зв'язався з потусторонньою енергією у ближньому космосі.

@@ -7,23 +7,23 @@ ent-BaseTraitorSocialObjective = { ent-BaseTraitorObjective }
 ent-BaseTraitorStealObjective = { ent-BaseTraitorObjective }
     .desc = { ent-BaseTraitorObjective.desc }
 
-ent-EscapeShuttleObjective = Escape to centcom alive and unrestrained.
-    .desc = One of our undercover agents will debrief you when you arrive. Don't show up in cuffs.
+ent-EscapeShuttleObjective = Втечить на ЦентКом живим та не пійманим
+    .desc = Один з наших агентів допросить вас по прибуттю. Не з'являйтеся у кайданах.
 
-ent-DieObjective = Die a glorious death
-    .desc = Die.
+ent-DieObjective = Уйдіть красиво
+    .desc = Помрить, бажанно разом з декількима офіцерами або головами.
 
 ent-KillRandomPersonObjective = { ent-BaseKillObjective }
-    .desc = Do it however you like, just make sure they don't make it to centcom.
+    .desc = Зробить як вам того забажається, нам важливо щоб ціль не потрапила на ЦентКом.
 
 ent-KillRandomHeadObjective = { ent-BaseKillObjective }
-    .desc = We need this head gone and you probably know why. Good luck, agent.
+    .desc = Нам потрібно щоб цей голова замовк назавжди, й ви скоріше за все знаєте чому. Вдачі, агенте.
 
 ent-RandomTraitorAliveObjective = { ent-BaseKeepAliveObjective }
-    .desc = Identify yourself at your own risk. We just need them alive.
+    .desc = Допомогайте з тіней або прямо. Нам важливо щоб цій агент залишився в живих.
 
 ent-RandomTraitorProgressObjective = { ent-BaseHelpProgressObjective }
-    .desc = Identify yourself at your own risk. We just need them to succeed.
+    .desc = Допомогайте з тіней або прямо. Нам важливо щоб цілі були виконані.
 
 ent-BaseCMOStealObjective = { ent-BaseTraitorStealObjective }
     .desc = { ent-BaseTraitorStealObjective.desc }

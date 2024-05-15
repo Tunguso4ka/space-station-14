@@ -5,17 +5,17 @@ ent-DoorjackObjective = { ent-BaseNinjaObjective }
     .desc = { ent-BaseNinjaObjective.desc }
 
 ent-StealResearchObjective = { ent-BaseNinjaObjective }
-    .desc = Your gloves can be used to hack a research server and steal its precious data. If science has been slacking you'll have to get to work.
+    .desc = Використайте свої рукавички щоб забрати дорогоцінну інформацію з серверів науковців.
 
 ent-SpiderChargeObjective = { ent-BaseNinjaObjective }
-    .desc = This bomb can be detonated in a specific location. Note that the bomb will not work anywhere else!
+    .desc = Ця бомба може бути здетонована тільки в спеціальному місці.
 
-ent-NinjaSurviveObjective = Survive
-    .desc = You wouldn't be a very good ninja if you died, now would you?
+ent-NinjaSurviveObjective = Вижити
+    .desc = Ви не попадете в рамку "Працівник місяца" якщо не виживете.
 
-ent-TerrorObjective = Call in a threat
-    .desc = Use your gloves on a communication console in order to bring another threat to the station.
+ent-TerrorObjective = Викликати загрозу
+    .desc = Використайте свої рукавички на консолі комунікацій для того щоб викликати ще одну небезпеку на цю станцію.
 
-ent-MassArrestObjective = Set everyone to wanted
-    .desc = Use your gloves to hack a criminal records console, setting the entire station to be wanted!
+ent-MassArrestObjective = Поставте всіх на "Розшукуємий"
+    .desc = Використайте свої рукавички на консолі злочинів й змусьте офіцерів гонятися за всіма!
 

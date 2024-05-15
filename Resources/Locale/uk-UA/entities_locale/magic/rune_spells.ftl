@@ -1,12 +1,11 @@
-ent-ActionFlashRune = Flash Rune
-    .desc = Summons a rune that flashes if used.
+ent-ActionFlashRune = Осліпляюча руна
+    .desc = Викликає осліпляючу руну.
 
-ent-ActionExplosionRune = Explosion Rune
-    .desc = Summons a rune that explodes if used.
+ent-ActionExplosionRune = Вибухова руна
+    .desc = Викликає руну вибуху.
 
-ent-ActionIgniteRune = Ignite Rune
-    .desc = Summons a rune that ignites if used.
+ent-ActionIgniteRune = Вогняна руна
+    .desc = Викликає вогняну руну.
 
-ent-ActionStunRune = Stun Rune
-    .desc = Summons a rune that stuns if used.
-
+ent-ActionStunRune = Руна оглушення
+    .desc = Викликає руну оглушення.

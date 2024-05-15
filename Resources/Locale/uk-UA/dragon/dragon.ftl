@@ -1,5 +1,5 @@
-dragon-round-end-agent-name = dragon
+dragon-round-end-agent-name = дракон
 
-objective-issuer-dragon = [color=#7567b6]Space Dragon[/color]
+objective-issuer-dragon = [color=#7567b6]Космічний Дракон[/color]
 
-dragon-role-briefing = Summon 3 carp rifts and take over this quadrant!
+dragon-role-briefing = Викличи 3 розлому карпів й візьмі цій квадрат космосу під свій контроль!

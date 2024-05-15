@@ -2,8 +2,7 @@ ent-BaseTerminatorObjective = { ent-BaseObjective }
     .desc = { ent-BaseObjective.desc }
 
 ent-TerminateObjective = { ent-BaseKillObjective }
-    .desc = Follow your programming and terminate the target.
+    .desc = Слідуйте своєму програмуванню та знищте ціль.
 
-ent-ShutDownObjective = Shut down
-    .desc = Once the mission is complete die to prevent our technology from being stolen.
-
+ent-ShutDownObjective = Вимкнутися
+    .desc = Самовимкнетеся, як тільки ваша місія буде закінчена. Технології майбутнього не можуть дістатися в руки невігласів.

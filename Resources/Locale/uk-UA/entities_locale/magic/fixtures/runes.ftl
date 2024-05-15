@@ -1,32 +1,32 @@
-ent-BaseRune = rune
+ent-BaseRune = руна
 
-ent-CollideRune = collision rune
+ent-CollideRune = руна колізії
     .desc = { ent-BaseRune.desc }
 
-ent-ActivateRune = activation rune
+ent-ActivateRune = руна активації
     .desc = { ent-CollideRune.desc }
 
-ent-CollideTimerRune = collision timed rune
+ent-CollideTimerRune = рука колізії з таймером
     .desc = { ent-CollideRune.desc }
 
-ent-ExplosionRune = explosion rune
+ent-ExplosionRune = руна вибуху
     .desc = { ent-CollideRune.desc }
 
-ent-StunRune = stun rune
+ent-StunRune = руна оглушення
     .desc = { ent-CollideRune.desc }
 
-ent-IgniteRune = ignite rune
+ent-IgniteRune = вогняна руна
     .desc = { ent-CollideRune.desc }
 
-ent-ExplosionTimedRune = explosion timed rune
+ent-ExplosionTimedRune = руна вибуху з таймером
     .desc = { ent-CollideTimerRune.desc }
 
-ent-ExplosionActivateRune = explosion activated rune
+ent-ExplosionActivateRune = активована руна вибуху
     .desc = { ent-ActivateRune.desc }
 
-ent-FlashRune = flash rune
+ent-FlashRune = осліпляюча руна
     .desc = { ent-ActivateRune.desc }
 
-ent-FlashRuneTimer = flash timed rune
+ent-FlashRuneTimer = осліпляюча руна з таймером
     .desc = { ent-CollideTimerRune.desc }
 

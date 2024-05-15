@@ -1,4 +1,4 @@
-ent-MobPathfindDummy = pathfind dummy
+ent-MobPathfindDummy = кукла пошукач шляхів
     .desc = { ent-MobXenoRouny.desc }
-    .suffix = NPC
+    .suffix = НІП
 
