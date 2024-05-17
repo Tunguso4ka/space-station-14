@@ -1,9 +1,9 @@
-﻿bounty-console-menu-title = Cargo bounty console
-bounty-console-label-button-text = Print label
-bounty-console-skip-button-text = Skip
-bounty-console-time-label = Time: [color=orange]{$time}[/color]
-bounty-console-reward-label = Reward: [color=limegreen]${$reward}[/color]
-bounty-console-manifest-label = Manifest: [color=gray]{$item}[/color]
+﻿bounty-console-menu-title = Консоль винагород логистів
+bounty-console-label-button-text = Надрукувати ярлик
+bounty-console-skip-button-text = Пропустити
+bounty-console-time-label = Час: [color=orange]{$time}[/color]
+bounty-console-reward-label = Нагорода: [color=limegreen]${$reward}[/color]
+bounty-console-manifest-label = Ціль: [color=gray]{$item}[/color]
 bounty-console-manifest-entry =
     { $amount ->
         [1] {$item}
@@ -12,8 +12,8 @@ bounty-console-manifest-entry =
 bounty-console-description-label = [color=gray]{$description}[/color]
 bounty-console-id-label = ID#{$id}
 
-bounty-console-flavor-left = Bounties sourced from local unscrupulous dealers.
+bounty-console-flavor-left = Замовлення від місцевих недобросовісних покупців.
 bounty-console-flavor-right = v1.4
 
-bounty-manifest-header = Official cargo bounty manifest (ID#{$id})
-bounty-manifest-list-start = Item manifest:
+bounty-manifest-header = Офіціальне замовлення (ID#{$id})
+bounty-manifest-list-start = Речі:

@@ -1,3 +1,2 @@
-ent-AirlockAssembly = airlock assembly
-    .desc = It opens, it closes, and maybe crushes you.
-
+ent-AirlockAssembly = збірка шлюзу
+    .desc = Він відкривається, він закривається й іноді зажимає вас.

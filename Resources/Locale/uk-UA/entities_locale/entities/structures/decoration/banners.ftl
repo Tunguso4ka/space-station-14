@@ -1,39 +1,39 @@
-ent-BannerBase = base banner
-    .desc = It's the concept of a banner, you shouldn't be seeing this.
+ent-BannerBase = базовий банер
+    .desc = Це концепт банера, ви не повинні його бачити.
 
-ent-BannerNanotrasen = nanotrasen banner
-    .desc = A banner displaying the Nanotrasen logo. It looks rather cheap.
+ent-BannerNanotrasen = банер НаноТрайзен
+    .desc = Банер з лого НаноТрайзен. Виглядає доволі дешевим.
 
-ent-BannerCargo = cargo banner
-    .desc = A banner displaying the colors of the cargo department. Not. Cargonia.
+ent-BannerCargo = банер логистіки
+    .desc = Банер пофарбований в кольори відділу логістики. Логістики, не Логістостану.
 
-ent-BannerEngineering = engineering banner
-    .desc = A banner displaying the colors of the engineering department. Scrungularty.
+ent-BannerEngineering = банер інженерії
+    .desc = Банер пофарбований в кольори інженерного відділу. 
 
-ent-BannerMedical = medical banner
-    .desc = A banner displaying the colors of the medical department. How sterile.
+ent-BannerMedical = банер медвідділу
+    .desc = Банер пофарбований в кольори медичного відділу. Доволі стерильний.
 
-ent-BannerRevolution = revolution banner
-    .desc = A banner displaying revolution. Viva!
+ent-BannerRevolution = банер революції
+    .desc = Банер в кольорах революції. Віва!
 
-ent-BannerSyndicate = syndicate banner
-    .desc = A banner from which, according to the syndicate, you should feel hatred for NT.
+ent-BannerSyndicate = банер Синдикату
+    .desc = Банер із-за якого, по словам самого Синдикату, ти повинен відчувати ненависть до НТ.
 
-ent-BannerScience = science banner
-    .desc = A banner displaying the colors of the science department. Where stupidity is proven greater than the universe.
+ent-BannerScience = банер науки
+    .desc = Банер пофарбований в кольори наукового відділу. Де тупість цінується більше за все у світі.
 
-ent-BannerSecurity = security banner
-    .desc = A banner displaying the colors of the shitcurity department. Security, my bad.
+ent-BannerSecurity = банер безпеки
+    .desc = Банер пофарбований в кольори відділу безпеки.
 
-ent-BannerBlue = blue banner
-    .desc = A banner displaying the color blue. Dabudidabudai.
+ent-BannerBlue = синій банер
+    .desc = Банер пофарбований в синій колір.
 
-ent-BannerRed = red banner
-    .desc = A banner displaying the color red. The edgy one.
+ent-BannerRed = червоний банер
+    .desc = Банер пофарбований в червоний колір.
 
-ent-BannerYellow = yellow banner
-    .desc = A banner displaying the color yellow. Reminds you of ducks and lemon stands.
+ent-BannerYellow = жовтий банер
+    .desc = Банер пофарбований в жовтий колір.
 
-ent-BannerGreen = green banner
-    .desc = A banner displaying the color green. Grass, leaves, guacamole.
+ent-BannerGreen = зелений банер
+    .desc = Банер пофарбований в зелений колір.
 

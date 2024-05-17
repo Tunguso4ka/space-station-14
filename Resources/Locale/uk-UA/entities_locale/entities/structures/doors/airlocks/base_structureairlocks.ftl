@@ -6,4 +6,3 @@ ent-AirlockRCDResistant = { ent-Airlock }
 
 ent-AirlockGlass = скляний шлюз
     .desc = { ent-Airlock.desc }
-

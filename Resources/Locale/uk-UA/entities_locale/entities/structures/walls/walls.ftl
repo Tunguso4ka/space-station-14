@@ -1,60 +1,59 @@
-ent-BaseWall = basewall
-    .desc = Keeps the air in and the greytide out.
+ent-BaseWall = базова стіна
+    .desc = Тримає й повітря й людей внутри.
 
-ent-WallBrick = brick wall
+ent-WallBrick = стіна з кирпича
     .desc = { ent-BaseWall.desc }
 
-ent-WallClock = clock wall
+ent-WallClock = часова стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallClown = bananium wall
+ent-WallClown = стіна з бананіуму
     .desc = { ent-BaseWall.desc }
 
-ent-WallMeat = meat wall
+ent-WallMeat = м'ясна стіна
     .desc = Sticky.
 
-ent-WallCult = cult wall
+ent-WallCult = стіна культу
     .desc = { ent-BaseWall.desc }
 
-ent-WallDebug = debug wall
+ent-WallDebug = стіна для відладки
     .desc = { ent-BaseWall.desc }
-    .suffix = DEBUG
+    .suffix = ВІДЛАДКА
 
-ent-WallDiamond = diamond wall
-    .desc = { ent-BaseWall.desc }
-
-ent-WallGold = gold wall
+ent-WallDiamond = алмазна стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallIce = ice wall
+ent-WallGold = золота стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallPlasma = plasma wall
+ent-WallIce = льодяна стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallPlastic = plastic wall
+ent-WallPlasma = стіна з плазми
     .desc = { ent-BaseWall.desc }
 
-ent-WallPlastitaniumIndestructible = plastitanium wall
+ent-WallPlastic = стіна з пластику
+    .desc = { ent-BaseWall.desc }
+
+ent-WallPlastitaniumIndestructible = стіна з пластитаніума
     .desc = { ent-BaseWall.desc }
     .suffix = indestructible
 
-ent-WallPlastitanium = plastitanium wall
+ent-WallPlastitanium = стіна з пластитаніума
     .desc = { ent-WallPlastitaniumIndestructible.desc }
-    .suffix = ""
 
-ent-WallPlastitaniumDiagonal = plastitanium wall
+ent-WallPlastitaniumDiagonal = стіна з пластиніума
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 
-ent-WallReinforced = reinforced wall
+ent-WallReinforced = усилена стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallReinforcedRust = reinforced wall
+ent-WallReinforcedRust = усилена стіна
     .desc = { ent-WallReinforced.desc }
     .suffix = rusted
 
-ent-WallReinforcedDiagonal = reinforced wall
+ent-WallReinforcedDiagonal = усилена стіна
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 
@@ -67,33 +66,33 @@ ent-WallSandstone = sandstone wall
 ent-WallSilver = silver wall
     .desc = { ent-BaseWall.desc }
 
-ent-WallShuttleDiagonal = shuttle wall
+ent-WallShuttleDiagonal = стіна шатлу
     .desc = Keeps the air in and the greytide out.
     .suffix = Diagonal
 
-ent-WallShuttle = shuttle wall
+ent-WallShuttle = стіна шатлу
     .desc = { ent-WallReinforced.desc }
     .suffix = Reinforced, Exterior
 
-ent-WallShuttleInterior = shuttle wall
+ent-WallShuttleInterior = стіна шатлу
     .desc = { ent-WallSolid.desc }
     .suffix = Interior
 
-ent-WallSolid = solid wall
+ent-WallSolid = стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallSolidDiagonal = solid wall
+ent-WallSolidDiagonal = стіна
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 
-ent-WallSolidRust = solid wall
+ent-WallSolidRust = стіна
     .desc = { ent-WallSolid.desc }
     .suffix = rusted
 
 ent-WallUranium = uranium wall
     .desc = { ent-BaseWall.desc }
 
-ent-WallWood = wood wall
+ent-WallWood = дерев'яна стіна
     .desc = { ent-BaseWall.desc }
 
 ent-WallWeb = web wall
@@ -102,10 +101,10 @@ ent-WallWeb = web wall
 ent-WallNecropolis = stone wall
     .desc = { ent-BaseWall.desc }
 
-ent-WallMining = wall
+ent-WallMining = стіна
     .desc = { ent-BaseWall.desc }
 
-ent-WallMiningDiagonal = wall
+ent-WallMiningDiagonal = стіна
     .desc = { ent-WallShuttleDiagonal.desc }
     .suffix = diagonal
 

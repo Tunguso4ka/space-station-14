@@ -1,5 +1,5 @@
 ent-BoozeDispenser = дозатор алкоголю
-    .desc = A booze dispenser with a single slot for a container to be filled.
+    .desc = Дозатор алкоголю з однею ячейкою для контейнера.
     .suffix = Заповнений
 
 ent-BoozeDispenserEmpty = { ent-BoozeDispenser }

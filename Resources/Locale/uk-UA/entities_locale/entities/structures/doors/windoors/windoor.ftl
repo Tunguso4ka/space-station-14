@@ -1,8 +1,8 @@
-ent-Windoor = windoor
-    .desc = It's a window and a sliding door. Wow!
+ent-Windoor = вікнодверь
+    .desc = Вікно й двері разом! Вау!
 
-ent-WindoorSecure = secure windoor
-    .desc = It's a sturdy window and a sliding door. Wow!
+ent-WindoorSecure = захищена вікнодверь
+    .desc = Міцні вікно та двері разом. Вау!
 
 ent-WindoorClockwork = clockwork windoor
     .desc = It's a sturdy window and a sliding door. Wow!

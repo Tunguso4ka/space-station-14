@@ -1,6 +1,6 @@
-ame-controller-component-fuel-slot-fail-whitelist = You can't put that in the controller...
-ame-controller-component-fuel-slot-fail-locked = Power down the AME before manipulating its fuel.
-ame-controller-component-fuel-slot-success-insert = You insert the jar into the fuel slot.
+ame-controller-component-fuel-slot-fail-whitelist = Ви не можете вставити це в регулятор...
+ame-controller-component-fuel-slot-fail-locked = Вимкніть АМД перед тим як заміняти паливо.
+ame-controller-component-fuel-slot-success-insert = Ви вставляєте паливну банку в ячейку для палива.
 
 ## UI
 
@@ -14,8 +14,8 @@ ame-window-fuel-not-inserted-text = Палива не вставлено
 ame-window-injection-amount-label = Вприск:
 ame-window-refresh-parts-button = Оновити деталі
 ame-window-core-count-label = Кількісь деталей:
-ame-window-power-currentsupply-label = Current power supply:
-ame-window-power-targetsupply-label = Targeted power supply:
+ame-window-power-currentsupply-label = Поточне постачання струму:
+ame-window-power-targetsupply-label = Цільове постачання струму:
 ame-window-toggle-injection-button = Перемкнути вприск
 ame-window-eject-button = Вийняти
 ame-window-increase-fuel-button = Збільшити

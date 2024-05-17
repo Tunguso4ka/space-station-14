@@ -1,1 +1,1 @@
-lung-behavior-gasp = Хватає повітря
+lung-behavior-gasp = Жадно хватає повітря

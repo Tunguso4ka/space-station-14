@@ -1,8 +1,8 @@
 ent-ChemDispenser = хімічний дозатор
-    .desc = An industrial grade chemical dispenser.
-    .suffix = Filled
+    .desc = Хімічний дозатор індастріальної якості.
+    .suffix = Заповнений
 
-ent-ChemDispenserEmpty = chemical dispenser
+ent-ChemDispenserEmpty = хімічний дозатор
     .desc = { ent-ChemDispenser.desc }
-    .suffix = Empty
+    .suffix = Порожній
 

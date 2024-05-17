@@ -1,3 +1,2 @@
-ent-HighSecDoor = high security door
-    .desc = Keeps the bad out and keeps the good in.
-
+ent-HighSecDoor = двері підвищеної безпеки
+    .desc = Тримає поганців знаружи та добро внутри.
