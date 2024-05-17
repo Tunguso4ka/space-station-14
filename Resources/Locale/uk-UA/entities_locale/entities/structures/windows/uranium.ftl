@@ -1,10 +1,9 @@
-ent-UraniumWindow = uranium window
+ent-UraniumWindow = уранове скло
     .desc = { ent-Window.desc }
 
-ent-UraniumWindowDirectional = directional uranium window
-    .desc = Don't smudge up the glass down there.
+ent-UraniumWindowDirectional = маленьке скло
+    .desc = { ent-UraniumWindow.desc }
 
 ent-UraniumWindowDiagonal = { ent-UraniumWindow }
     .desc = { ent-UraniumWindow.desc }
-    .suffix = diagonal
-
+    .suffix = діагональне

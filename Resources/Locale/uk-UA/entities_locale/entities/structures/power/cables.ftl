@@ -1,11 +1,10 @@
 ent-CableBase = ця сутність не має назви
 
-ent-CableHV = HV power cable
-    .desc = An orange high voltage power cable.
+ent-CableHV = ВВ дріт
+    .desc = Оранжевий високо-вольтний дріт.
 
-ent-CableMV = MV power cable
-    .desc = A medium voltage power cable.
+ent-CableMV = СВ дріт
+    .desc = Середне-вольтний дріт.
 
-ent-CableApcExtension = LV power cable
-    .desc = A cable used to connect machines to an APC.
-
+ent-CableApcExtension = НВ дріт
+    .desc = Дріт завдяки якому пристрої під'єднуються до ЗКЖ.

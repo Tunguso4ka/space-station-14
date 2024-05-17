@@ -1,5 +1,5 @@
-ent-BaseAnomalyCore = anomaly core
-    .desc = The core of a destroyed incomprehensible object.
+ent-BaseAnomalyCore = ядро аномалії
+    .desc = Ядро знищеного неможливого об'єкту.
 
 ent-AnomalyCorePyroclastic = { ent-BaseAnomalyCore }
     .desc = { ent-BaseAnomalyCore.desc }

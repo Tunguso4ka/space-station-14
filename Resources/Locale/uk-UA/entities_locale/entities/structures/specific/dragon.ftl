@@ -1,3 +1,2 @@
-ent-CarpRift = carp rift
-    .desc = A rift akin to the ones space carp use to travel long distances.
-
+ent-CarpRift = розлом коропів
+    .desc = Розлом, такий же який космічні коропи використовують для подорожей по космосу.

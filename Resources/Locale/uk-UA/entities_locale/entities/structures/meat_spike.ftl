@@ -1,3 +1,2 @@
-ent-KitchenSpike = meat spike
-    .desc = A spike for collecting meat from animals.
-
+ent-KitchenSpike = м'ясний крюк
+    .desc = Крюк для збірання м'яса з тварин.

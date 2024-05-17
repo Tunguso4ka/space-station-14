@@ -1,10 +1,9 @@
-ent-ClockworkWindow = clockwork window
-    .desc = Don't smudge up the brass down there.
+ent-ClockworkWindow = часове скло
+    .desc = { ent-Window }
 
-ent-WindowClockworkDirectional = directional clockwork window
-    .desc = Don't smudge up the brass down there.
+ent-WindowClockworkDirectional = маленьке часове скло
+    .desc = { ent-ClockworkWindow.desc }
 
 ent-ClockworkWindowDiagonal = { ent-ClockworkWindow }
     .desc = { ent-ClockworkWindow.desc }
-    .suffix = diagonal
-
+    .suffix = діагональне

@@ -1,5 +1,5 @@
-ent-BaseAnomaly = anomaly
-    .desc = An impossible object. Should you be standing this close to it?
+ent-BaseAnomaly = аномалія
+    .desc = Невозможнй об'єкт. Чи варто вам стояти поряд з ним?
 
 ent-AnomalyPyroclastic = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
@@ -49,8 +49,8 @@ ent-AnomalyFlora = { ent-BaseAnomaly }
     .desc = { ent-BaseAnomaly.desc }
     .suffix = Flora
 
-ent-AnomalyFloraBulb = strange glowing berry
-    .desc = It's a beautiful strange glowing berry. It seems to have something growing inside it...
+ent-AnomalyFloraBulb = дивна сяюча ягідка
+    .desc = Це чудова дивна сяюча ягідка. Гмм, в неї щось росте...
     .suffix = Flora Anomaly
 
 ent-AnomalyLiquid = { ent-BaseAnomaly }

@@ -1,7 +1,6 @@
-ent-ConveyorBelt = conveyor belt
-    .desc = A conveyor belt, commonly used to transport large numbers of items elsewhere quite quickly.
+ent-ConveyorBelt = конвеєр
+    .desc = Конвеєр, зазвичай використовується для транспортування великої кількості речей кудись далеко.
 
-ent-ConveyorBeltAssembly = conveyor belt
-    .desc = A conveyor belt assembly. Used to construct a conveyor belt.
-    .suffix = assembly
-
+ent-ConveyorBeltAssembly = конвеєр
+    .desc = Частина конвеєра. Використовується для збірки конвеєра.
+    .suffix = збірка

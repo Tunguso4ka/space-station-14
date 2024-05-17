@@ -1,5 +1,4 @@
-ent-XenoWardingTower = Xeno warding tower
+ent-XenoWardingTower = захисна башта ксеносів
 
-ent-CarpStatue = carp statue
-    .desc = A statue of one of the brave carp that got us where we are today. Made with real teeth!
-
+ent-CarpStatue = статуя коропа
+    .desc = Статуя одного з найсильніших коропів. Саме він довів нас до цього майбутнього. Зроблено іклами!

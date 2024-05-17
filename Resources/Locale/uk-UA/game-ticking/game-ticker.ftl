@@ -18,7 +18,7 @@ game-ticker-get-info-preround-text = Привіт і вітаємо на [color=
                             Поточний раунд: [color=white]#{$roundId}[/color]
                             Наразі гравців на сервері: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
                                 [one] готовий
-                                *[other] готові
+                                *[other] готових
                             }.)
                             Поточна мапа: [color=white]{$mapName}[/color]
                             Поточний режим гри: [color=white]{$gmTitle}[/color]

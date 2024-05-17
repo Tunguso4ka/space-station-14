@@ -1,3 +1,2 @@
-ent-Catwalk = catwalk
-    .desc = A catwalk for easier EVA maneuvering and cable placement.
-
+ent-Catwalk = помост
+    .desc = Помост для більш легкої навігації по космосу, або для дротів.

@@ -1,11 +1,10 @@
-ent-BaseSMES = SMES
-    .desc = A high-capacity superconducting magnetic energy storage (SMES) unit.
+ent-BaseSMES = НпМА
+    .desc = Надпровідниковий Магнітний Акумулятор (НпМА) зберігающий велики об'єми електрики.
 
 ent-SMESBasic = { ent-BaseSMES }
     .desc = { ent-BaseSMES.desc }
-    .suffix = Basic, 8MW
+    .suffix = Базовий, 8МВ
 
 ent-SMESBasicEmpty = { ent-SMESBasic }
     .desc = { ent-SMESBasic.desc }
-    .suffix = Empty
-
+    .suffix = Порожній

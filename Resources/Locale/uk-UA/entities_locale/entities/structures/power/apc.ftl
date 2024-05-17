@@ -1,8 +1,8 @@
-ent-BaseAPC = APC
-    .desc = A control terminal for the area's electrical systems.
+ent-BaseAPC = ЗКЖ
+    .desc = Регулючий термінал для ближайшої електричної системи.
 
-ent-APCFrame = APC frame
-    .desc = A control terminal for the area's electrical systems, lacking the electronics.
+ent-APCFrame = рама ЗКЖ
+    .desc = Регулючий термінал для ближайшої електричної системи. У цього нема плати.
 
 ent-APCConstructed = { ent-BaseAPC }
     .desc = { ent-BaseAPC.desc }

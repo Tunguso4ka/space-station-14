@@ -1,2 +1,1 @@
-ent-hydroponicsSoil = soil
-
+ent-hydroponicsSoil = ґрунт
