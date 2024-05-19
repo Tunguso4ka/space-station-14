@@ -1,99 +1,77 @@
-ent-Paper = paper
-    .desc = 'A piece of white paper.'
+ent-Paper = папір
+    .desc = Шматочек білого папіру.
 
-ent-PaperScrap = paper scrap
-    .desc = 'A crumpled up piece of white paper.'
+ent-PaperScrap = макулатура
+    .desc = Знищений в щент лист білого папіру.
 
-ent-PaperOffice = office paper
-    .desc = 'A plain sheet of office paper.'
+ent-PaperOffice = офісний папір
+    .desc = Порожній листочок білого офісного папіру.
 
-ent-PaperArtifactAnalyzer = artifact analyzer printout
-    .desc = 'The readout of a device forgotten to time'
+ent-PaperArtifactAnalyzer = роздруківка анализатору артефактів
+    .desc = Роздруківка пристрою, яку часто забувають.
 
-ent-PaperCaptainsThoughts = captain's thoughts
-    .desc = A page of the captain's journal. In luxurious lavender.
+ent-PaperCaptainsThoughts = думки капітану
+    .desc = Сторінка з журналу капітану. Пахне дорогущою лавандою.
 
-ent-PaperCargoInvoice = cargo invoice
-    .desc = 'A single unit of bureaucracy.'
+ent-PaperCargoInvoice = накладна логистів
+    .desc = Один шматок бюрократії.
 
-ent-PaperCargoBountyManifest = bounty manifest
-    .desc = A paper label designating a crate as containing a bounty. Selling a crate with this label will fulfill the bounty.
+ent-PaperCargoBountyManifest = маніфест про винагороду
+    .desc = Папір-ярлик для ящиків з речима винагороди. Продаж ящику з цим ярликом виконає контракт.
 
-ent-PaperCNCSheet = character sheet
-    .desc = 'A sheet for your Carps and Crypts characters.'
+ent-PaperCNCSheet = листок персонажу
+    .desc = Листок для вашого персонажу у Коропах та Криптах.
 
 ent-PaperWritten = { ent-Paper }
     .desc = { ent-Paper.desc }
 
-ent-NukeCodePaper = nuclear authentication codes
+ent-NukeCodePaper = коди ядерної аутентифікації
     .desc = { ent-Paper.desc }
 
 ent-NukeCodePaperStation = { ent-NukeCodePaper }
     .desc = { ent-NukeCodePaper.desc }
-    .suffix = Station Only
+    .suffix = Станція
 
-ent-Pen = pen
-    .desc = 'A dark ink pen.'
-
-ent-PenEmbeddable = { ent-Pen }
-    .desc = { ent-Pen.desc }
-
-ent-LuxuryPen = luxury pen
-    .desc = A fancy and expensive pen that you only deserve to own if you're qualified to handle vast amounts of paperwork.
-
-ent-CyberPen = Cybersun pen
-    .desc = A high-tech pen straight from Cybersun's legal department, capable of refracting hard-light at impossible angles through its diamond tip in order to write. So powerful, it's even able to rewrite officially stamped documents should the need arise.
-
-ent-PenCap = captain's fountain pen
-    .desc = 'A luxurious fountain pen for the captain of the station.'
-
-ent-PenCentcom = CentCom pen
-    .desc = In an attempt to keep up with the "power" of the cybersun bureaucracy, NT made a replica of cyber pen, in their corporate style.
-
-ent-PenHop = hop's fountain pen
-    .desc = 'A luxurious fountain pen for the hop of the station.'
-
-ent-BoxFolderBase = folder
-    .desc = A folder filled with top secret paperwork.
+ent-BoxFolderBase = тека
+    .desc = Заповнена догори секретною інформацією тека.
 
 ent-BoxFolderRed = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = Red
+    .suffix = Червоний
 
 ent-BoxFolderBlue = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = Blue
+    .suffix = Синій
 
 ent-BoxFolderYellow = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = Yellow
+    .suffix = Жовтий
 
 ent-BoxFolderWhite = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = White
+    .suffix = Білий
 
 ent-BoxFolderGrey = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = Grey
+    .suffix = Сірий
 
 ent-BoxFolderBlack = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = Black
+    .suffix = Чорний
 
 ent-BoxFolderGreen = { ent-BoxFolderBase }
     .desc = { ent-BoxFolderBase.desc }
-    .suffix = Green
+    .suffix = Зелений
 
-ent-BoxFolderCentCom = CentCom folder
-    .desc = CentCom's miserable little pile of secrets!
-    .suffix = DO NOT MAP
+ent-BoxFolderCentCom = тека ЦентКому
+    .desc = Жалюгідна маленька купка секретів Центрального Командування!
+    .suffix = НЕ МАПУВАТИ
 
-ent-BoxFolderClipboard = clipboard
-    .desc = The weapon of choice for those on the front lines of bureaucracy.
+ent-BoxFolderClipboard = канцелярський планшет
+    .desc = Найкраща зброя для солдат бюрократичного фронту.
 
-ent-BoxFolderCentComClipboard = CentCom clipboard
-    .desc = A luxurious clipboard upholstered with green velvet. Often seen carried by CentCom officials, seldom seen actually used.
+ent-BoxFolderCentComClipboard = канцелярський планшет ЦентКому
+    .desc = Дорогущий планшет обернутий зеленим оксамитом. Іноді таке носять представники ЦентКому, іноді вони навіть використовують їх.
 
-ent-BoxFolderQmClipboard = requisition digi-board
-    .desc = A bulky electric clipboard, filled with shipping orders and financing details. With so many compromising documents, you ought to keep this safe.
-
+ent-BoxFolderQmClipboard = планшет реквизиції
+    .desc = Тяжкий електричний планшет, заповнений накладними та іншими фінансовими листками. В ньому стільки важливих документів, що вам варте берегти його як своє життя.

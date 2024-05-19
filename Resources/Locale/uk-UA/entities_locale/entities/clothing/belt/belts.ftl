@@ -1,29 +1,29 @@
-ent-ClothingBeltUtility = utility belt
-    .desc = Can hold various things.
+ent-ClothingBeltUtility = ремінь для інструментів
+    .desc = Може тримати в собі багато всього.
 
-ent-ClothingBeltChiefEngineer = chief engineer's toolbelt
-    .desc = Holds tools, looks snazzy.
+ent-ClothingBeltChiefEngineer = ремінь головного інженера
+    .desc = Тримає інструменти, виглядає шикарно.
 
-ent-ClothingBeltAssault = assault belt
-    .desc = A tactical assault belt.
+ent-ClothingBeltAssault = бойовий ремінь
+    .desc = Тактичний бойовий ремінь.
 
-ent-ClothingBeltJanitor = janibelt
-    .desc = A belt used to hold most janitorial supplies.
+ent-ClothingBeltJanitor = ремінь прибиральника
+    .desc = Ремінь, що може тримати в собі більшість речей прибиральника.
 
-ent-ClothingBeltMedical = medical belt
-    .desc = Can hold various medical equipment.
+ent-ClothingBeltMedical = медічний ремінь
+    .desc = Може тримати в собі медічні припаси.
 
 ent-ClothingBeltMedicalEMT = EMT belt
     .desc = Perfect for holding various equipment for medical emergencies.
 
-ent-ClothingBeltPlant = botanical belt
-    .desc = A belt used to hold most hydroponics supplies. Suprisingly, not green.
+ent-ClothingBeltPlant = ботанічний ремінь
+    .desc = Ремінь, що може тримати в собі більшість речей ботаників. Неочікувано не зелений.
 
-ent-ClothingBeltChef = chef belt
-    .desc = A belt used to hold kitchen knives and condiments for quick access.
+ent-ClothingBeltChef = ремінь кухаря
+    .desc = Ремінь, що може тримати в собі ножі й приправи.
 
-ent-ClothingBeltSecurity = security belt
-    .desc = Can hold security gear like handcuffs and flashes.
+ent-ClothingBeltSecurity = ремінь офіцера
+    .desc = Може тримати в собі інструменти офіцерів безпеки.
 
 ent-ClothingBeltSheath = sabre sheath
     .desc = An ornate sheath designed to hold an officer's blade.
@@ -60,4 +60,3 @@ ent-ClothingBeltSuspenders = suspenders
 
 ent-ClothingBeltWand = wand belt
     .desc = A belt designed to hold various rods of power. A veritable fanny pack of exotic magic.
-

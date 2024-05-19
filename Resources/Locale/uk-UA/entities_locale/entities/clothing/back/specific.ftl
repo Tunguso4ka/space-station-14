@@ -1,7 +1,6 @@
-ent-ClothingBackpackChameleon = backpack
-    .desc = You wear this on your back and put items into it.
-    .suffix = Chameleon
+ent-ClothingBackpackChameleon = рюкзак
+    .desc = Ти тягаєш це у себе на спині та кладеш туди речі.
+    .suffix = Гамелеон
 
-ent-ClothingBackpackWaterTank = backpack water tank
-    .desc = Holds a large amount of fluids. Supplies to spray nozzles in your hands.
-
+ent-ClothingBackpackWaterTank = рюкзак-балон з водою
+    .desc = Тримає в собі великі об'єми рідин. Під'єднаний до шлангу.
