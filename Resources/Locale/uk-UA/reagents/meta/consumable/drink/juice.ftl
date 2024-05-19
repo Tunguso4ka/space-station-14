@@ -1,38 +1,38 @@
-reagent-name-juice-apple = apple juice
-reagent-desc-juice-apple = It's a little piece of Eden.
+reagent-name-juice-apple = яблучний сік
+reagent-desc-juice-apple = Маленька частинка Едему.
 
-reagent-name-juice-banana = banana juice
-reagent-desc-juice-banana = The raw essence of a banana. HONK.
+reagent-name-juice-banana = банановий сік
+reagent-desc-juice-banana = Чиста есенція банану. Хонк.
 
-reagent-name-juice-berry = berry juice
-reagent-desc-juice-berry = A delicious blend of several different kinds of berries.
+reagent-name-juice-berry = ягідний сік
+reagent-desc-juice-berry = Смачна змісь декільких видів ягід.
 
-reagent-name-juice-berry-poison = poison berry juice
+reagent-name-juice-berry-poison = отруєний ягідний сік
 reagent-desc-juice-berry-poison = A surprisingly tasty juice blended from various kinds of very deadly and toxic berries.
 
-reagent-name-juice-carrot = carrot juice
+reagent-name-juice-carrot = морквяний сік
 reagent-desc-juice-carrot = It's like a carrot, but less crunchy.
 
-reagent-name-juice-grape = grape juice
+reagent-name-juice-grape = виноградній сік
 reagent-desc-juice-grape = Freshly squeezed juice from red grapes. Quite sweet.
 
-reagent-name-juice-lemon = lemon juice
+reagent-name-juice-lemon = лемоний сік
 reagent-desc-juice-lemon = This juice is VERY sour.
 
-reagent-name-juice-lime = lime juice
+reagent-name-juice-lime = лаймовий сік
 reagent-desc-juice-lime = The sweet-sour juice of limes.
 
-reagent-name-juice-orange = orange juice
+reagent-name-juice-orange = апельсиновий сік
 reagent-desc-juice-orange = Both delicious AND rich in Vitamin C. What more do you need?
 
-reagent-name-juice-pineapple = pineapple juice
-reagent-desc-juice-pineapple = The delicious juice of a pineapple.
+reagent-name-juice-pineapple = ананасовий сік
+reagent-desc-juice-pineapple = Смачний сік із ананаса.
 
-reagent-name-juice-potato = potato juice
-reagent-desc-juice-potato = Juice of the potato. Bleh.
+reagent-name-juice-potato = картопляний сік
+reagent-desc-juice-potato = Сік з картоплі. Бвє.
 
-reagent-name-juice-tomato = tomato juice
-reagent-desc-juice-tomato = Tomatoes made into juice. What a waste of good tomatoes, huh?
+reagent-name-juice-tomato = томатний сік
+reagent-desc-juice-tomato = Томати перероблені в сік. Яка ж витрата томатів..
 
-reagent-name-juice-watermelon = water melon juice
-reagent-desc-juice-watermelon = The delicious juice of a watermelon.
+reagent-name-juice-watermelon = кавуневий сік
+reagent-desc-juice-watermelon = Смачнющий сік із кавуна.

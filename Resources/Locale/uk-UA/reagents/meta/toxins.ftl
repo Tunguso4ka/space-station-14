@@ -1,7 +1,7 @@
-reagent-name-toxin = toxin
+reagent-name-toxin = токсин
 reagent-desc-toxin = An unsurprisingly toxic chemical. Available at an emagged chem dispenser.
 
-reagent-name-carpotoxin = carpotoxin
+reagent-name-carpotoxin = коропотоксин
 reagent-desc-carpotoxin = A highly toxic reagent found in space carps. Causes a painful burning sensation.
 
 reagent-name-mold = mold
@@ -10,7 +10,7 @@ reagent-desc-mold = A fungal growth, often found in dark, humid places or on exp
 reagent-name-polytrinic-acid = polytrinic acid
 reagent-desc-polytrinic-acid = An extremely corrosive chemical substance. Severely burns anyone who comes directly into contact with it.
 
-reagent-name-chloral-hydrate = chloral hydrate
+reagent-name-chloral-hydrate = хлорогідрат
 reagent-desc-chloral-hydrate = A sedative and hypnotic chemical. Commonly used to put other people to sleep, whether they want to or not.
 
 reagent-name-gastrotoxin = gastrotoxin
@@ -22,34 +22,34 @@ reagent-desc-ferrochromic-acid = A mildy corrosive solution, unable of causing s
 reagent-name-fluorosulfuric-acid = fluorosulfuric acid
 reagent-desc-fluorosulfuric-acid = A highly corrosive chemical, capable of leaving quite a mark on your skin.
 
-reagent-name-sulfuric-acid = sulfuric acid
+reagent-name-sulfuric-acid = сульфурна кислота
 reagent-desc-sulfuric-acid = A corrosive chemical. Keep away from your face.
 
-reagent-name-unstable-mutagen = unstable mutagen
+reagent-name-unstable-mutagen = нестабільний мутаген
 reagent-desc-unstable-mutagen = Causes mutations when injected into living people or plants. High doses may be lethal, especially in humans.
 
 reagent-name-heartbreaker-toxin = heartbreaker toxin
 reagent-desc-heartbreaker-toxin = A hallucinogenic compound derived from mindbreaker toxin. it blocks neurological signals to the respiratory system, causing asphyxiation. Dexalin plus and epinephrine will filter it out, however.
 
-reagent-name-lexorin = lexorin
+reagent-name-lexorin = лексорин
 reagent-desc-lexorin = A fast-acting chemical used to asphyxiate people rapidly.
 
 reagent-name-mindbreaker-toxin = mindbreaker toxin
 reagent-desc-mindbreaker-toxin = A potent hallucinogenic compound that is formerly known as LSD.
 
-reagent-name-histamine = histamine
+reagent-name-histamine = гистамин
 reagent-desc-histamine = A chemical caused by allergenics reacting with antibodies. Lethal at large quantities.
 
-reagent-name-theobromine = theobromine
+reagent-name-theobromine = теобромин
 reagent-desc-theobromine = A bitter alkaloid of the cacao plant, commonly found in chocolate. Do not feed to animals.
 
-reagent-name-amatoxin = amatoxin
+reagent-name-amatoxin = аматоксин
 reagent-desc-amatoxin = A deadly toxin found in some mushrooms, primarily fly amanita. Small dosages can be lethal.
 
 reagent-name-vent-crud = vent crud
 reagent-desc-vent-crud = A jet black substance found in poorly maintained ventilation systems. Can cause vent cough.
 
-reagent-name-romerol = romerol
+reagent-name-romerol = ромерол
 reagent-desc-romerol = An otherworldly concoction able to bring the undead to life. If untreated, the effects are irreversible and will bring certain doom upon the station. Handle with care.
 
 reagent-name-uncooked-animal-proteins = uncooked animal proteins
@@ -58,23 +58,23 @@ reagent-desc-uncooked-animal-proteins = This is very risky for the stomachs of s
 reagent-name-allicin = allicin
 reagent-desc-allicin = An organosulfur compound found in alliums like garlic, onions, and related plants.
 
-reagent-name-pax = pax
+reagent-name-pax = пакс
 reagent-desc-pax = A psychiatric chemical which prevents the patient from directly harming anyone.
 
-reagent-name-honk = honk
+reagent-name-honk = хонк
 reagent-desc-honk = A toxin found in bananium. Causes severe honking and internal bleeding, may also cause the patient to mutate.
 
-reagent-name-lead = lead
+reagent-name-lead = свинець
 reagent-desc-lead = A slow-acting but incredibly lethal toxin found in steel, albiet in trace amounts. Tasteless.
 
-reagent-name-bungotoxin = bungotoxin
+reagent-name-bungotoxin = банготоксин
 reagent-desc-bungotoxin = A moderately slow-acting poison found within the pit of the bungo fruit.
 
-reagent-name-vestine = vestine
+reagent-name-vestine = вестин
 reagent-desc-vestine = Has an adverse reaction within the body causing major jittering. While not particularly useful on it's own, it can be used to produce a small variety of chemicals.
 
-reagent-name-tazinide = tazinide
+reagent-name-tazinide = тазинид
 reagent-desc-tazinide = A highly dangerous metallic mixture which can interfere with most movement through an electrifying current.
 
-reagent-name-lipolicide = lipolicide
+reagent-name-lipolicide = ліполіксид
 reagent-desc-lipolicide = A powerful toxin that will destroy fat cells, massively reducing body weight in a short time. Deadly to those without nutriment in their body.
