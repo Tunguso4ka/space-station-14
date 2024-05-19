@@ -1,1 +1,1 @@
-﻿item-status-not-held = Нема тримаємої речі
+﻿item-status-not-held = Нічого
