@@ -1,5 +1,5 @@
-ent-PottedPlantBase = potted plant
-    .desc = A little bit of nature contained in a pot.
+ent-PottedPlantBase = рослина в горщику
+    .desc = Схована в горщику крапелька природи.
 
 ent-PottedPlant0 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
@@ -28,11 +28,11 @@ ent-PottedPlant7 = { ent-PottedPlantBase }
 ent-PottedPlant8 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
 
-ent-PottedPlantBioluminscent = bioluminescent potted plant
-    .desc = It produces light!
+ent-PottedPlantBioluminscent = біолюмісцентна рослина в горщику
+    .desc = Воно робить світло!
 
 ent-PottedPlant10 = { ent-PottedPlantBase }
-    .desc = A pretty piece of nature contained in a pot.
+    .desc = Чудова крапелька природи, що схована в горщику.
 
 ent-PottedPlant11 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
@@ -76,14 +76,14 @@ ent-PottedPlant23 = { ent-PottedPlantBase }
 ent-PottedPlant24 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
 
-ent-PottedPlantRD = RD's potted plant
-    .desc = A gift from the botanical staff, presented after the RD's reassignment. There's a tag on it that says \"Y'all come back now, y'hear?\"\nIt doesn't look very healthy...
+ent-PottedPlantRD = рослина НД в горщику
+    .desc = Подарунок від персоналу ботаніки, подарований після переназначення НД. На ньому є ярличок з написом "Ви ж повернетеся за ним?". Не виглядає здоровою.
 
 ent-PottedPlant26 = { ent-PottedPlantBase }
-    .desc = Is it just me, or is it blinking?
+    .desc = Це щось зі мною, чи вона блимкає?..
 
-ent-PottedPlant27 = plastic potted plant
-    .desc = A fake, cheap looking, plastic tree. Perfect for people who kill every plant they touch.
+ent-PottedPlant27 = пластикова рослина в горщику
+    .desc = Несправжнє, дешево виглядаюче, пластикове дерево. Чудовий вибір для тих хто вбиває кожну рослину до якої вони доторкаються.
 
 ent-PottedPlant28 = { ent-PottedPlant27 }
     .desc = { ent-PottedPlant27.desc }
@@ -93,4 +93,3 @@ ent-PottedPlant29 = { ent-PottedPlant27 }
 
 ent-PottedPlant30 = { ent-PottedPlant27 }
     .desc = { ent-PottedPlant27.desc }
-

@@ -1,3 +1,2 @@
-ent-StasisBed = stasis bed
-    .desc = A bed that massively slows down the patient's metabolism and prevents bodily decay, allowing more time to administer a proper treatment for stabilization.
-
+ent-StasisBed = стазіс ліжко
+    .desc = Ліжко яке сильно сповільнює метаболізм паціента й запобігає розкладанню тіла, даючі більше часу лікарям.

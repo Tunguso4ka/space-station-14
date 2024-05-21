@@ -1,6 +1,7 @@
-ent-Memorial = memorial
-    .desc = Commemorating something.
+ent-Memorial = меморіал
+    .desc = Нагадує щось.
 
-ent-SS13Memorial = Tomb of the Unknown Employee
-    .desc = |
-
+ent-SS13Memorial = Могила невідомого працівника
+    .desc = Тут лежить невідомий співробітник.
+            Чиє ім'я чи звання невідоме нам
+            Чиї вчинки ніколи не будуть забути.

@@ -1,3 +1,2 @@
-ent-TeslaGenerator = tesla generator
-    .desc = An Odd Device which produces a powerful Tesla ball when set up.
-
+ent-TeslaGenerator = генератор тесли
+    .desc = Дивний пристірй що може створити сильний шар Тесли.

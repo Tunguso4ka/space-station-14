@@ -1,8 +1,7 @@
 ent-BaseEnergyBall = ця сутність не має назви
 
-ent-TeslaEnergyBall = ball lightning
-    .desc = A giant ball of pure energy. The space around it is humming and melting.
+ent-TeslaEnergyBall = шарова блискавка
+    .desc = Великий шар чистої енергії. Простір навколо її дзижчить та тане.
 
-ent-TeslaMiniEnergyBall = mini ball lightning
-    .desc = The cub of a destructive energy cage. Not as dangerous, but still not worth touching with bare hands.
-
+ent-TeslaMiniEnergyBall = маленька шарова блискавка
+    .desc = Дитинча руйнівної енергії. Не так небезпечна як мама, але її все одно не варто лапати.

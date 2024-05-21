@@ -1,4 +1,3 @@
-ent-ClosetCursed = closet
-    .desc = A standard-issue Nanotrasen storage unit.
+ent-ClosetCursed = шафа
+    .desc = Стандартний пристрій зберігання НаноТрайзен.
     .suffix = cursed
-

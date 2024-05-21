@@ -1,27 +1,27 @@
 ent-ClosetTool =  шафа інструментів
-    .desc = It's a storage unit for tools.
+    .desc = Пристрій зберігання інструментів.
 
 ent-ClosetRadiationSuit = шафа радіозахисного костюму
-    .desc = More comfortable than radiation poisioning.
+    .desc = Комфортніше за радіоактивне отруєння.
 
 ent-ClosetEmergency = аварійна шафа
-    .desc = It's a storage unit for emergency breath masks and O2 tanks.
+    .desc = Пристрій зберігання для аварійних масок та балонів з киснем.
 
 ent-ClosetEmergencyN2 = аварійна шафа з азотом
-    .desc = It's full of life-saving equipment. Assuming, that is, that you breathe nitrogen.
+    .desc = Повний спорядження для рятування життя. Але тільки ящко ви дихаєте азотом.
 
 ent-ClosetFire = протипожежна шафа
-    .desc = It's a storage unit for fire-fighting supplies.
+    .desc = Пристрій зберігання для протипожежного спорядження.
 
 ent-ClosetBomb = шафа EOD
-    .desc = It's a storage unit for explosion-protective suits.
+    .desc = Пристрій зберігання для вибухостійких костюмів.
 
 ent-ClosetJanitorBomb = шафа з вибухозасним костюмом прибиральника
-    .desc = It's a storage unit for janitorial explosion-protective suits.
+    .desc = Пристрій зберігання для вибухостійких костюмів прибиральника.
     .suffix = DO NOT MAP
 
 ent-ClosetL3 = шафа біозахичного костюму 3 рівня
-    .desc = It's a storage unit for level 3 biohazard gear.
+    .desc = Пристрій зберігання для спорядження біологічного захисту 3 рівня.
 
 ent-ClosetL3Virology = { ent-ClosetL3 }
     .desc = { ent-ClosetL3.desc }
@@ -33,16 +33,16 @@ ent-ClosetL3Janitor = { ent-ClosetL3 }
     .desc = { ent-ClosetL3.desc }
 
 ent-ClosetMaintenance = технічна шафа
-    .desc = It's a storage unit.
+    .desc = Пристрій зберігання.
 
 ent-LockerSyndicate = шафа зброярні
-    .desc = It's a storage unit.
+    .desc = Пристрій зберігання.
 
 ent-ClosetBluespace = підозріла шафа
-    .desc = It's a storage unit... right?
-    .suffix = Bluespace
+    .desc = Пристрій зберігання... точно ж?
+    .suffix = Блюспейс
 
 ent-ClosetBluespaceUnstable = підозріла шафа
-    .desc = It's a storage unit... right?
-    .suffix = Bluespace unstable
+    .desc = Пристрій зберігання... точно ж?
+    .suffix = Блюспейс нестабільна
 

@@ -1,15 +1,14 @@
-ent-SolarPanelBasePhysSprite = solar panel
+ent-SolarPanelBasePhysSprite = сонячна панель
 
-ent-SolarPanel = solar panel
-    .desc = A solar panel that generates power.
+ent-SolarPanel = сонячна панель
+    .desc = Сонячна панель, що генерує струм.
 
-ent-SolarPanelBroken = solar panel
-    .desc = A broken solar panel.
+ent-SolarPanelBroken = сонячна панель
+    .desc = Зламана сонячна панель.
     .suffix = Broken
 
-ent-SolarAssembly = solar assembly
-    .desc = A solar assembly. Anchor to a wire to start building a solar panel.
+ent-SolarAssembly = сонячна збірка
+    .desc = Сонячна збірка. Пригвинтить до дрота, щоб розпочати зборку сонячної панелі.
 
-ent-SolarTracker = solar tracker
-    .desc = A solar tracker. Tracks the nearest star.
-
+ent-SolarTracker = сонячний трекер
+    .desc = Сонячний трекер. Слідкує за ближайшою зіркою.

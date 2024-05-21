@@ -1,10 +1,9 @@
-ent-AmeController = AME controller
-    .desc = It's a controller for the antimatter engine.
+ent-AmeController = регулятор АМД
+    .desc = Регулятор анти-матеріального двигуна.
 
 ent-AmeControllerUnanchored = { ent-AmeController }
     .desc = { ent-AmeController.desc }
-    .suffix = Unanchored
+    .suffix = Непригвинчений
 
-ent-AmeShielding = AME shielding
-    .desc = Keeps the antimatter in and the matter out.
-
+ent-AmeShielding = екранування АМД
+    .desc = Тримає антиматерію внутрі й матерію знаружи.

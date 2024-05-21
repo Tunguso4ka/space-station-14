@@ -1,3 +1,2 @@
-ent-SmartFridge = SmartFridge
-    .desc = A refrigerated storage unit for keeping items cold and fresh.
-
+ent-SmartFridge = Розумний Холодильник
+    .desc = Пристрій для зберігання речей холодними та свіжими.

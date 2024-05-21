@@ -1,7 +1,7 @@
-ent-BaseThruster = thruster
-    .desc = A thruster that allows a shuttle to move.
+ent-BaseThruster = рушійна установка
+    .desc = Рушійна установка що дозволяє шатлам рухатися.
 
-ent-Thruster = thruster
+ent-Thruster = рушійна установка
     .desc = { ent-BaseThruster.desc }
 
 ent-ThrusterUnanchored = { ent-Thruster }
@@ -10,10 +10,10 @@ ent-ThrusterUnanchored = { ent-Thruster }
 
 ent-DebugThruster = { ent-BaseThruster }
     .desc = { ent-BaseThruster.desc }
-    .suffix = DEBUG
+    .suffix = ВІДЛАДКА
 
-ent-Gyroscope = gyroscope
-    .desc = Increases the shuttle's potential angular rotation.
+ent-Gyroscope = гироскоп
+    .desc = Збільшує потенціал кутового оберту шатлів.
 
 ent-GyroscopeUnanchored = { ent-Gyroscope }
     .desc = { ent-Gyroscope.desc }
@@ -21,5 +21,4 @@ ent-GyroscopeUnanchored = { ent-Gyroscope }
 
 ent-DebugGyroscope = { ent-BaseThruster }
     .desc = { ent-BaseThruster.desc }
-    .suffix = DEBUG
-
+    .suffix = ВІДЛАДКА

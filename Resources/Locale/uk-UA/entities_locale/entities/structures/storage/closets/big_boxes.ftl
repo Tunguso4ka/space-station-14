@@ -1,14 +1,12 @@
-ent-BaseBigBox = cardboard box
-    .desc = Huh? Just a box...
+ent-BaseBigBox = картона короюка
+    .desc = Га? Просто короюка...
 
 ent-StealthBox = { ent-BaseBigBox }
-    .desc = Kept ya waiting, huh?
+    .desc = Вам на розум приходить фраза "Kept ya waiting, huh?", щоб вона значила?..
     .suffix = stealth
 
 ent-BigBox = { ent-BaseBigBox }
     .desc = { ent-BaseBigBox.desc }
 
-ent-GhostBox = ghost box
-    .desc = Beware!
-    .suffix = ""
-
+ent-GhostBox = коробка привідів
+    .desc = Бережись!

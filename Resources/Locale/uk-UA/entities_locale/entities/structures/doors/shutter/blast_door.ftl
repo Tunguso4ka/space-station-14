@@ -1,10 +1,9 @@
-ent-BlastDoor = blast door
-    .desc = This one says 'BLAST DONGER'.
+ent-BlastDoor = вибухостійки двері
+    .desc = На цих написано 'НЕБЕЗПЕКА ВИБОХА'.
 
 ent-BlastDoorOpen = { ent-BlastDoor }
     .desc = { ent-BlastDoor.desc }
-    .suffix = Open
+    .suffix = Відкриті
 
-ent-BlastDoorFrame = blast door frame
-    .desc = This one says 'BLAST DONGER'.
-
+ent-BlastDoorFrame = рамка вибухостійких дверей
+    .desc = На цих написано 'НЕБЕЗПЕКА ВИБОХА'.

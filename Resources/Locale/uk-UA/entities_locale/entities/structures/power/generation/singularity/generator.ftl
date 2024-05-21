@@ -1,3 +1,2 @@
-ent-SingularityGenerator = gravitational singularity generator
-    .desc = An Odd Device which produces a Gravitational Singularity when set up.
-
+ent-SingularityGenerator = генератор сінгулярності
+    .desc = Дивний пристрій що генерує сінгулярність.

@@ -1,27 +1,26 @@
-ent-SurveillanceWirelessCameraBase = wireless camera
-    .desc = A camera. It's watching you. Kinda.
+ent-SurveillanceWirelessCameraBase = бездротова камера
+    .desc = Камера. Вона слідкує за тобою. В якомусь сенсі.
 
 ent-SurveillanceWirelessCameraAnchoredBase = { ent-SurveillanceWirelessCameraBase }
     .desc = { ent-SurveillanceWirelessCameraBase.desc }
-    .suffix = Anchored
+    .suffix = Пригвинчена
 
 ent-SurveillanceWirelessCameraMovableBase = { ent-SurveillanceWirelessCameraBase }
     .desc = { ent-SurveillanceWirelessCameraBase.desc }
-    .suffix = Movable
+    .suffix = Рухома
 
 ent-SurveillanceWirelessCameraAnchoredConstructed = { ent-SurveillanceWirelessCameraAnchoredBase }
     .desc = { ent-SurveillanceWirelessCameraAnchoredBase.desc }
-    .suffix = Constructed, Anchored
+    .suffix = Зібрана, Пригвинчена
 
 ent-SurveillanceWirelessCameraMovableConstructed = { ent-SurveillanceWirelessCameraMovableBase }
     .desc = { ent-SurveillanceWirelessCameraMovableBase.desc }
-    .suffix = Constructed, Movable
+    .suffix = Зібрана, Рухома
 
 ent-SurveillanceWirelessCameraAnchoredEntertainment = { ent-SurveillanceWirelessCameraAnchoredBase }
     .desc = { ent-SurveillanceWirelessCameraAnchoredBase.desc }
-    .suffix = Entertainment, Anchored
+    .suffix = Розвага, Пригвинчена
 
 ent-SurveillanceWirelessCameraMovableEntertainment = { ent-SurveillanceWirelessCameraMovableBase }
     .desc = { ent-SurveillanceWirelessCameraMovableBase.desc }
-    .suffix = Entertainment, Movable
-
+    .suffix = Розвага, Рухома

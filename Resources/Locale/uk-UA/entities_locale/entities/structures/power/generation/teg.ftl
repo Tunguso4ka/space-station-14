@@ -1,8 +1,7 @@
-ent-TegCenter = thermo-electric generator
-    .desc = A high efficiency generator that uses energy transfer between hot and cold gases to produce electricity.
+ent-TegCenter = термо-електричний генератор
+    .desc = Високоефектівний генератор, що використовує різницю енергічного обміну між горячими та холодними газами щоб виробляти струм.
 
-ent-TegCirculator = circulator
-    .desc = Passes gas through the thermo-electric generator to exchange heat. Has an inlet and outlet port.
+ent-TegCirculator = ціркулятор
+    .desc = Пропускає газ скрізь термо-електричний генератор для обміну тепла. Має вхід та вихід.
 
 ent-TegCirculatorArrow = ця сутність не має назви
-

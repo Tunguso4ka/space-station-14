@@ -1,27 +1,26 @@
-ent-BaseShutter = shutter
-    .desc = One shudders to think about what might be behind this shutter.
+ent-BaseShutter = жалюзі
+    .desc = Ви втрачаєтеся в думках о тому, що ховається за ними.
 
 ent-ShuttersNormal = { ent-BaseShutter }
     .desc = { ent-BaseShutter.desc }
 
 ent-ShuttersNormalOpen = { ent-ShuttersNormal }
     .desc = { ent-ShuttersNormal.desc }
-    .suffix = Open
+    .suffix = Відкриті
 
-ent-ShuttersRadiation = radiation shutters
-    .desc = Why did they make these shutters radioactive?
+ent-ShuttersRadiation = радіозахісні жалюзі
+    .desc = Ці жалюзі, навідмину від вас, радіозахісні.
 
 ent-ShuttersRadiationOpen = { ent-ShuttersRadiation }
     .desc = { ent-ShuttersRadiation.desc }
-    .suffix = Open
+    .suffix = Відкриті
 
-ent-ShuttersWindow = window shutters
-    .desc = The Best (TM) place to see your friends explode!
+ent-ShuttersWindow = жалюзі з віконцем
+    .desc = Найкраще місце з якого можна побачити страждання ваших друзів!
 
 ent-ShuttersWindowOpen = { ent-ShuttersWindow }
     .desc = { ent-ShuttersWindow.desc }
-    .suffix = Open
+    .suffix = Відкриті
 
-ent-ShuttersFrame = shutter frame
-    .desc = A frame for constructing a shutter.
-
+ent-ShuttersFrame = рамка жалюзі
+    .desc = Рамка для збірки жалюзі..

@@ -1,3 +1,2 @@
-ent-Bookshelf = bookshelf
-    .desc = Mostly filled with books.
-
+ent-Bookshelf = книжкова полиця
+    .desc = Зазвичай на ній книги.

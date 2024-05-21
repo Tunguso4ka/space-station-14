@@ -1,6 +1,6 @@
-ent-PaperBin = paper bin
-    .desc = What secrets lie at the bottom of its endless stack?
-    .suffix = Empty
+ent-PaperBin = коробка папіру
+    .desc = Які секрети ховає в собі низ цієї коробки?
+    .suffix = Порожня
 
 ent-PaperBin5 = { ent-PaperBin }
     .desc = { ent-PaperBin.desc }
@@ -13,4 +13,3 @@ ent-PaperBin10 = { ent-PaperBin }
 ent-PaperBin20 = { ent-PaperBin }
     .desc = { ent-PaperBin.desc }
     .suffix = 20
-

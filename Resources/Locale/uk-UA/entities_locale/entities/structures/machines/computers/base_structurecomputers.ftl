@@ -1,3 +1,2 @@
-ent-BaseComputer = computer
+ent-BaseComputer = комп'ютер
     .desc = { ent-BaseStructureComputer.desc }
-

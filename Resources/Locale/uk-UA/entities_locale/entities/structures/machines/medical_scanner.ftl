@@ -1,3 +1,2 @@
-ent-MedicalScanner = medical scanner
-    .desc = A bulky medical scanner.
-
+ent-MedicalScanner = медічний сканер
+    .desc = Тяжкий медічний сканер.

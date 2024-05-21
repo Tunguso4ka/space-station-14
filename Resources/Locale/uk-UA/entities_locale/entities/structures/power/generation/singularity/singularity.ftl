@@ -1,3 +1,2 @@
-ent-Singularity = gravitational singularity
-    .desc = A mesmerizing swirl of darkness that sucks in everything. If it's moving towards you, run.
-
+ent-Singularity = сінгулярність
+    .desc = Заворажуючий вихор темноти що всмоктує в себе все й вся. Якщо вона рухається на тебе - біжи.

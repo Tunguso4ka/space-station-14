@@ -1,7 +1,6 @@
-ent-ParticleAcceleratorFuelChamber = PA fuel chamber
-    .desc = Formally known as the EM Acceleration Chamber. This is where the Alpha particles are accelerated to radical speeds.
+ent-ParticleAcceleratorFuelChamber = паливна камера ПЧ
+    .desc = Формально відома як ЕМ Прискорювальна Камера. В неї Альфа частинки прискорюються до неймовірних швидкостей.
 
-ent-ParticleAcceleratorFuelChamberUnfinished = PA fuel chamber
-    .desc = Formally known as the EM Acceleration Chamber. This is where the Alpha particles are accelerated to radical speeds. It looks unfinished.
-    .suffix = Unfinished
-
+ent-ParticleAcceleratorFuelChamberUnfinished = паливна камера ПЧ
+    .desc = Формально відома як ЕМ Прискорювальна Камера. В неї Альфа частинки прискорюються до неймовірних швидкостей. Виглядає незакінченою.
+    .suffix = Незакінчена

@@ -1,38 +1,45 @@
-ent-CarpetBase = { ent-BaseStructure }
-    .desc = Fancy walking surface.
+ent-CarpetBase = килим
+    .desc = Вишукана поверхня.
 
-ent-Carpet = red carpet
+ent-Carpet = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Червоний
 
-ent-CarpetBlack = black carpet
+ent-CarpetBlack = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Чорний
 
-ent-CarpetPink = pink carpet
+ent-CarpetPink = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Рожевий
 
-ent-CarpetBlue = blue carpet
+ent-CarpetBlue = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Синій
 
-ent-CarpetGreen = green carpet
+ent-CarpetGreen = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Зелений
 
-ent-CarpetOrange = orange carpet
+ent-CarpetOrange = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Оранжевий
 
-ent-CarpetSBlue = skyblue carpet
+ent-CarpetSBlue = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Небісний
 
-ent-CarpetPurple = purple carpet
+ent-CarpetPurple = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
+    .suffix = Фіолетовий
 
 ent-CarpetCyan = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
-    .suffix = Cyan
+    .suffix = Блакитний
 
 ent-CarpetWhite = { ent-CarpetBase }
     .desc = { ent-CarpetBase.desc }
-    .suffix = White
+    .suffix = Білий
 
-ent-CarpetChapel = chapel's carpet
+ent-CarpetChapel = килим церкви
     .desc = { ent-BaseStructure.desc }
-
