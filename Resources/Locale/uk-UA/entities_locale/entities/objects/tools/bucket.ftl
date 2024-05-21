@@ -1,3 +1,2 @@
-ent-Bucket = bucket
-    .desc = It's a boring old bucket.
-
+ent-Bucket = відро
+    .desc = Старе та нудне відро.

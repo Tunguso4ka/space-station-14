@@ -1,47 +1,47 @@
 ent-SheetOtherBase = { ent-BaseItem }
-    .desc = A sheet of material, used often on the station in various applications.
+    .desc = Лист матеріалу. Використовується багато де на станції.
 
-ent-SheetPaper = paper
+ent-SheetPaper = папір
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
-ent-SheetPaper1 = paper
+ent-SheetPaper1 = { ent-SheetPaper }
     .desc = { ent-SheetPaper.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetPlasma = plasma
+ent-SheetPlasma = плазма
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
-ent-SheetPlasma1 = plasma
+ent-SheetPlasma1 = { ent-SheetPlasma }
     .desc = { ent-SheetPlasma.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetPlastic = plastic
+ent-SheetPlastic = пластик
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
-ent-SheetPlastic10 = plastic
+ent-SheetPlastic10 = { ent-SheetPlastic }
     .desc = { ent-SheetPlastic.desc }
     .suffix = 10
 
-ent-SheetPlastic1 = plastic
+ent-SheetPlastic1 = { ent-SheetPlastic }
     .desc = { ent-SheetPlastic.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetUranium = uranium
+ent-SheetUranium = уран
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
-ent-SheetUranium1 = uranium
+ent-SheetUranium1 = { ent-SheetUranium }
     .desc = { ent-SheetUranium.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-MaterialSheetMeat = meat sheet
+ent-MaterialSheetMeat = м'ясний лист
     .desc = { ent-SheetOtherBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-MaterialSheetMeat1 = { ent-MaterialSheetMeat }
     .desc = { ent-MaterialSheetMeat.desc }
-    .suffix = Single
+    .suffix = Один
 

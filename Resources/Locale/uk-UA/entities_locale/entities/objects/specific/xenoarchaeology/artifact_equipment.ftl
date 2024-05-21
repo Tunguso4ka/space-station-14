@@ -1,3 +1,2 @@
-ent-CrateArtifactContainer = artifact container
-    .desc = Used to safely contain and move artifacts.
-
+ent-CrateArtifactContainer = контейнер артефактів
+    .desc = Використовується для зберігання для пересування артефактів.

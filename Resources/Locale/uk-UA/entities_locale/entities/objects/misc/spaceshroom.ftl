@@ -1,10 +1,9 @@
-ent-Spaceshroom = spaceshroom
-    .desc = A cluster of wild mushrooms that likes to grow in dark, moist environments.
-    .suffix = Structure
+ent-Spaceshroom = космогриб
+    .desc = Кластер диких грибів, що полюбляє рости в темному та вологому середовіщу
+    .suffix = Структура
 
-ent-FoodSpaceshroom = spaceshroom
-    .desc = A wild mushroom. There's no telling what effect it could have...
+ent-FoodSpaceshroom = космогриб
+    .desc = Дикий гриб. Ніхто не знає якіми будуть наслідки якщо ви його з'їсте...
 
-ent-FoodSpaceshroomCooked = cooked spaceshroom
-    .desc = A wild mushroom that has been cooked through. It seems the heat has removed its chemical effects.
-
+ent-FoodSpaceshroomCooked = жарений космогриб
+    .desc = Дикий та пожарений гриб. Всі ефекти були прибрані з нього.

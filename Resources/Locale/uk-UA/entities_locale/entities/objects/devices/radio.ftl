@@ -1,6 +1,5 @@
-ent-RadioHandheld = handheld radio
-    .desc = A handy handheld radio.
+ent-RadioHandheld = ручна рація
+    .desc = Зручна ручна рація.
 
-ent-RadioHandheldSecurity = security radio
-    .desc = A handy security radio.
-
+ent-RadioHandheldSecurity = рація охорони
+    .desc = Зручна ручна рація охорони.

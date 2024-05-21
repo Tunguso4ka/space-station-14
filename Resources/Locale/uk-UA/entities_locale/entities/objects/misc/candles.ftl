@@ -1,70 +1,69 @@
-ent-Candle = candle
-    .desc = A thin wick threaded through fat.
+ent-Candle = свічка
+    .desc = Тонка ниточка протягнута скрізь воск.
 
-ent-CandleRed = red candle
+ent-CandleRed = червона свічка
     .desc = { ent-Candle.desc }
 
-ent-CandleBlue = blue candle
+ent-CandleBlue = синя свічка
     .desc = { ent-Candle.desc }
 
-ent-CandleBlack = black candle
+ent-CandleBlack = чорна свічка
     .desc = { ent-Candle.desc }
 
-ent-CandleGreen = green candle
+ent-CandleGreen = зелена свічка
     .desc = { ent-Candle.desc }
 
-ent-CandlePurple = purple candle
+ent-CandlePurple = фіолетова свічка
     .desc = { ent-Candle.desc }
 
-ent-CandleSmall = small candle
+ent-CandleSmall = маленька свічка
     .desc = { ent-Candle.desc }
 
-ent-CandleRedSmall = small red candle
+ent-CandleRedSmall = маленька червона свічка
     .desc = { ent-CandleSmall.desc }
 
-ent-CandleBlueSmall = small blue candle
+ent-CandleBlueSmall = маленька синя свічка
     .desc = { ent-CandleSmall.desc }
 
-ent-CandleBlackSmall = small black candle
+ent-CandleBlackSmall = маленька чорна свічка
     .desc = { ent-CandleSmall.desc }
 
-ent-CandleGreenSmall = small green candle
+ent-CandleGreenSmall = маленька зелена свічка
     .desc = { ent-CandleSmall.desc }
 
-ent-CandlePurpleSmall = small purple candle
+ent-CandlePurpleSmall = маленька фіолетова свічка
     .desc = { ent-CandleSmall.desc }
 
-ent-CandleInfinite = magic candle
-    .desc = It's either magic or high tech, but this candle never goes out. On the other hand, its flame is quite cold.
-    .suffix = Decorative
+ent-CandleInfinite = магічна свічка
+    .desc = Або завдяки магії, або завдяки технологіям ця свічка ніколи не гасне. Але нажаль, її вогонь доволі холодний.
+    .suffix = Декоративна
 
-ent-CandleRedInfinite = magic red candle
+ent-CandleRedInfinite = магічна червона свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleBlueInfinite = magic blue candle
+ent-CandleBlueInfinite = магічна синя свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleBlackInfinite = magic black candle
+ent-CandleBlackInfinite = магічна чорна свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleGreenInfinite = magic green candle
+ent-CandleGreenInfinite = магічна зелена свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandlePurpleInfinite = magic purple candle
+ent-CandlePurpleInfinite = магічна фіолетова свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleRedSmallInfinite = small magic red candle
+ent-CandleRedSmallInfinite = маленька магічна червона свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleBlueSmallInfinite = small magic blue candle
+ent-CandleBlueSmallInfinite = маленька магічна синя свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleBlackSmallInfinite = small magic black candle
+ent-CandleBlackSmallInfinite = маленька магічна чорна свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandleGreenSmallInfinite = small magic green candle
+ent-CandleGreenSmallInfinite = маленька магічна зелена свічка
     .desc = { ent-CandleInfinite.desc }
 
-ent-CandlePurpleSmallInfinite = small magic purple candle
+ent-CandlePurpleSmallInfinite = маленька магічна фіолетова свічка
     .desc = { ent-CandleInfinite.desc }
-

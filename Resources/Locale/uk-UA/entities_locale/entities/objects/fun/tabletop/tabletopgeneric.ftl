@@ -1,21 +1,20 @@
 ent-BaseGenericTabletopPiece = { ent-BaseTabletopPiece }
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-RedTabletopPiece = red piece
+ent-RedTabletopPiece = червона фігурка
     .desc = { ent-BaseGenericTabletopPiece.desc }
 
-ent-GreenTabletopPiece = green piece
+ent-GreenTabletopPiece = зелена фігурка
     .desc = { ent-BaseGenericTabletopPiece.desc }
 
-ent-YellowTabletopPiece = yellow piece
+ent-YellowTabletopPiece = жовта фігурка
     .desc = { ent-BaseGenericTabletopPiece.desc }
 
-ent-BlueTabletopPiece = blue piece
+ent-BlueTabletopPiece = синя фігурка
     .desc = { ent-BaseGenericTabletopPiece.desc }
 
-ent-WhiteTabletopPiece = white piece
+ent-WhiteTabletopPiece = біла фігурка
     .desc = { ent-BaseGenericTabletopPiece.desc }
 
-ent-BlackTabletopPiece = black piece
+ent-BlackTabletopPiece = чорна фігурка
     .desc = { ent-BaseGenericTabletopPiece.desc }
-

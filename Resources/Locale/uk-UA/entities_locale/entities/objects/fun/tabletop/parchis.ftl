@@ -1,6 +1,5 @@
-ent-ParchisBoard = parchís board
+ent-ParchisBoard = дошка парчіс
     .desc = Cross and circle board game famous for destroying countless friendships.
 
-ent-ParchisBoardTabletop = parchís
+ent-ParchisBoardTabletop = парчіс
     .desc = { ent-BaseBoardTabletop.desc }
-

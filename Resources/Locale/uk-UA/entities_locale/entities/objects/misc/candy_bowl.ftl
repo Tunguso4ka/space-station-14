@@ -1,3 +1,2 @@
-ent-CandyBowl = candy bowl
-    .desc = Grab as much as you can fit in your pockets!
-
+ent-CandyBowl = міска цукерок
+    .desc = Хапай стільки скільки вміститься в кармашках.

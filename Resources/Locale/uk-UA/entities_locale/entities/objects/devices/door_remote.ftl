@@ -1,34 +1,33 @@
-ent-DoorRemoteDefault = door remote
-    .desc = A gadget which can open and bolt doors remotely.
+ent-DoorRemoteDefault = пульт від дверей
+    .desc = Пристрій завдяки якому ви можете відкривати або болтувати двері дистанційно.
 
-ent-DoorRemoteCommand = command door remote
+ent-DoorRemoteCommand = пульт від дверей командування
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteSecurity = security door remote
+ent-DoorRemoteSecurity = пульт від дверей охорони
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteArmory = armory door remote
+ent-DoorRemoteArmory = пульт від дверей зброярні
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteService = service door remote
+ent-DoorRemoteService = пульт від дверей сервісу
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteResearch = research door remote
+ent-DoorRemoteResearch = пульт від наукових дверей
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteCargo = cargo door remote
+ent-DoorRemoteCargo = пульт від дверей логістики
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteMedical = medical door remote
+ent-DoorRemoteMedical = пульт від медичних дверей
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteEngineering = engineering door remote
+ent-DoorRemoteEngineering = пульт від інженерних дверей
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteFirefight = fire-fighting door remote
-    .desc = A gadget which can open and bolt FireDoors remotely.
+ent-DoorRemoteFirefight = пульт від дверей пожарника
+    .desc = Пристрій завдяки якому ви можете відкривати або болтувати пожарні шлюзи дистанційно.
 
-ent-DoorRemoteAll = super door remote
+ent-DoorRemoteAll = супер пульт від дверей
     .desc = { ent-DoorRemoteDefault.desc }
-    .suffix = Admeme
-
+    .suffix = Адмеме

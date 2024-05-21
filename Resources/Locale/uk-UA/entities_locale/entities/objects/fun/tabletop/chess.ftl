@@ -1,42 +1,41 @@
-ent-ChessBoard = chessboard
-    .desc = A chessboard. Pieces included!
+ent-ChessBoard = шахи
+    .desc = Дошка шах. Разом з фігурками!
 
-ent-ChessBoardTabletop = chessboard
+ent-ChessBoardTabletop = шахівниця
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-WhiteKing = white king
+ent-WhiteKing = білий король
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-WhiteQueen = white queen
+ent-WhiteQueen = біла королева
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-WhiteRook = white rook
+ent-WhiteRook = білий тура
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-WhiteBishop = white bishop
+ent-WhiteBishop = білий слон
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-WhiteKnight = white knight
+ent-WhiteKnight = білий кінь
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-WhitePawn = white pawn
+ent-WhitePawn = білий пішак
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-BlackKing = black king
+ent-BlackKing = чорний король
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-BlackQueen = black queen
+ent-BlackQueen = чорна королева
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-BlackRook = black rook
+ent-BlackRook = чорний тура
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-BlackBishop = black bishop
+ent-BlackBishop = чорний слон
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-BlackKnight = black knight
+ent-BlackKnight = чорний кінь
     .desc = { ent-BaseTabletopPiece.desc }
 
-ent-BlackPawn = black pawn
+ent-BlackPawn = чорний пішак
     .desc = { ent-BaseTabletopPiece.desc }
-

@@ -1,39 +1,38 @@
-ent-PianoInstrument = piano
+ent-PianoInstrument = піано
     .desc = Play Needles Piano Now.
 
-ent-UprightPianoInstrument = upright piano
-    .desc = I said Piannie!
+ent-UprightPianoInstrument = піаніно
+    .desc = А я кажу п'яніно!
 
-ent-VibraphoneInstrument = vibraphone
-    .desc = Good vibes all around.
+ent-VibraphoneInstrument = вібрафон
+    .desc = Хоч яксь гарна музика поряд.
 
-ent-MarimbaInstrument = marimba
+ent-MarimbaInstrument = маримба
     .desc = { ent-BasePlaceableInstrumentRotatable.desc }
 
-ent-ChurchOrganInstrument = church organ
-    .desc = This thing really blows!
+ent-ChurchOrganInstrument = орган
+    .desc = Ця штука реально дує!
 
-ent-TubaInstrument = tuba
-    .desc = The big daddy of the brass family. Standing next to its majesty makes you feel insecure.
+ent-TubaInstrument = туба
+    .desc = Великий тато всеї духової сім'ї. Ви відчуваєте себе в небезпеці стоячи поряд з ним.
 
-ent-HarpInstrument = harp
-    .desc = Plucking at the strings cuts your fingers, but at least the music is pretty.
+ent-HarpInstrument = арфа
+    .desc = Струни ріжуть ваши пальці, але музика того варта.
 
-ent-TimpaniInstrument = timpani
-    .desc = It goes BOOM BOOM BOOM BOOM!
+ent-TimpaniInstrument = литаври
+    .desc = Ця штукає робе БАЦ БАЦ БАЦ БАЦ!
 
-ent-TaikoInstrument = taiko
-    .desc = A large drum. Looking at it fills you with the urge to slap it.
+ent-TaikoInstrument = тайко
+    .desc = Великий барабан. Один тільки погляду на нього змушує вас стукнути по ньому.
 
-ent-ContrabassInstrument = contrabass
-    .desc = Perfect for laying down a nice jazzy beat.
+ent-ContrabassInstrument = контрабас
+    .desc = Чудовий для джазу.
 
 ent-MinimoogInstrument = minimoog
-    .desc = This is a minimoog, like a space piano, but more spacey!
+    .desc = Це Minimoog, прям як космічне піано, тільки ще більш космічне!
 
-ent-TomDrumsInstrument = tom drums
-    .desc = Where'd the rest of the kit go?
+ent-TomDrumsInstrument = том-томи
+    .desc = А де все інше від набору?
 
-ent-DawInstrument = digital audio workstation
-    .desc = Cutting edge music technology, straight from the 90s.
-
+ent-DawInstrument = цифрова аудіо-станція
+    .desc = Передова музична технологія, прямиком з 90х.

@@ -1,48 +1,47 @@
-ent-EncryptionKey = encryption key
-    .desc = A small cypher chip for headsets.
+ent-EncryptionKey = ключ шифрування
+    .desc = Маленький чип шифрування для навушників.
 
-ent-EncryptionKeyCommon = common encryption key
-    .desc = An encryption key used by anyone.
+ent-EncryptionKeyCommon = загальний ключ шифрування
+    .desc = Ключ шифрування використовуємий всіма.
 
-ent-EncryptionKeyCargo = cargo encryption key
-    .desc = An encryption key used by supply employees.
+ent-EncryptionKeyCargo = ключ шифрування логистів
+    .desc = Ключ шифрування використовуємий логистами.
 
-ent-EncryptionKeyCentCom = central command encryption key
-    .desc = An encryption key used by captain's bosses.
+ent-EncryptionKeyCentCom = ключ шифрування центрального командування
+    .desc = Ключ шифрування використовуємий начальниками капітана.
 
-ent-EncryptionKeyStationMaster = station master encryption key
-    .desc = An encryption key used by station's bosses.
+ent-EncryptionKeyStationMaster = ключ шифрування майстера станції
+    .desc = Ключ шифрування використовуємий начальниками станції.
 
-ent-EncryptionKeyCommand = command encryption key
-    .desc = An encryption key used by crew's bosses.
+ent-EncryptionKeyCommand = ключ шифрування командування
+    .desc = Ключ шифрування використовуємий начальниками екіпажа.
 
-ent-EncryptionKeyEngineering = engineering encryption key
-    .desc = An encryption key used by the engineers.
+ent-EncryptionKeyEngineering = інженерний ключ шифрування
+    .desc = Ключ шифрування використовуємий інженерами.
 
-ent-EncryptionKeyMedical = medical encryption key
-    .desc = An encryption key used by those who save lives.
+ent-EncryptionKeyMedical = медичний ключ шифрування
+    .desc = Ключ шифрування використовуємий тима хто рятує життя.
 
-ent-EncryptionKeyMedicalScience = med-sci encryption key
-    .desc = An encryption key used by someone who hasn't decided which side to take.
+ent-EncryptionKeyMedicalScience = медічно-науковий ключ шифрування
+    .desc = Ключ шифрування використовуємий кимось, хто ще не вирішив яку сторону обрати.
 
-ent-EncryptionKeyScience = science encryption key
-    .desc = An encryption key used by scientists. Maybe it is plasmaproof?
+ent-EncryptionKeyScience = науковий ключ шифрування
+    .desc = Ключ шифрування використовуємий науковцями. Чи має він захист від плазми?
 
-ent-EncryptionKeyRobo = robotech encryption key
-    .desc = An encryption key used by robototech engineers. Maybe it has a LAH-6000 on it?
+ent-EncryptionKeyRobo = роботехничний ключ шифрування
+    .desc = Ключ шифрування використовуємий роботехниками.
 
-ent-EncryptionKeySecurity = security encryption key
-    .desc = An encryption key used by security.
+ent-EncryptionKeySecurity = ключ шифрування безпеки
+    .desc = Ключ шифрування використовуємий офіцерами безпеки.
 
-ent-EncryptionKeyService = service encryption key
-    .desc = An encryption key used by the service staff, tasked with keeping the station full, happy and clean.
+ent-EncryptionKeyService = сервісний ключ шифрування
+    .desc = Ключ шифрування використовуємий персоналом сервісу, завдання яких тримати екіпаж повними, щастливими та чистими.
 
-ent-EncryptionKeySyndie = blood-red encryption key
-    .desc = An encryption key used by... wait... Who is the owner of this chip?
+ent-EncryptionKeySyndie = криваво-червоний ключ шифрування
+    .desc = Ключ шифрування використовуємий... зачекайте... Хто власник цього чипа?
 
-ent-EncryptionKeyBinary = binary translator key
-    .desc = An encryption key that translates binary signals used by silicons.
+ent-EncryptionKeyBinary = ключ бінарного перекладу
+    .desc = Ключ шифрування який перекладає бінарні сігнали використовуємі ботами.
 
-ent-EncryptionKeyFreelance = freelancer encryption key
-    .desc = An encryption key used by freelancers, who may or may not have an affiliation. It looks like its worn out.
-
+ent-EncryptionKeyFreelance = ключ шифрування фрілансерів
+    .desc = Ключ шифрування використовуємий фрілансерами, які можуть або не можуть мати зв'язки.

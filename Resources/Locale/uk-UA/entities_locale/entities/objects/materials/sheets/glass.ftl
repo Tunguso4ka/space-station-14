@@ -1,9 +1,9 @@
-ent-SheetGlassBase = glass
-    .desc = A sheet of glass, used often on the station in various applications.
+ent-SheetGlassBase = скло
+    .desc = Лист скла. Використовується багато де на станції.
 
 ent-SheetGlass = { ent-SheetGlassBase }
     .desc = { ent-SheetGlassBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-SheetGlass10 = { ent-SheetGlass }
     .desc = { ent-SheetGlass.desc }
@@ -11,56 +11,55 @@ ent-SheetGlass10 = { ent-SheetGlass }
 
 ent-SheetGlass1 = { ent-SheetGlass }
     .desc = { ent-SheetGlass.desc }
-    .suffix = Single
+    .suffix = Один
 
 ent-SheetGlassLingering0 = { ent-SheetGlass }
     .desc = { ent-SheetGlass.desc }
     .suffix = Lingering, 0
 
-ent-SheetRGlass = reinforced glass
-    .desc = A reinforced sheet of glass.
-    .suffix = Full
+ent-SheetRGlass = посилене скло
+    .desc = Посилений лист скла.
+    .suffix = Повний
 
-ent-SheetRGlass1 = reinforced glass
+ent-SheetRGlass1 = { ent-SheetRGlass }
     .desc = { ent-SheetRGlass.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetPGlass = plasma glass
-    .desc = A sheet of translucent plasma.
-    .suffix = Full
+ent-SheetPGlass = плазмоскло
+    .desc = Лист прозорої плазми.
+    .suffix = Повний
 
 ent-SheetPGlass1 = plasma glass
     .desc = { ent-SheetPGlass.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetRPGlass = reinforced plasma glass
-    .desc = A reinforced sheet of translucent plasma.
-    .suffix = Full
+ent-SheetRPGlass = посилене плазмоскло
+    .desc = Посилений лист прозорої плазми.
+    .suffix = Повний
 
-ent-SheetRPGlass1 = reinforced plasma glass
+ent-SheetRPGlass1 = { ent-SheetRPGlass }
     .desc = { ent-SheetRPGlass.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetUGlass = uranium glass
-    .desc = A sheet of uranium glass.
-    .suffix = Full
+ent-SheetUGlass = уранове скло
+    .desc = Лист уранового скла.
+    .suffix = Повний
 
-ent-SheetUGlass1 = uranium glass
+ent-SheetUGlass1 = { ent-SheetUGlass }
     .desc = { ent-SheetUGlass.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetRUGlass = reinforced uranium glass
-    .desc = A reinforced sheet of uranium.
+ent-SheetRUGlass = посилене уранове скло
+    .desc = Посилений лист уранового скла.
 
-ent-SheetRUGlass1 = reinforced uranium glass
+ent-SheetRUGlass1 = { ent-SheetRUGlass }
     .desc = { ent-SheetRUGlass.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SheetClockworkGlass = clockwork glass
+ent-SheetClockworkGlass = часове скло
     .desc = A sheet of brass-hardened glass, primarily used by clockwork enthusiasts and remnants of Ratvarian cults.
-    .suffix = Full
+    .suffix = Повний
 
-ent-SheetClockworkGlass1 = clockwork glass
+ent-SheetClockworkGlass1 = { ent-SheetClockworkGlass }
     .desc = { ent-SheetClockworkGlass.desc }
-    .suffix = Single
-
+    .suffix = Один

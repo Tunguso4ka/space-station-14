@@ -1,3 +1,2 @@
-ent-HandTeleporter = hand teleporter
-    .desc = A Nanotrasen signature item--only the finest bluespace tech. Instructions: Use once to create a portal which teleports at random. Use again to link it to a portal at your current location. Use again to clear all portals.
-
+ent-HandTeleporter = ручний телепортер
+    .desc = Візитна картка НаноТрайзен. Тільки найкращі блюспейс технології. Інструкція: Використайте один раз щоб створити портал у випадкове місце. Використайте ще раз щоб прив'язати новий портал до старого. Використайте втретє щоб прибрати портали.

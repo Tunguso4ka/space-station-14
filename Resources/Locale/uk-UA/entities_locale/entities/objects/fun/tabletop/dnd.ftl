@@ -1,33 +1,31 @@
-ent-BaseBattlemap = battlemap
-    .desc = A battlemap for your epic dungeon exploring to begin, pieces not included!
+ent-BaseBattlemap = бойова мапа
+    .desc = Бойова мапа для вашої епичної подорожі, без фігурок.
 
-ent-GrassBattlemap = grass battlemap
-    .desc = A battlemap for your epic dungeon exploring to begin, pieces not included!
+ent-GrassBattlemap = трав'яна бойова мапа
+    .desc = Бойова мапа для вашої епичної подорожі, без фігурок.
 
-ent-MoonBattlemap = moon battlemap
-    .desc = A battlemap for your epic moon exploring to begin, pieces not included!
+ent-MoonBattlemap = місячна бойова мапа
+    .desc = Бойова мапа для вашої епичної подорожі, без фігурок.
 
-ent-SandBattlemap = sand battlemap
-    .desc = A battlemap for your epic beach episodes to begin, pieces not included!
+ent-SandBattlemap = піщана бойова мапа
+    .desc = Бойова мапа для вашої епичної подорожі, без фігурок.
 
-ent-SnowBattlemap = snow battlemap
-    .desc = A battlemap for your frigid exploring to begin, pieces not included!
+ent-SnowBattlemap = сніжна бойова мапа
 
-ent-ShipBattlemap = ship battlemap
-    .desc = A battlemap for your epic space exploring to begin, pieces not included!
+ent-ShipBattlemap = корабельна бойова мапа
+    .desc = Бойова мапа для вашої епичної подорожі, без фігурок.
 
-ent-GrassBoardTabletop = grass battlemap
+ent-GrassBoardTabletop = трав'яна бойова мапа
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-MoonBoardTabletop = grass battlemap
+ent-MoonBoardTabletop = місячна бойова мапа
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-SandBoardTabletop = sand battlemap
+ent-SandBoardTabletop = піщана бойова мапа
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-SnowBoardTabletop = snow battlemap
+ent-SnowBoardTabletop = сніжна бойова мапа
     .desc = { ent-BaseBoardTabletop.desc }
 
-ent-ShipBoardTabletop = ship battlemap
+ent-ShipBoardTabletop = корабельна бойова мапа
     .desc = { ent-BaseBoardTabletop.desc }
-

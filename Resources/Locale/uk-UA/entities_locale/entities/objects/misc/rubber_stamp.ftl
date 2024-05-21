@@ -1,75 +1,74 @@
-ent-RubberStampBase = generic rubber stamp
-    .desc = A rubber stamp for stamping important documents.
+ent-RubberStampBase = звичайна печатка
+    .desc = Печатка для штампування документів.
 
-ent-RubberStampBaseAlt = alternate rubber stamp
+ent-RubberStampBaseAlt = альтернативна печатка
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampCaptain = captain's rubber stamp
+ent-RubberStampCaptain = печатка капітана
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampCentcom = CentCom rubber stamp
+ent-RubberStampCentcom = печатка ЦентКом
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampChaplain = chaplain's rubber stamp
+ent-RubberStampChaplain = печатка священика
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampLawyer = lawyer's rubber stamp
+ent-RubberStampLawyer = печатка адвоката
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampClown = clown's rubber stamp
+ent-RubberStampClown = печатка клоуна
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampCE = chief engineer's rubber stamp
+ent-RubberStampCE = печатка головного інженера
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampCMO = chief medical officer's rubber stamp
+ent-RubberStampCMO = печатка головного лікаря
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampHop = head of personnel's rubber stamp
+ent-RubberStampHop = печатка голови персоналу
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampHos = head of security's rubber stamp
+ent-RubberStampHos = печатка голови безпеки
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampMime = mime's rubber stamp
+ent-RubberStampMime = печатка міма
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampQm = quartermaster's rubber stamp
+ent-RubberStampQm = печатка квартирмейстера
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampRd = research director's rubber stamp
+ent-RubberStampRd = печатка наукового директора
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampTrader = trader's rubber stamp
+ent-RubberStampTrader = печатка торгівця
     .desc = { ent-RubberStampBase.desc }
 
-ent-RubberStampSyndicate = syndicate rubber stamp
+ent-RubberStampSyndicate = печатка Синдикату
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampWarden = warden's rubber stamp
+ent-RubberStampWarden = печатка наглядача
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
+    .suffix = не мапувати
 
-ent-RubberStampApproved = APPROVED rubber stamp
+ent-RubberStampApproved = печатка СХВАЛЕНО
     .desc = { ent-RubberStampBaseAlt.desc }
 
-ent-RubberStampDenied = DENIED rubber stamp
+ent-RubberStampDenied = печатка ВІДХИЛЕНО
     .desc = { ent-RubberStampBaseAlt.desc }
 
-ent-RubberStampDetective = detective's rubber stamp
+ent-RubberStampDetective = печатка детектива
     .desc = { ent-RubberStampBase.desc }
-    .suffix = DO NOT MAP
-
+    .suffix = не мапувати

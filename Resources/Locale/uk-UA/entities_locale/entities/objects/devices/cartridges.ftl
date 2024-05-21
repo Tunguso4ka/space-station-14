@@ -1,15 +1,14 @@
-ent-NotekeeperCartridge = notekeeper cartridge
-    .desc = A program for keeping notes
+ent-NotekeeperCartridge = картридж нотатника
+    .desc = Застосунок для зберігання нотаток
 
-ent-NewsReadCartridge = news cartridge
-    .desc = A program for reading news
+ent-NewsReadCartridge = картридж новин
+    .desc = Застосунок для читання новин
 
-ent-CrewManifestCartridge = crew manifest cartridge
-    .desc = A program for listing your fellow crewmembers
+ent-CrewManifestCartridge = картридж маніфесту екіпажу
+    .desc = Застосунок зі списком екіпажу
 
-ent-NetProbeCartridge = NetProbe cartridge
-    .desc = A program for getting the address and frequency of network devices
+ent-NetProbeCartridge = картридж NetProbe
+    .desc = Застосунок для считування адреси та частоти з пристроїв.
 
-ent-LogProbeCartridge = LogProbe cartridge
-    .desc = A program for getting access logs from devices
-
+ent-LogProbeCartridge = картридж LogProbe
+    .desc = Застосунок для считування журналу доступів з пристроїв.

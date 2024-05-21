@@ -1,40 +1,39 @@
-ent-FloorCarpetItemRed = red carpet
+ent-FloorCarpetItemRed = килим
     .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Red
+    .suffix = Червоний
 
-ent-FloorCarpetItemBlack = black carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Black
+ent-FloorCarpetItemBlack = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Чорний
 
-ent-FloorCarpetItemBlue = blue carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Blue
+ent-FloorCarpetItemBlue = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Синій
 
-ent-FloorCarpetItemGreen = green carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Green
+ent-FloorCarpetItemGreen = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Зелений
 
-ent-FloorCarpetItemOrange = orange carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Orange
+ent-FloorCarpetItemOrange = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Оранжевий
 
-ent-FloorCarpetItemSkyBlue = sky blue carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Sky Blue
+ent-FloorCarpetItemSkyBlue = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Небісний
 
-ent-FloorCarpetItemPurple = purple carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Purple
+ent-FloorCarpetItemPurple = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Фіолетовий
 
-ent-FloorCarpetItemPink = pink carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Pink
+ent-FloorCarpetItemPink = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Рожевий
 
-ent-FloorCarpetItemCyan = carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = Cyan
+ent-FloorCarpetItemCyan = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Блакитний
 
-ent-FloorCarpetItemWhite = carpet
-    .desc = { ent-FloorTileItemBase.desc }
-    .suffix = White
-
+ent-FloorCarpetItemWhite = { ent-FloorCarpetItemRed }
+    .desc = { ent-FloorCarpetItemRed.desc }
+    .suffix = Білий

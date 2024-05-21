@@ -1,35 +1,35 @@
 ent-BaseFlatpack = базовий флетпак
-    .desc = A flatpack used for constructing something.
+    .desc = Флетпак використовуємий для будування чогось.
 
-ent-SolarAssemblyFlatpack = solar assembly flatpack
-    .desc = A flatpack used for constructing a solar assembly.
+ent-SolarAssemblyFlatpack = флетпак сонячної установки
+    .desc = Флетпак використовуємий для будування сонячної установки.
 
-ent-AmePartFlatpack = AME flatpack
-    .desc = A flatpack used for constructing an antimatter engine reactor.
+ent-AmePartFlatpack = флетпак АМД
+    .desc = Флетпак використовуємий для будування анти-матеріального двигуна.
 
-ent-SingularityGeneratorFlatpack = singularity generator flatpack
-    .desc = A flatpack used for constructing a singularity generator.
+ent-SingularityGeneratorFlatpack = флетпак генератора сингулярності
+    .desc = Флетпак використовуємий для будування генератора сингулярності.
 
-ent-RadiationCollectorFlatpack = radiation collector flatpack
-    .desc = A flatpack used for constructing a radiation collector.
+ent-RadiationCollectorFlatpack = флетпак збірача радіації
+    .desc = Флетпак використовуємий для будування збірача радіації.
 
-ent-ContainmentFieldGeneratorFlatpack = containment field generator flatpack
-    .desc = A flatpack used for constructing a containment field generator.
+ent-ContainmentFieldGeneratorFlatpack = флетпак генератора поля стримування
+    .desc = Флетпак використовуємий для будування генератора поля стримування.
 
-ent-EmitterFlatpack = emitter flatpack
-    .desc = A flatpack used for constructing an emitter.
+ent-EmitterFlatpack = флетпак емітора
+    .desc = Флетпак використовуємий для будування емітора.
 
-ent-TeslaGeneratorFlatpack = tesla generator flatpack
-    .desc = A flatpack used for constructing a tesla generator.
+ent-TeslaGeneratorFlatpack = флетпак генератора тесли
+    .desc = Флетпак використовуємий для будування генератора тесли.
 
-ent-TeslaCoilFlatpack = tesla coil flatpack
-    .desc = A flatpack used for constructing a tesla coil.
+ent-TeslaCoilFlatpack = флетпак катушки тесли
+    .desc = Флетпак використовуємий для будування катушки тесли.
 
-ent-TeslaGroundingRodFlatpack = grounding rod flatpack
-    .desc = A flatpack used for constructing a grounding rod.
+ent-TeslaGroundingRodFlatpack = флетпак заземлювача
+    .desc = Флетпак використовуємий для будування заземлювача.
 
-ent-GyroscopeFlatpack = gyroscope flatpack
-    .desc = A flatpack used for constructing a gyroscope.
+ent-GyroscopeFlatpack = флетпак гироскопа
+    .desc = Флетпак використовуємий для будування гироскопа.
 
-ent-ThrusterFlatpack = thruster flatpack
-    .desc = A flatpack used for constructing a thruster.
+ent-ThrusterFlatpack = флетпак рушійної установки
+    .desc = Флетпак використовуємий для будування рушійної установки.

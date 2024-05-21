@@ -1,75 +1,74 @@
 ent-OreBase = { ent-BaseItem }
-    .desc = A piece of unrefined ore.
+    .desc = Частичка не переробленої руди.
 
-ent-GoldOre = gold ore
+ent-GoldOre = золота руда
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-GoldOre1 = { ent-GoldOre }
     .desc = { ent-GoldOre.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SteelOre = iron ore
+ent-SteelOre = залізна руда
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-SteelOre1 = { ent-SteelOre }
     .desc = { ent-SteelOre.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-PlasmaOre = plasma ore
+ent-PlasmaOre = плазмова руда
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-PlasmaOre1 = { ent-PlasmaOre }
     .desc = { ent-PlasmaOre.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SilverOre = silver ore
+ent-SilverOre = срібляна руда
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-SilverOre1 = { ent-SilverOre }
     .desc = { ent-SilverOre.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SpaceQuartz = space quartz
+ent-SpaceQuartz = космічний кварц
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-SpaceQuartz1 = { ent-SpaceQuartz }
     .desc = { ent-SpaceQuartz.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-UraniumOre = uranium ore
+ent-UraniumOre = необроблений уран
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-UraniumOre1 = { ent-UraniumOre }
     .desc = { ent-UraniumOre.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-BananiumOre = bananium ore
+ent-BananiumOre = необроблений бананій
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-BananiumOre1 = { ent-BananiumOre }
     .desc = { ent-BananiumOre.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-Coal = coal
+ent-Coal = вугілля
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-Coal1 = { ent-Coal }
     .desc = { ent-Coal.desc }
-    .suffix = Single
+    .suffix = Один
 
-ent-SaltOre = salt
+ent-SaltOre = сіль
     .desc = { ent-OreBase.desc }
-    .suffix = Full
+    .suffix = Повний
 
 ent-Salt1 = { ent-SaltOre }
     .desc = { ent-SaltOre.desc }
-    .suffix = Single
-
+    .suffix = Один

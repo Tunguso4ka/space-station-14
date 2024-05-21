@@ -1,2 +1,2 @@
-ent-CheckerBoard = checkerboard
-    .desc = A checkerboard. Pieces included!
+ent-CheckerBoard = дошка для шашек
+    .desc = Клітинкова дошка. Разом з фігурками!

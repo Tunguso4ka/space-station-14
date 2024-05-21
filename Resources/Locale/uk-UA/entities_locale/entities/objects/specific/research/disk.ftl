@@ -1,20 +1,19 @@
-ent-ResearchDisk = research point disk (1000)
-    .desc = A disk for the R&D server containing 1000 points.
+ent-ResearchDisk = диск наукових балів (1000)
+    .desc = Диск для наукового серверу, що тримає в собі 1000 балів.
 
-ent-ResearchDisk5000 = research point disk (5000)
-    .desc = A disk for the R&D server containing 5000 points.
+ent-ResearchDisk5000 = диск наукових балів (5000)
+    .desc = Диск для наукового серверу, що тримає в собі 5000 балів.
 
-ent-ResearchDisk10000 = research point disk (10000)
-    .desc = A disk for the R&D server containing 10000 points.
+ent-ResearchDisk10000 = диск наукових балів (10000)
+    .desc = Диск для наукового серверу, що тримає в собі 10000 балів.
 
-ent-ResearchDiskDebug = research point disk
-    .desc = A disk for the R&D server containing all the points you could ever need.
-    .suffix = DEBUG, DO NOT MAP
+ent-ResearchDiskDebug = диск наукових балів
+    .desc = Диск для наукового серверу, що тримає в собі супер-багато балів.
+    .suffix = ВІДЛАДКА, не мапувати
 
-ent-TechnologyDisk = technology disk
-    .desc = A disk for the R&D server containing research technology.
+ent-TechnologyDisk = диск технології
+    .desc = Диск для наукового серверу, що тримає в собі технологію.
 
 ent-TechnologyDiskRare = { ent-TechnologyDisk }
     .desc = { ent-TechnologyDisk.desc }
-    .suffix = rare.
-
+    .suffix = рідкісний.

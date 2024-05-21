@@ -1,27 +1,26 @@
-ent-GlockenspielInstrument = glockenspiel
+ent-GlockenspielInstrument = дзвіночки
     .desc = { ent-BaseHandheldInstrument.desc }
 
-ent-MusicBoxInstrument = music box
-    .desc = Playing this makes you feel safe from scary animatronics.
+ent-MusicBoxInstrument = музикальна коробочка
+    .desc = Ви в безпеці від злиз аніматроників, допоки ви нею граєте.
 
-ent-XylophoneInstrument = xylophone
-    .desc = Rainbow colored glockenspiel.
+ent-XylophoneInstrument = ксилофон
+    .desc = Дзівночки, що виглядають як веселка.
 
-ent-MicrophoneInstrument = microphone
-    .desc = Perfect for singing your heart out.
+ent-MicrophoneInstrument = мікрофон
+    .desc = Чудовий вибір щоб показати своє серце всьому світу.
 
-ent-SynthesizerInstrument = synthesizer
+ent-SynthesizerInstrument = синтезатор
     .desc = { ent-BaseHandheldInstrument.desc }
 
-ent-KalimbaInstrument = kalimba
-    .desc = The power of a piano right at your thumbs.
+ent-KalimbaInstrument = калімба
+    .desc = Сила піано прямо під вашима пальцями.
 
-ent-WoodblockInstrument = woodblock
+ent-WoodblockInstrument = дерев'яна коробочка
     .desc = If you listen to this enough it'll start driving itself into your mind.
 
-ent-ReverseCymbalsInstrument = reverse cymbals
-    .desc = I think you have it the wrong way around?
+ent-ReverseCymbalsInstrument = зворотні кимвали
+    .desc = Мені здається чи воно звучить якось неправильно?
 
-ent-SuperSynthesizerInstrument = super synthesizer
-    .desc = Blasting the ghetto with Touhou MIDIs since 2020.
-
+ent-SuperSynthesizerInstrument = супер синтезатор
+    .desc = Розриває гето з Тоухоу MIDI з 2020 року.

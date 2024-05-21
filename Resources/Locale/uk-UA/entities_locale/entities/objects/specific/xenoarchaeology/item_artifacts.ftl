@@ -1,26 +1,25 @@
-ent-BaseXenoArtifactItem = alien artifact
-    .desc = A strange handheld alien device.
+ent-BaseXenoArtifactItem = інопланетний артефакт
+    .desc = Дивний інопланетний ручний пристрій.
 
 ent-SimpleXenoArtifactItem = { ent-BaseXenoArtifactItem }
     .desc = { ent-BaseXenoArtifactItem.desc }
-    .suffix = Simple
+    .suffix = Простий
 
 ent-MediumXenoArtifactItem = { ent-BaseXenoArtifactItem }
     .desc = { ent-BaseXenoArtifactItem.desc }
-    .suffix = Medium
+    .suffix = Середній
 
 ent-ComplexXenoArtifactItem = { ent-BaseXenoArtifactItem }
     .desc = { ent-BaseXenoArtifactItem.desc }
-    .suffix = Complex
+    .suffix = Комплексний
 
 ent-VariedXenoArtifactItem = { ent-BaseXenoArtifactItem }
     .desc = { ent-BaseXenoArtifactItem.desc }
-    .suffix = Varied
+    .suffix = Варіативний
 
-ent-ArtifactFragment = artifact fragment
-    .desc = A broken piece of an artifact. You could probably repair it if you had more.
+ent-ArtifactFragment = фрагмент артефакту
+    .desc = Частки зламаного артефакту. Можливо вам вдасться його полагодити якщо зібрати більше.
 
 ent-ArtifactFragment1 = { ent-ArtifactFragment }
     .desc = { ent-ArtifactFragment.desc }
-    .suffix = Single
-
+    .suffix = Один

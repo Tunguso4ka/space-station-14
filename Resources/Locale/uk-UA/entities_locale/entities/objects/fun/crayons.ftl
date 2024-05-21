@@ -1,36 +1,36 @@
-ent-Crayon = crayon
-    .desc = A colourful crayon. Looks tasty. Mmmm...
+ent-Crayon = крейда
+    .desc = Кольорова крейда. Виглядає смачною. Ммм...
 
-ent-CrayonWhite = white crayon
+ent-CrayonWhite = біла крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonMime = mime crayon
+ent-CrayonMime = крейда міма
     .desc = { ent-Crayon.desc }
 
-ent-CrayonRainbow = rainbow crayon
+ent-CrayonRainbow = веселкова крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonBlack = black crayon
+ent-CrayonBlack = чорна крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonRed = red crayon
+ent-CrayonRed = червона крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonOrange = orange crayon
+ent-CrayonOrange = оранжева крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonYellow = yellow crayon
+ent-CrayonYellow = жовта крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonGreen = green crayon
+ent-CrayonGreen = зелена крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonBlue = blue crayon
+ent-CrayonBlue = синя крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonPurple = purple crayon
+ent-CrayonPurple = фіолетова крейда
     .desc = { ent-Crayon.desc }
 
-ent-CrayonBox = crayon box
-    .desc = It's a box of crayons.
+ent-CrayonBox = коробка крейд
+    .desc = Це коробка з крейдами.
 

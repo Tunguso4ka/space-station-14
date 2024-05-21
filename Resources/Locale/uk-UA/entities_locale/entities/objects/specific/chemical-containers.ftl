@@ -1,75 +1,74 @@
-ent-Jug = jug
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-Jug = глечик
+    .desc = Використовується для зберігання великих обсягів хімікатів або інших рідин. Пити з нього вкрай не розумно.
 
-ent-JugCarbon = jug (carbon)
+ent-JugCarbon = глечик (вуглець)
     .desc = { ent-Jug.desc }
 
-ent-JugIodine = jug (iodine)
+ent-JugIodine = глечик (йод)
     .desc = { ent-Jug.desc }
 
-ent-JugFluorine = jug (fluorine)
+ent-JugFluorine = глечик (фтор)
     .desc = { ent-Jug.desc }
 
-ent-JugChlorine = jug (chlorine)
+ent-JugChlorine = глечик (хлор)
     .desc = { ent-Jug.desc }
 
-ent-JugAluminium = jug (aluminium)
+ent-JugAluminium = глечик (алюміній)
     .desc = { ent-Jug.desc }
 
-ent-JugPhosphorus = jug (phosphorus)
+ent-JugPhosphorus = глечик (фосфор)
     .desc = { ent-Jug.desc }
 
-ent-JugSulfur = jug (sulfur)
+ent-JugSulfur = глечик (сірка)
     .desc = { ent-Jug.desc }
 
-ent-JugSilicon = jug (silicon)
+ent-JugSilicon = глечик (кремній)
     .desc = { ent-Jug.desc }
 
-ent-JugHydrogen = jug (hydrogen)
+ent-JugHydrogen = глечик (водень)
     .desc = { ent-Jug.desc }
 
-ent-JugLithium = jug (lithium)
+ent-JugLithium = глечик (літій)
     .desc = { ent-Jug.desc }
 
-ent-JugSodium = jug (sodium)
+ent-JugSodium = глечик (натрій)
     .desc = { ent-Jug.desc }
 
-ent-JugPotassium = jug (potassium)
+ent-JugPotassium = глечик (калій)
     .desc = { ent-Jug.desc }
 
-ent-JugRadium = jug (radium)
+ent-JugRadium = глечик (радій)
     .desc = { ent-Jug.desc }
 
-ent-JugIron = jug (iron)
+ent-JugIron = глечик (залізо)
     .desc = { ent-Jug.desc }
 
-ent-JugCopper = jug (copper)
+ent-JugCopper = глечик (мідь)
     .desc = { ent-Jug.desc }
 
-ent-JugGold = jug (gold)
+ent-JugGold = глечик (золото)
     .desc = { ent-Jug.desc }
 
-ent-JugMercury = jug (mercury)
+ent-JugMercury = глечик (ртуть)
     .desc = { ent-Jug.desc }
 
-ent-JugSilver = jug (silver)
+ent-JugSilver = глечик (срібло)
     .desc = { ent-Jug.desc }
 
-ent-JugEthanol = jug (ethanol)
+ent-JugEthanol = глечик (етанол)
     .desc = { ent-Jug.desc }
 
-ent-JugSugar = jug (sugar)
+ent-JugSugar = глечик (цукор)
     .desc = { ent-Jug.desc }
 
-ent-JugNitrogen = jug (nitrogen)
+ent-JugNitrogen = глечик (азот)
     .desc = { ent-Jug.desc }
 
-ent-JugOxygen = jug (oxygen)
+ent-JugOxygen = глечик (кисень)
     .desc = { ent-Jug.desc }
 
-ent-JugPlantBGone = jug (Plant-B-Gone)
+ent-JugPlantBGone = глечик (Plant-B-Gone)
     .desc = { ent-Jug.desc }
 
-ent-JugWeldingFuel = jug (welding fuel)
+ent-JugWeldingFuel = глечик (паливо для зварника)
     .desc = { ent-Jug.desc }
-

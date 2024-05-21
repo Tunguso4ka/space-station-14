@@ -1,27 +1,26 @@
-ent-SaxophoneInstrument = saxophone
-    .desc = An instrument. You could probably grind this into raw jazz.
+ent-SaxophoneInstrument = саксофон
+    .desc = Інструмент. Якщо подути в нього - вийде джаз.
 
-ent-AccordionInstrument = accordion
+ent-AccordionInstrument = акордеон
     .desc = { ent-BaseHandheldInstrument.desc }
 
-ent-HarmonicaInstrument = harmonica
+ent-HarmonicaInstrument = гармоніка
     .desc = { ent-BaseHandheldInstrument.desc }
 
-ent-ClarinetInstrument = clarinet
+ent-ClarinetInstrument = кларнет
     .desc = Skweedward tintacklays.
 
-ent-FluteInstrument = flute
-    .desc = Reaching new heights of being horrifyingly shrill.
+ent-FluteInstrument = флейта
+    .desc = Досягає нових висот жахливо пронизливого звучання.
 
-ent-RecorderInstrument = recorder
-    .desc = Comes in various colors of fashionable plastic!
+ent-RecorderInstrument = блокфлейта
+    .desc = Існує в різних кольорах шикарного пластику.
 
-ent-PanFluteInstrument = pan flute
-    .desc = Perfect for luring ancient mythical beings to dance with you.
+ent-PanFluteInstrument = свиріль
+    .desc = Чудова для заманювання давних міфічних істот в танець.
 
-ent-OcarinaInstrument = ocarina
-    .desc = Good for playing lullabies.
+ent-OcarinaInstrument = зозуля
+    .desc = Чудовий вибір для колискових.
 
-ent-BagpipeInstrument = bagpipe
-    .desc = Pairs nicely with a kilt.
-
+ent-BagpipeInstrument = волинка
+    .desc = До неї чудово підійде кільт.
