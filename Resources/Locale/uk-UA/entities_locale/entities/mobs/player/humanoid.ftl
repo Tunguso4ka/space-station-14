@@ -7,9 +7,6 @@ ent-RandomHumanoidSpawnerERTLeader = лідер ГШР
 ent-RandomHumanoidSpawnerERTLeaderEVA = лідер ГШР
     .suffix = ERTRole, Armored EVA
 
-ent-RandomHumanoidSpawnerERTLeaderEVALecter = { ent-RandomHumanoidSpawnerERTLeaderEVA }
-    .suffix = ERTRole, Lecter, EVA
-
 ent-RandomHumanoidSpawnerERTChaplain = капелан ГШР
     .suffix = ERTRole, Basic
 
@@ -33,9 +30,6 @@ ent-RandomHumanoidSpawnerERTSecurity = офіцер ГШР
 
 ent-RandomHumanoidSpawnerERTSecurityEVA = офіцер ГШР
     .suffix = ERTRole, Armored EVA
-
-ent-RandomHumanoidSpawnerERTSecurityEVALecter = { ent-RandomHumanoidSpawnerERTSecurityEVA }
-    .suffix = ERTRole, Lecter, EVA
 
 ent-RandomHumanoidSpawnerERTMedical = лікар ГШР
     .suffix = ERTRole, Basic
