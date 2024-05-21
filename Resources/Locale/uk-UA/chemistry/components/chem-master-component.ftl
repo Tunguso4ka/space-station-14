@@ -8,8 +8,8 @@ chem-master-bound-user-interface-title = ХімМастер 4000
 
 ## UI
 
-chem-master-window-input-tab = Input
-chem-master-window-output-tab = Output
+chem-master-window-input-tab = Ввід
+chem-master-window-output-tab = Вивід
 chem-master-window-container-label = Контейнер
 chem-master-window-eject-button = Вийняти
 chem-master-window-no-container-loaded-text = Контейнера не вставлено.

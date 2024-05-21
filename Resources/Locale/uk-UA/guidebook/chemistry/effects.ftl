@@ -1,25 +1,25 @@
 ﻿-create-3rd-person =
     { $chance ->
-        [1] Creates
-        *[other] create
+        [1] Створює
+        *[other] створює
     }
 
 -cause-3rd-person =
     { $chance ->
-        [1] Causes
-        *[other] cause
+        [1] Викликає
+        *[other] викликає
     }
 
 -satiate-3rd-person =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Насичує
+        *[other] насичує
     }
 
 reagent-effect-guidebook-create-entity-reaction-effect =
     { $chance ->
-        [1] Creates
-        *[other] create
+        [1] Створює
+        *[other] створює
     } { $amount ->
         [1] {INDEFINITE($entname)}
         *[other] {$amount} {MAKEPLURAL($entname)}
@@ -27,57 +27,57 @@ reagent-effect-guidebook-create-entity-reaction-effect =
 
 reagent-effect-guidebook-explosion-reaction-effect =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } an explosion
+        [1] Спричиняє
+        *[other] спричиняє
+    } вибух
 
 reagent-effect-guidebook-emp-reaction-effect =
     { $chance ->
-        [1] Causes
-        *[other] cause
-    } an electromagnetic pulse
+        [1] Спричиняє
+        *[other] спричиняє
+    } електромагнітний пульс
 
 reagent-effect-guidebook-foam-area-reaction-effect =
     { $chance ->
-        [1] Creates
-        *[other] create
-    } large quantities of smoke
+        [1] Створює
+        *[other] створює
+    } велику кількість піни
 
 reagent-effect-guidebook-smoke-area-reaction-effect =
     { $chance ->
-        [1] Creates
-        *[other] create
-    } large quantities of smoke
+        [1] Створює
+        *[other] створює
+    } велику кількість диму
 
 reagent-effect-guidebook-satiate-thirst =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Втамує
+        *[other] втамує
     } { $relative ->
-        [1] thirst averagely
-        *[other] thirst at {NATURALFIXED($relative, 3)}x the average rate
+        [1] спрагу
+        *[other] спрагу у {NATURALFIXED($relative, 3)} раза швидше за середню норму
     }
 
 reagent-effect-guidebook-satiate-hunger =
     { $chance ->
-        [1] Satiates
-        *[other] satiate
+        [1] Втамує
+        *[other] втамує
     } { $relative ->
-        [1] hunger averagely
-        *[other] hunger at {NATURALFIXED($relative, 3)}x the average rate
+        [1] голод
+        *[other] голод у {NATURALFIXED($relative, 3)} раза швидше за середню норму
     }
 
 reagent-effect-guidebook-health-change =
     { $chance ->
         [1] { $healsordeals ->
-                [heals] Heals
-                [deals] Deals
-                *[both] Modifies health by
+                [heals] Лікує
+                [deals] Завдає
+                *[both] Змінює здоров'я на
              }
         *[other] { $healsordeals ->
-                    [heals] heal
-                    [deals] deal
-                    *[both] modify health by
+                    [heals] лікує
+                    [deals] завдає
+                    *[both] змінює здоров'я на
                  }
     } { $changes }
 
@@ -99,9 +99,9 @@ reagent-effect-guidebook-status-effect =
 
 reagent-effect-guidebook-activate-artifact =
     { $chance ->
-        [1] Attempts
-        *[other] attempt
-    } to activate an artifact
+        [1] Пробує
+        *[other] пробує
+    } активувати артефакт
 
 reagent-effect-guidebook-set-solution-temperature-effect =
     { $chance ->
@@ -350,3 +350,33 @@ reagent-effect-guidebook-missing =
         [1] Викликає
         *[other] викликає
     } невідомий ефект, так як ніхто ще не написав його.
+
+reagent-effect-guidebook-plant-attribute =
+    { $chance ->
+        [1] Adjusts
+        *[other] adjust
+    } {$attribute} by [color={$colorName}]{$amount}[/color]
+
+reagent-effect-guidebook-plant-cryoxadone =
+    { $chance ->
+        [1] Ages back
+        *[other] age back
+    } the plant, depending on the plant's age and time to grow
+
+reagent-effect-guidebook-plant-phalanximine =
+    { $chance ->
+        [1] Makes
+        *[other] make
+    } a plant not viable due to mutation viable again
+
+reagent-effect-guidebook-plant-diethylamine =
+    { $chance ->
+        [1] Increases
+        *[other] increase
+    } the plant's lifespan and/or base health with 10% chance for each.
+
+reagent-effect-guidebook-plant-robust-harvest =
+    { $chance ->
+        [1] Increases
+        *[other] increase
+    } the plant's potency by {$increase} up to a maximum of {$limit}. Causes the plant to lose its seeds once the potency reaches {$seedlesstreshold}. Trying to add potency over {$limit} may cause decrease in yield at a 10% chance.

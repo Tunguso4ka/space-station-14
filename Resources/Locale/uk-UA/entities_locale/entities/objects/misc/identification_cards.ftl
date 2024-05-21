@@ -1,185 +1,188 @@
-ent-IDCardStandard = identification card
-    .desc = A card necessary to access various areas aboard the station.
+ent-IDCardStandard = ідентифікаційна картка
+    .desc = Необхідна для доступу в деякі зони станції картка.
 
-ent-PassengerIDCard = passenger ID card
+ent-PassengerIDCard = ID картка асистента
     .desc = { ent-IDCardStandard.desc }
 
-ent-TechnicalAssistantIDCard = technical assistant ID card
+ent-TechnicalAssistantIDCard = ID картка техничного асистента
     .desc = { ent-PassengerIDCard.desc }
 
-ent-MedicalInternIDCard = medical intern ID card
+ent-MedicalInternIDCard = ID картка медичного інтерна
     .desc = { ent-PassengerIDCard.desc }
 
-ent-ResearchAssistantIDCard = research assistant ID card
+ent-ResearchAssistantIDCard = ID картка наукового асистента
     .desc = { ent-PassengerIDCard.desc }
 
-ent-SecurityCadetIDCard = security cadet ID card
+ent-SecurityCadetIDCard = ID картка кадета безпеки
     .desc = { ent-PassengerIDCard.desc }
 
-ent-ServiceWorkerIDCard = service worker ID card
+ent-ServiceWorkerIDCard = ID картка офіціанта
     .desc = { ent-PassengerIDCard.desc }
 
-ent-CaptainIDCard = captain ID card
+ent-CaptainIDCard = ID картка капітана
     .desc = { ent-IDCardStandard.desc }
 
-ent-SecurityIDCard = security ID card
+ent-SecurityIDCard = ID картка офіцера
     .desc = { ent-IDCardStandard.desc }
 
-ent-WardenIDCard = warden ID card
+ent-WardenIDCard = ID картка наглядача
     .desc = { ent-IDCardStandard.desc }
 
-ent-EngineeringIDCard = engineer ID card
+ent-EngineeringIDCard = ID картка інженера
     .desc = { ent-IDCardStandard.desc }
 
-ent-MedicalIDCard = medical ID card
+ent-MedicalIDCard = ID картка лікаря
     .desc = { ent-IDCardStandard.desc }
 
-ent-ParamedicIDCard = paramedic ID card
+ent-ParamedicIDCard = ID картка парамедика
     .desc = { ent-IDCardStandard.desc }
 
-ent-ChemistIDCard = chemist ID card
+ent-ChemistIDCard = ID картка хіміка
     .desc = { ent-IDCardStandard.desc }
 
-ent-CargoIDCard = cargo ID card
+ent-CargoIDCard = ID картка вантажника
     .desc = { ent-IDCardStandard.desc }
 
-ent-SalvageIDCard = salvage ID card
+ent-SalvageIDCard = ID картка шахтаря
     .desc = { ent-IDCardStandard.desc }
 
-ent-QuartermasterIDCard = quartermaster ID card
+ent-QuartermasterIDCard = ID картка квартирмейстера
     .desc = { ent-IDCardStandard.desc }
 
-ent-ResearchIDCard = research ID card
+ent-ResearchIDCard = ID картка науковця
     .desc = { ent-IDCardStandard.desc }
 
-ent-ClownIDCard = clown ID card
+ent-ClownIDCard = ID картка клоуна
     .desc = { ent-IDCardStandard.desc }
 
-ent-MimeIDCard = mime ID card
+ent-MimeIDCard = ID картка міма
     .desc = { ent-IDCardStandard.desc }
 
-ent-ChaplainIDCard = chaplain ID card
+ent-ChaplainIDCard = ID картка священика
     .desc = { ent-IDCardStandard.desc }
 
-ent-JanitorIDCard = janitor ID card
+ent-JanitorIDCard = ID картка прибиральника
     .desc = { ent-IDCardStandard.desc }
 
-ent-BartenderIDCard = bartender ID card
+ent-BartenderIDCard = ID картка бармена
     .desc = { ent-IDCardStandard.desc }
 
-ent-PunPunIDCard = pun pun ID card
+ent-PunPunIDCard = ID картка Пун-Пуна
     .desc = { ent-IDCardStandard.desc }
 
-ent-ChefIDCard = chef ID card
+ent-ChefIDCard = ID картка кухаря
     .desc = { ent-IDCardStandard.desc }
 
-ent-BotanistIDCard = botanist ID card
+ent-BotanistIDCard = ID картка ботаніка
     .desc = { ent-IDCardStandard.desc }
 
-ent-LibrarianIDCard = librarian ID card
+ent-LibrarianIDCard = ID картка бібліотекаря
     .desc = { ent-IDCardStandard.desc }
 
-ent-LawyerIDCard = lawyer ID card
+ent-LawyerIDCard = ID картка адвоката
     .desc = { ent-IDCardStandard.desc }
 
-ent-HoPIDCard = head of personnel ID card
+ent-HoPIDCard = ID картка голови персонала
     .desc = { ent-IDCardStandard.desc }
 
-ent-CEIDCard = chief engineer ID card
+ent-CEIDCard = ID картка головного інженера
     .desc = { ent-IDCardStandard.desc }
 
-ent-CMOIDCard = chief medical officer ID card
+ent-CMOIDCard = ID картка головного лікаря
     .desc = { ent-IDCardStandard.desc }
 
-ent-RDIDCard = research director ID card
+ent-RDIDCard = ID картка наукового директора
     .desc = { ent-IDCardStandard.desc }
 
-ent-HoSIDCard = head of security ID card
+ent-HoSIDCard = ID картка голови безпеки
     .desc = { ent-IDCardStandard.desc }
 
-ent-BrigmedicIDCard = brigmedic ID card
+ent-BrigmedicIDCard = ID картка бригмедика
     .desc = { ent-IDCardStandard.desc }
 
-ent-CentcomIDCard = command officer ID card
+ent-CentcomIDCard = ID картка офіцера ЦК
     .desc = { ent-IDCardStandard.desc }
 
-ent-ERTLeaderIDCard = ERT leader ID card
+ent-ERTLeaderIDCard = ID картка лідера ГШР
     .desc = { ent-CentcomIDCard.desc }
 
-ent-ERTChaplainIDCard = ERT chaplain ID card
+ent-ERTChaplainIDCard = ID картка священика ГШР
     .desc = { ent-ERTLeaderIDCard.desc }
 
-ent-ERTEngineerIDCard = ERT engineer ID card
+ent-ERTEngineerIDCard = ID картка інженера ГШР
     .desc = { ent-ERTChaplainIDCard.desc }
 
-ent-ERTJanitorIDCard = ERT janitor ID card
+ent-ERTJanitorIDCard = ID картка прибиральника ГШР
     .desc = { ent-ERTChaplainIDCard.desc }
 
-ent-ERTMedicIDCard = ERT medic ID card
+ent-ERTMedicIDCard = ID картка лікаря ГШР
     .desc = { ent-ERTChaplainIDCard.desc }
 
-ent-ERTSecurityIDCard = ERT security ID card
+ent-ERTSecurityIDCard = ID картка офіцера ГШР
     .desc = { ent-ERTChaplainIDCard.desc }
 
-ent-CentcomIDCardSyndie = command officer ID card
+ent-CentcomIDCardSyndie = ID картка офіцера ЦК
     .desc = { ent-IDCardStandard.desc }
     .suffix = Fake
 
-ent-MusicianIDCard = musician ID card
+ent-MusicianIDCard = ID картка музиканта
     .desc = { ent-IDCardStandard.desc }
 
-ent-CentcomIDCardDeathsquad = death squad ID card
+ent-CentcomIDCardDeathsquad = ID картка загону смерті
     .desc = { ent-CentcomIDCard.desc }
 
-ent-AgentIDCard = passenger ID card
+ent-AgentIDCard = ID картка асистента
     .desc = { ent-IDCardStandard.desc }
     .suffix = Agent
 
-ent-NukieAgentIDCard = passenger ID card
+ent-NukieAgentIDCard = ID картка асистента
     .desc = { ent-AgentIDCard.desc }
     .suffix = Nukie
 
-ent-AtmosIDCard = atmospheric technician ID card
+ent-AtmosIDCard = ID картка атмосферного техника
     .desc = { ent-IDCardStandard.desc }
 
-ent-SyndicateIDCard = syndicate ID card
+ent-SyndicateIDCard = ID картка Синдикату
     .desc = { ent-IDCardStandard.desc }
 
-ent-PirateIDCard = pirate ID card
+ent-PirateIDCard = ID картка пірата
     .desc = { ent-IDCardStandard.desc }
 
-ent-PsychologistIDCard = psychologist ID card
+ent-PsychologistIDCard = ID картка психолога
     .desc = { ent-IDCardStandard.desc }
 
-ent-ReporterIDCard = reporter ID card
+ent-ReporterIDCard = ID картка репортера
     .desc = { ent-IDCardStandard.desc }
 
-ent-BoxerIDCard = boxer ID card
+ent-BoxerIDCard = ID картка боксера
     .desc = { ent-IDCardStandard.desc }
 
-ent-ZookeeperIDCard = zookeeper ID card
+ent-ZookeeperIDCard = ID картка зоолога
     .desc = { ent-IDCardStandard.desc }
 
-ent-DetectiveIDCard = detective ID card
+ent-DetectiveIDCard = ID картка детектива
     .desc = { ent-IDCardStandard.desc }
 
-ent-CBURNIDcard = CBURN ID card
+ent-CBURNIDcard = ID картка РХБЗ
     .desc = { ent-CentcomIDCard.desc }
-    .suffix = CBURN
+    .suffix = РХБЗ
 
-ent-CluwneIDCard = cluwne ID card
+ent-CluwneIDCard = ID картка клувна
     .desc = { ent-IDCardStandard.desc }
     .suffix = Unremoveable
 
-ent-SeniorEngineerIDCard = senior engineer ID card
+ent-SeniorEngineerIDCard = ID картка старшого інженера
     .desc = { ent-IDCardStandard.desc }
 
-ent-SeniorResearcherIDCard = senior researcher ID card
+ent-SeniorResearcherIDCard = ID картка старшого науковця
     .desc = { ent-IDCardStandard.desc }
 
-ent-SeniorPhysicianIDCard = senior physician ID card
+ent-SeniorPhysicianIDCard = ID картка старшого лікаря
     .desc = { ent-IDCardStandard.desc }
 
-ent-SeniorOfficerIDCard = senior officer ID card
+ent-SeniorOfficerIDCard = ID картка старшого офіцера
     .desc = { ent-IDCardStandard.desc }
 
+ent-UniversalIDCard = універсальна ID картка
+    .desc = ID картка, що надає вам доступи як у ваших мріях.
+    .suffix = Адмін
