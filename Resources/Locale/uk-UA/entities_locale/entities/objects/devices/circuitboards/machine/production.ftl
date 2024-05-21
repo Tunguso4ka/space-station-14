@@ -1,38 +1,38 @@
 ent-AutolatheMachineCircuitboard = плата автолату
-    .desc = A machine printed circuit board for an autolathe
+    .desc = Надрукована плата автолату.
 
 ent-AutolatheHyperConvectionMachineCircuitboard = плата гипер-конвекційного автолату
-    .desc = A machine printed circuit board for a hyper convection autolathe
+    .desc = Надрукована плата гипер-конвекційного автолату.
 
 ent-ProtolatheMachineCircuitboard = плата протолату
-    .desc = A machine printed circuit board for a protolathe.
+    .desc = Надрукована плата протолату.
 
 ent-ProtolatheHyperConvectionMachineCircuitboard = плата гипер-конвекційного протолату
-    .desc = A machine printed circuit board for a hyper convection protolathe.
+    .desc = Надрукована плата гипер-конвейційного протолату.
 
 ent-BiofabricatorMachineCircuitboard = плата біофабрикатору
-    .desc = A machine printed circuit board for a biofabricator.
+    .desc = Надрукована плата біофабрикатору.
 
 ent-SecurityTechFabCircuitboard = плата техфабу безпеки
-    .desc = A machine printed circuit board for a security techfab.
+    .desc = Надрукована плата техфабу безпеки.
 
 ent-AmmoTechFabCircuitboard = плата техфабу набоїв
-    .desc = A machine printed circuit board for an ammo techfab
+    .desc = Надрукована плата техфабу набоїв.
 
 ent-MedicalTechFabCircuitboard = плата медічного техфабу
-    .desc = A machine printed circuit board for a medical techfab.
+    .desc = Надрукована плата медічного техфабу.
 
 ent-CircuitImprinterMachineCircuitboard = плата друкувача плат
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-CircuitImprinterHyperConvectionMachineCircuitboard = hyper convection circuit imprinter machine board
-    .desc = A machine printed circuit board for a hyper convection circuit imprinter.
+ent-CircuitImprinterHyperConvectionMachineCircuitboard = плата гипер-конвекційного друкувача плат.
+    .desc = Надрукована плата гипер-конвекційного друкувача плат.
 
 ent-ExosuitFabricatorMachineCircuitboard = плата фабрикатору екзоскелетів
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-ResearchAndDevelopmentServerMachineCircuitboard = плата наукового серверу
-    .desc = A machine printed circuit board for the R&D server.
+    .desc = Надрукована плата наукового серверу.
 
 ent-UniformPrinterMachineCircuitboard = плата друкувача одягу
     .desc = { ent-BaseMachineCircuitboard.desc }
@@ -44,127 +44,127 @@ ent-DiagnoserMachineCircuitboard = плата диагнозеру
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-ArtifactAnalyzerMachineCircuitboard = плата анализатора артефактів
-    .desc = A machine printed circuit board for an artifact analyzer.
+    .desc = Надрукована плата анализатору артефактів.
 
-ent-ArtifactCrusherMachineCircuitboard = плата роздавлювача артефактів
-    .desc = A machine printed circuit board for an artifact crusher.
+ent-ArtifactCrusherMachineCircuitboard = плата роздрібнювача артефактів
+    .desc = Надрукована плата роздрібнювача артефактів.
 
 ent-AnomalyVesselCircuitboard = плата anomaly vessel
-    .desc = A machine printed circuit board for an anomaly vessel.
+    .desc = Надрукована плата anomaly vessel.
 
 ent-AnomalyVesselExperimentalCircuitboard = плата experimental anomaly vessel
-    .desc = A machine printed circuit board for an experimental anomaly vessel.
+    .desc = Надрукована плата an experimental anomaly vessel.
 
-ent-AnomalySynchronizerCircuitboard = плата anomaly synchronizer
-    .desc = A machine printed circuit board for an anomaly synchronizer.
+ent-AnomalySynchronizerCircuitboard = плата синхронізатора аномалій
+    .desc = Надрукована плата синхронізатор аномалій.
 
 ent-APECircuitboard = плата A.P.E.
-    .desc = A machine printed circuit board for an A.P.E.
+    .desc = Надрукована плата A.P.E.
 
 ent-ThermomachineFreezerMachineCircuitBoard = плата охолоджувача
-    .desc = Looks like you could use a screwdriver to change the board type.
+    .desc = Ви можете змінити тип плати за допомогою викрутки.
 
 ent-ThermomachineHeaterMachineCircuitBoard = плата розігривача
-    .desc = Looks like you could use a screwdriver to change the board type.
+    .desc = Ви можете змінити тип плати за допомогою викрутки.
 
 ent-HellfireFreezerMachineCircuitBoard = плата покращеного охолоджувача
-    .desc = Looks like you could use a screwdriver to change the board type.
+    .desc = Ви можете змінити тип плати за допомогою викрутки.
 
 ent-HellfireHeaterMachineCircuitBoard = плата покращеного розігривача
-    .desc = Looks like you could use a screwdriver to change the board type.
+    .desc = Ви можете змінити тип плати за допомогою викрутки.
 
 ent-CondenserMachineCircuitBoard = плата конденсатору
-    .desc = A machine printed circuit board for a condenser.
+    .desc = Надрукована плата конденсатору.
 
 ent-PortableScrubberMachineCircuitBoard = плата ручного скрубера
-    .desc = A PCB for a portable scrubber.
+    .desc = Плата ручного скрубера.
 
 ent-SpaceHeaterMachineCircuitBoard = плата обігрівача
-    .desc = A machine printed circuit board for a space heater.
+    .desc = Надрукована плата обігрівача.
 
 ent-CloningPodMachineCircuitboard = плата клонувальної капсули
-    .desc = A machine printed circuit board for a cloning pod.
+    .desc = Надрукована плата клонувальної капсули.
 
 ent-MedicalScannerMachineCircuitboard = плата медічного сканера
-    .desc = A machine printed circuit board for a medical scanner.
+    .desc = Надрукована плата медічного сканера.
 
 ent-CrewMonitoringServerMachineCircuitboard = плата серверу моніторингу екіпажа
-    .desc = A machine printed circuit board for a crew monitoring server.
+    .desc = Надрукована плата серверу моніторинга екіпажа.
 
-ent-CryoPodMachineCircuitboard = плата крио-капсули
-    .desc = A machine printed circuit board for a cryo pod.
+ent-CryoPodMachineCircuitboard = плата кріо-капсули
+    .desc = Надрукована плата кріо-капсули.
 
-ent-ChemMasterMachineCircuitboard = плата ХімМасетра 4000
-    .desc = A machine printed circuit board for a ChemMaster 4000.
+ent-ChemMasterMachineCircuitboard = плата ХімМайстера 4000
+    .desc = Надрукована плата ХімМайстера 4000.
 
 ent-ChemDispenserMachineCircuitboard = плата хім дозатора
-    .desc = A machine printed circuit board for a chem dispenser.
+    .desc = Надрукована плата хім дозатора.
 
 ent-BiomassReclaimerMachineCircuitboard = плата переробника біомаси
-    .desc = A machine printed circuit board for a biomass reclaimer.
+    .desc = Надрукована плата переробника біомаси.
 
 ent-HydroponicsTrayMachineCircuitboard = плата ботанічної грядці
-    .desc = A machine printed circuit board for a hydroponics tray.
+    .desc = Надрукована плата ботанічної грядці.
 
 ent-SeedExtractorMachineCircuitboard = плата екстрактора насіння
-    .desc = A machine printed circuit board for a seed extractor.
+    .desc = Надрукована плата екстрактора насіння.
 
 ent-SMESMachineCircuitboard = плата НпМА
-    .desc = A machine printed circuit board for a SMES.
+    .desc = Надрукована плата НпМа.
 
 ent-CellRechargerCircuitboard = плата зарядки батарейок
-    .desc = A machine printed circuit board for a cell recharger.
+    .desc = Надрукована плата зарядки батарейок.
 
 ent-PowerCageRechargerCircuitboard = плата зарядки акумуляторів
-    .desc = A machine printed circuit board for a energy cage recharger.
+    .desc = Надрукована плата зарядки акумуляторів.
 
 ent-BorgChargerCircuitboard = плата зарядки киборгів
-    .desc = A machine printed circuit board for a robot recharging station.
+    .desc = Надрукована плата зарядки киборгів.
 
 ent-WeaponCapacitorRechargerCircuitboard = плата зарядки
-    .desc = A machine printed circuit board for a recharger.
+    .desc = Надрукована плата зарядки.
 
 ent-TurboItemRechargerCircuitboard = плата турбо зарядки
-    .desc = A machine printed circuit board for a turbo recharger.
+    .desc = Надрукована плата турбо зарядки.
 
 ent-SubstationMachineCircuitboard = плата підстанції
-    .desc = A machine printed circuit board for a substation.
+    .desc = Надрукована плата підстанції.
 
-ent-DawInstrumentMachineCircuitboard = digital audio workstation плата
+ent-DawInstrumentMachineCircuitboard = плата цифрової аудіо станції
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-PortableGeneratorPacmanMachineCircuitboard = P.A.C.M.A.N.-type portable generator плата
+ent-PortableGeneratorPacmanMachineCircuitboard = плата портативного генератора P.A.C.M.A.N.
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-ThrusterMachineCircuitboard = плата двигуна
+ent-ThrusterMachineCircuitboard = плата рушійної установки
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-GyroscopeMachineCircuitboard = плата гироскопа
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-PortableGeneratorSuperPacmanMachineCircuitboard = S.U.P.E.R.P.A.C.M.A.N.-type portable generator плата
+ent-PortableGeneratorSuperPacmanMachineCircuitboard = плата портативного генератора S.U.P.E.R.P.A.C.M.A.N.
     .desc = { ent-BaseMachineCircuitboard.desc }
 
-ent-PortableGeneratorJrPacmanMachineCircuitboard = J.R.P.A.C.M.A.N.-type portable generator плата
+ent-PortableGeneratorJrPacmanMachineCircuitboard = плата портативного генератора J.R.P.A.C.M.A.N.
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-ReagentGrinderMachineCircuitboard = плата подрібнювача реагентів
-    .desc = A machine printed circuit board for a reagent grinder.
+    .desc = Надрукована плата подрібнювача реагентів.
 
 ent-HotplateMachineCircuitboard = плата конфорки
-    .desc = A machine printed circuit board for a hotplate.
+    .desc = Надрукована плата конфорки.
 
 ent-ElectricGrillMachineCircuitboard = плата електро-гриля
-    .desc = A machine printed circuit board for an electric grill.
+    .desc = Надрукована плата електро-гриля.
 
 ent-StasisBedMachineCircuitboard = плата стазісного ліжка
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-ElectrolysisUnitMachineCircuitboard = плата пристрою електролизу
-    .desc = A machine printed circuit board for an electrolysis unit.
+    .desc = Надрукована плата пристрою електролизу.
 
 ent-CentrifugeMachineCircuitboard = плата центрифуги
-    .desc = A machine printed circuit board for a centrifuge.
+    .desc = Надрукована плата центрифуги.
 
 ent-MaterialReclaimerMachineCircuitboard = плата переробника матеріалів
     .desc = { ent-BaseMachineCircuitboard.desc }
@@ -191,56 +191,55 @@ ent-EmitterCircuitboard = плата емітора
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-SurveillanceCameraRouterCircuitboard = surveillance camera router board
-    .desc = A machine printed circuit board for a surveillance camera router.
+    .desc = Надрукована плата a surveillance camera router.
 
 ent-SurveillanceCameraWirelessRouterCircuitboard = surveillance camera wireless router board
-    .desc = A machine printed circuit board for a surveillance camera wireless router.
+    .desc = Надрукована плата a surveillance camera wireless router.
 
 ent-SurveillanceWirelessCameraMovableCircuitboard = movable wireless camera board
-    .desc = A machine printed circuit board for a movable wireless camera.
+    .desc = Надрукована плата a movable wireless camera.
 
 ent-SurveillanceWirelessCameraAnchoredCircuitboard = wireless camera board
-    .desc = A machine printed circuit board for a wireless camera.
+    .desc = Надрукована плата a wireless camera.
 
 ent-GasRecyclerMachineCircuitboard = gas recycler board
     .desc = A printed circuit board for a gas recycler.
 
 ent-BoozeDispenserMachineCircuitboard = плата дозатору алкоголю
-    .desc = A machine printed circuit board for a booze dispenser.
+    .desc = Надрукована плата a booze dispenser.
 
 ent-CargoTelepadMachineCircuitboard = плата вантажного телепаду
-    .desc = A machine printed circuit board for a cargo telepad.
+    .desc = Надрукована плата a cargo telepad.
 
 ent-SodaDispenserMachineCircuitboard = плата дозатору соди
-    .desc = A machine printed circuit board for a soda dispenser.
+    .desc = Надрукована плата a soda dispenser.
 
 ent-TelecomServerCircuitboard = плата серверу телекомунікацій
-    .desc = A machine printed circuit board for an telecommunication server.
+    .desc = Надрукована плата an telecommunication server.
 
 ent-SalvageMagnetMachineCircuitboard = плата шахтарського магниту
-    .desc = A machine printed circuit board for a salvage magnet.
+    .desc = Надрукована плата a salvage magnet.
 
 ent-MiniGravityGeneratorCircuitboard = плата маленього генератору гравитації
-    .desc = A machine printed circuit board for a mini gravity generator.
+    .desc = Надрукована плата a mini gravity generator.
 
 ent-ShuttleGunSvalinnMachineGunCircuitboard = LSE-400c "Svalinn machine gun" плата
-    .desc = A machine printed circuit board for an LSE-400c "Svalinn machine gun"
+    .desc = Надрукована плата an LSE-400c "Svalinn machine gun"
 
 ent-ShuttleGunPerforatorCircuitboard = LSE-1200c "Perforator" плата
-    .desc = A machine printed circuit board for an LSE-1200c "Perforator"
+    .desc = Надрукована плата an LSE-1200c "Perforator"
 
 ent-ShuttleGunFriendshipCircuitboard = EXP-320g "Friendship" плата
-    .desc = A machine printed circuit board for an EXP-320g "Friendship"
+    .desc = Надрукована плата an EXP-320g "Friendship"
 
 ent-ShuttleGunDusterCircuitboard = EXP-2100g "Duster" плата
-    .desc = A machine printed circuit board for an EXP-2100g "Duster"
+    .desc = Надрукована плата an EXP-2100g "Duster"
 
 ent-ShuttleGunKineticCircuitboard = PTK-800 "Matter Dematerializer" плата
-    .desc = A machine printed circuit board for an PTK-800 "Matter Dematerializer"
+    .desc = Надрукована плата an PTK-800 "Matter Dematerializer"
 
 ent-ReagentGrinderIndustrialMachineCircuitboard = плата покращеного подрібнювача елементів
     .desc = { ent-BaseMachineCircuitboard.desc }
 
 ent-JukeboxCircuitBoard = плата музичного автомату
-    .desc = A machine printed circuit board for a jukebox.
-
+    .desc = Надрукована плата музичного автомату.

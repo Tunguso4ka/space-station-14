@@ -1,17 +1,16 @@
-ent-BaseHardBomb = hardbomb
-    .desc = Just keep talking and nobody will explode.
+ent-BaseHardBomb = тяжка бомба
+    .desc = Продовжуйте розмовляти й ніхто не вибухне.
 
-ent-TrainingBomb = training bomb
-    .desc = A bomb for dummies, manual not included.
+ent-TrainingBomb = тренувальна бомба
+    .desc = Бомба для самих маленьких, без мануалу.
 
-ent-SyndicateBomb = syndicate bomb
-    .desc = A bomb for Syndicate operatives and agents alike. The real deal, no more training, get to it!
+ent-SyndicateBomb = бомба Синдикату
+    .desc = Бомба оперативників та агентів Синдикату. Вже не час для тренувань, вот она реальна справа.
 
 ent-SyndicateBombFake = { ent-SyndicateBomb }
     .desc = { ent-SyndicateBomb.desc }
     .suffix = fake
 
-ent-DebugHardBomb = debug bomb
-    .desc = Holy shit this is gonna explode
+ent-DebugHardBomb = бомба для відладки
+    .desc = О мій бог, вона вибухне!
     .suffix = DEBUG
-

@@ -1,27 +1,26 @@
-ent-ClothingShoesColorBlack = black shoes
-    .desc = Stylish black shoes.
+ent-ClothingShoesColorBlack = чорні кросівки
+    .desc = Стильні чорні кросівки.
 
-ent-ClothingShoesColorBlue = blue shoes
-    .desc = Stylish blue shoes.
+ent-ClothingShoesColorBlue = сині кросівки
+    .desc = Стильні сині кросівки.
 
-ent-ClothingShoesColorBrown = brown shoes
-    .desc = A pair of brown shoes.
+ent-ClothingShoesColorBrown = коричневі кросівки
+    .desc = Пара коричневих кросівок.
 
-ent-ClothingShoesColorGreen = green shoes
-    .desc = Stylish green shoes.
+ent-ClothingShoesColorGreen = зелені кросівки
+    .desc = Стильні зелені кросівки.
 
-ent-ClothingShoesColorOrange = orange shoes
-    .desc = Stylish orange shoes.
+ent-ClothingShoesColorOrange = оранжеві кросівки
+    .desc = Стильні оранжеві кросівки.
 
-ent-ClothingShoesColorPurple = purple shoes
-    .desc = Stylish purple shoes.
+ent-ClothingShoesColorPurple = фіолетові кросівки
+    .desc = Стильні фіолетові кросівки.
 
-ent-ClothingShoesColorRed = red shoes
-    .desc = Stylish red shoes.
+ent-ClothingShoesColorRed = червоні кросівки
+    .desc = Стильні червоні кросівки.
 
-ent-ClothingShoesColorWhite = white shoes
-    .desc = Don't take them off at your office Christmas party.
+ent-ClothingShoesColorWhite = білі кросівки
+    .desc = Краще не зімай їх на Різдв'янної вечирці.
 
-ent-ClothingShoesColorYellow = yellow shoes
-    .desc = Stylish yellow shoes.
-
+ent-ClothingShoesColorYellow = жовті кросівки
+    .desc = Стильні жовті кросівки.

@@ -1,5 +1,3 @@
-ent-BaseMobSkeletonPerson = Urist McSkelly
+ent-BaseMobSkeletonPerson = Уріст МакСкелі
 
 ent-MobSkeletonPersonDummy = { ent-BaseSpeciesDummy }
-    .desc = { ent-BaseSpeciesDummy.desc }
-

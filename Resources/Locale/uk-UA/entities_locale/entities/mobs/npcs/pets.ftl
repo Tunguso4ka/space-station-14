@@ -1,73 +1,72 @@
-ent-MobCorgiIan = Ian
-    .desc = Favorite pet corgi.
+ent-MobCorgiIan = Іан
+    .desc = Улюблена тваринка коргі.
 
-ent-MobCorgiIanOld = Old Ian
-    .desc = Still the favorite pet corgi. Love his wheels.
+ent-MobCorgiIanOld = Старий Іан
+    .desc = Все ще улюблена тваринка коргі. Він любить свої колесика.
 
-ent-MobCorgiLisa = Lisa
-    .desc = Ian's favorite corgi.
+ent-MobCorgiLisa = Ліза
+    .desc = Улюблена коргі Іана.
 
-ent-MobCorgiIanPup = Puppy Ian
-    .desc = Favourite puppy corgi. Awww.
+ent-MobCorgiIanPup = Цуценятко Іан
+    .desc = Улюблене цуценя коргі. Ваууу.
 
-ent-MobCatRuntime = Runtime
-    .desc = Professional mouse hunter. Escape artist.
+ent-MobCatRuntime = Рантайм
+    .desc = Професійна охотниця на мишей. Митець по втечі.
 
-ent-MobCatException = Exception
-    .desc = Ask nicely, and maybe they'll give you one of their spare lives.
+ent-MobCatException = Виняток
+    .desc = Спитайте по доброму й мабуть вони віддадуть вам одне зі своїх життів.
 
-ent-MobCatFloppa = Floppa
-    .desc = He out here.
+ent-MobCatFloppa = Флоппа
+    .desc = Він тут.
 
-ent-MobBandito = Bandito
-    .desc = Just a silly little guy!
+ent-MobBandito = Бандіто
+    .desc = Просто маленький глупенький хлопчак!
 
-ent-MobBingus = Bingus
-    .desc = Bingus my beloved...
+ent-MobBingus = Бінгус
+    .desc = Бінгус мій любий...
 
-ent-MobMcGriff = McGriff
-    .desc = This dog can tell something smells around here, and that something is CRIME!
+ent-MobMcGriff = МакГріф
+    .desc = Цей собака може сказати що тут чимось пахне, й це чимось - ЗЛОЧИНІСТЬ!
 
-ent-MobPaperwork = Paperwork
-    .desc = Took up a new job sorting books in the library after he got transferred from Space Station 13. He seems to be just as slow at this.
+ent-MobPaperwork = Паперовник
+    .desc = Получив свою нову роботу по сортуванню книг в бібліотеці з моменту переводу з Космічної Станції 13. По прогресу ви можете сказати що він доволі повільний.
 
-ent-MobWalter = Walter
-    .desc = He likes chems and treats. Walter.
+ent-MobWalter = Волтер
+    .desc = Він любить хімікати й смачняшки. Волтер.
 
-ent-MobPossumMorty = Morty
-    .desc = The station's resident Didelphis virginiana. A sensitive but resilient kind of guy.
+ent-MobPossumMorty = Морті
+    .desc = Станційний Didelphis virginiana. Чутливий але запеклий тип чувака..
 
-ent-MobPossumMortyOld = Morty
+ent-MobPossumMortyOld = Морті
     .desc = { ent-MobPossumMorty.desc }
     .suffix = Old sprite
 
-ent-MobPossumPoppy = Poppy
+ent-MobPossumPoppy = Мак
     .desc = It's an opossum, a small scavenging marsupial. It's wearing appropriate personal protective equipment.
 
-ent-MobRaccoonMorticia = Morticia
-    .desc = A powerful creature of the night. Her eyeshadow is always on point.
+ent-MobRaccoonMorticia = Мортіша
+    .desc = Сильна істота ночі. Її тіні повік завжди на ній.
 
-ent-MobAlexander = Alexander
-    .desc = Chef's finest colleague.
+ent-MobAlexander = Саня
+    .desc = Найкращий колега кухаря.
 
-ent-MobFoxRenault = Renault
-    .desc = The captain's trustworthy fox.
+ent-MobFoxRenault = Рено
+    .desc = Надійна лисиця капітана.
 
-ent-MobHamsterHamlet = Hamlet
-    .desc = A grumpy, cute and fluffy hamster.
+ent-MobHamsterHamlet = Гамлет
+    .desc = Буркотливий, милий і пухнастий хом'як.
 
-ent-MobSpiderShiva = Shiva
-    .desc = The first defender of the station.
+ent-MobSpiderShiva = Шіва
+    .desc = Перший захисник станції.
 
-ent-MobKangarooWillow = Willow
-    .desc = Willow the boxing kangaroo.
+ent-MobKangarooWillow = Віллоу
+    .desc = Кенгуру-боксер Віллоу.
 
-ent-MobSlimesPet = Smile
-    .desc = This masterpiece has gone through thousands of experiments. But it is the sweetest creature in the world. Smile Slime!
+ent-MobSlimesPet = Посмішко
+    .desc = Воно пройшло через тисячі експерементів. Але воно все ще найкращо істота у світі. Посміхнися Посмішко!
 
-ent-MobMonkeyPunpun = Pun Pun
-    .desc = A prominent representative of monkeys with unlimited access to alcohol.
+ent-MobMonkeyPunpun = Пун Пун
+    .desc = Видатний представник мавп з необмежним доступом до алкоголю
 
-ent-MobCrabAtmos = Tropico
-    .desc = The noble and stalwart defender of Atmosia. Viva!
-
+ent-MobCrabAtmos = Тропіко
+    .desc = Благородний та стійкий захисник Атмосії. Віва!

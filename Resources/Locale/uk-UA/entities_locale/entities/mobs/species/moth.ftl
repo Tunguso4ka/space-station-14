@@ -1,6 +1,3 @@
-ent-BaseMobMoth = Urist McFluff
-    .desc = { ent-BaseMobSpeciesOrganic.desc }
+ent-BaseMobMoth = Уріст МакФлаф
 
 ent-MobMothDummy = { ent-BaseSpeciesDummy }
-    .desc = { ent-BaseSpeciesDummy.desc }
-

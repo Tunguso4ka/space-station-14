@@ -1,72 +1,71 @@
-ent-ClothingBackpackDuffel = duffel bag
-    .desc = A large duffel bag for holding extra things.
+ent-ClothingBackpackDuffel = мішок
+    .desc = Великий мішок що може тримати в собі ще більше речей.
 
-ent-ClothingBackpackDuffelEngineering = engineering duffel bag
-    .desc = A large duffel bag for holding extra tools and supplies.
+ent-ClothingBackpackDuffelEngineering = інженерний мішок
+    .desc = Великий мішок що може тримати в собі ще більше інструментів.
 
-ent-ClothingBackpackDuffelAtmospherics = atmospherics duffel bag
-    .desc = A large duffel bag made of fire resistant fibers. Smells like plasma.
+ent-ClothingBackpackDuffelAtmospherics = атмосферний мішок
+    .desc = Великий мішок зроблений з вогнебезпечних фібр. Пахне плазмою.
 
-ent-ClothingBackpackDuffelMedical = medical duffel bag
-    .desc = A large duffel bag for holding extra medical supplies.
+ent-ClothingBackpackDuffelMedical = медічний мішок
+    .desc = Великий мішок що може тримати додатокві медічні припаси.
 
-ent-ClothingBackpackDuffelCaptain = captain's duffel bag
-    .desc = A large duffel bag for holding extra captainly goods.
+ent-ClothingBackpackDuffelCaptain = мішок капітана
+    .desc = Великий мішок що може тримати додаткові речі.
 
-ent-ClothingBackpackDuffelClown = clown duffel bag
-    .desc = A large duffel bag for holding extra honk goods.
+ent-ClothingBackpackDuffelClown = мішок клоуна
+    .desc = Великий мішок що може тримати додаткові іграшки.
 
-ent-ClothingBackpackDuffelSecurity = security duffel bag
-    .desc = A large duffel bag for holding extra security related goods.
+ent-ClothingBackpackDuffelSecurity = мішок офіцера
+    .desc = Великий мішок що може тримати додаткові речі офіцерів.
 
-ent-ClothingBackpackDuffelBrigmedic = brigmedic duffel bag
-    .desc = A large duffel bag for holding extra medical related goods.
+ent-ClothingBackpackDuffelBrigmedic = мішок бригмедика
+    .desc = Великий мішок що може тримати додаткові речі лікарів.
 
-ent-ClothingBackpackDuffelChemistry = chemistry duffel bag
-    .desc = A large duffel bag for holding extra beakers and test tubes.
+ent-ClothingBackpackDuffelChemistry = мішок хіміка
+    .desc = Великий мішок що може тримати додаткові склянці.
 
-ent-ClothingBackpackDuffelVirology = virology duffel bag
-    .desc = A large duffel bag made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
+ent-ClothingBackpackDuffelVirology = мішок віролога
+    .desc = A large мішок made of hypo-allergenic fibers. It's designed to help prevent the spread of disease. Smells like monkey.
 
-ent-ClothingBackpackDuffelGenetics = genetics duffel bag
-    .desc = A large duffel bag for holding extra genetic mutations.
+ent-ClothingBackpackDuffelGenetics = мішок генетика
+    .desc = Великий мішок що може тримати додаткові генетичні мутації.
 
-ent-ClothingBackpackDuffelMime = mime duffel bag
-    .desc = A large duffel bag for holding... mime... stuff.
+ent-ClothingBackpackDuffelMime = мішок міма
+    .desc = Великий мішок що може тримати... речі... міма.
 
-ent-ClothingBackpackDuffelScience = science duffel bag
-    .desc = A large duffel bag for holding extra science related goods.
+ent-ClothingBackpackDuffelScience = мішок науковця
+    .desc = Великий мішок що може тримати додаткові речі науковців.
 
-ent-ClothingBackpackDuffelHydroponics = hydroponics duffel bag
-    .desc = A large duffel bag for holding extra gardening tools.
+ent-ClothingBackpackDuffelHydroponics = мішок ботаніка
+    .desc = Великий мішок що може тримати додаткові польові інструменти.
 
-ent-ClothingBackpackDuffelCargo = cargo duffel bag
-    .desc = A large duffel bag for stealing cargo's precious loot.
+ent-ClothingBackpackDuffelCargo = мішок логіста
+    .desc = Великий мішок для зберігання куплених речей.
 
-ent-ClothingBackpackDuffelSalvage = salvage duffel bag
-    .desc = A large duffel bag for holding extra exotic treasures.
+ent-ClothingBackpackDuffelSalvage = мішок щахтаря
+    .desc = Великий мішок що може тримати додаткове награбоване добро.
 
-ent-ClothingBackpackDuffelSyndicate = syndicate duffel bag
-    .desc = A large duffel bag for holding various traitor goods.
+ent-ClothingBackpackDuffelSyndicate = мішок Синдикату
+    .desc = Великий мішок що може тримати різні злі штуки.
 
 ent-ClothingBackpackDuffelSyndicateBundle = { ent-ClothingBackpackDuffelSyndicate }
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
 
-ent-ClothingBackpackDuffelSyndicateAmmo = syndicate duffel bag
+ent-ClothingBackpackDuffelSyndicateAmmo = мішок Синдикату
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
 
 ent-ClothingBackpackDuffelSyndicateAmmoBundle = { ent-ClothingBackpackDuffelSyndicateAmmo }
     .desc = { ent-ClothingBackpackDuffelSyndicateAmmo.desc }
 
-ent-ClothingBackpackDuffelSyndicateMedical = syndicate duffel bag
+ent-ClothingBackpackDuffelSyndicateMedical = мішок Синдикату
     .desc = { ent-ClothingBackpackDuffelSyndicate.desc }
 
 ent-ClothingBackpackDuffelSyndicateMedicalBundle = { ent-ClothingBackpackDuffelSyndicateMedical }
     .desc = { ent-ClothingBackpackDuffelSyndicateMedical.desc }
 
-ent-ClothingBackpackDuffelHolding = duffelbag of holding
-    .desc = A duffelbag that opens into a localized pocket of bluespace.
+ent-ClothingBackpackDuffelHolding = мішок тримання
+    .desc = Мішок який відкривається в локалізований простір блюспейсу.
 
-ent-ClothingBackpackDuffelCBURN = CBURN duffel bag
-    .desc = A duffel bag containing a variety of biological containment equipment.
-
+ent-ClothingBackpackDuffelCBURN = мішок РХБЗ
+    .desc = Мішок тримаючий в собі додаткові речі біологічної боротьби.

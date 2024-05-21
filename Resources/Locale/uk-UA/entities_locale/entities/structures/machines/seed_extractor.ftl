@@ -1,3 +1,2 @@
-ent-SeedExtractor = seed extractor
-    .desc = Extracts seeds from produce.
-
+ent-SeedExtractor = екстрактор насіння
+    .desc = Екстрактує насіння з овочей та фруктів.

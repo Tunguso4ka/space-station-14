@@ -1,28 +1,27 @@
-ent-MobRatKing = Rat King
-    .desc = He's da rat. He make da roolz.
+ent-MobRatKing = Щурячий король
+    .desc = Він той щур що робить правила.
 
 ent-MobRatKingBuff = { ent-MobRatKing }
     .desc = { ent-MobRatKing.desc }
     .suffix = Buff
 
-ent-MobRatServant = Rat Servant
-    .desc = He's da mini rat. He don't make da roolz.
+ent-MobRatServant = Щурячий слуга
+    .desc = Він міні-щур й він не робить правила.
 
-ent-ActionRatKingRaiseArmy = Raise Army
-    .desc = Spend some hunger to summon an allied rat to help defend you.
+ent-ActionRatKingRaiseArmy = Зібрати армію
+    .desc = Витратити трошечки голоду щоб викликати союзного щура.
 
-ent-ActionRatKingDomain = Rat King's Domain
-    .desc = Spend some hunger to release a cloud of ammonia into the air.
+ent-ActionRatKingDomain = Володіння Щурячого короля
+    .desc = Витратити трошечки голоду щоб випустити хмару аміаку у повітря.
 
-ent-ActionRatKingOrderStay = Stay
-    .desc = Command your army to stand in place.
+ent-ActionRatKingOrderStay = Стояти
+    .desc = Наказати вашеї армії тримати позицію.
 
-ent-ActionRatKingOrderFollow = Follow
-    .desc = Command your army to follow you around.
+ent-ActionRatKingOrderFollow = Слідувати
+    .desc = Наказати армії слідувати за вами.
 
-ent-ActionRatKingOrderCheeseEm = Cheese 'Em
-    .desc = Command your army to attack whoever you point at.
+ent-ActionRatKingOrderCheeseEm = Взяти їх
+    .desc = Наказати армії атакувати будь кого на кого ви вкажете.
 
-ent-ActionRatKingOrderLoose = Loose
-    .desc = Command your army to act at their own will.
-
+ent-ActionRatKingOrderLoose = Вільно
+    .desc = Наказати вашої армії діяти як їм забажається.

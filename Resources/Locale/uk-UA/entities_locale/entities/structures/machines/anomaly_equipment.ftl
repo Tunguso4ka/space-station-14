@@ -7,6 +7,5 @@ ent-MachineAnomalyVesselExperimental = experimental anomaly vessel
 ent-MachineAPE = A.P.E.
     .desc = An Anomalous Particle Emitter, capable of shooting out unstable particles which can interface with anomalies.
 
-ent-MachineAnomalyGenerator = anomaly generator
-    .desc = The peak of pseudoscientific technology.
-
+ent-MachineAnomalyGenerator = генератор аномалій
+    .desc = Верх псевдонаучних технологій.

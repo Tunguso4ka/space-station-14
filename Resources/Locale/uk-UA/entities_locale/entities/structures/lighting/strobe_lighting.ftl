@@ -1,9 +1,9 @@
-ent-AlwaysPoweredStrobeLight = strobe
-    .desc = UH?! Sorry, all I can hear is WEE-OOO-WEE-OOO!
+ent-AlwaysPoweredStrobeLight = стробоскоп
+    .desc = ГА?! Пробач, я не чую тебе із-за постійного ВІ-У-ВІ-У!
     .suffix = Always powered
 
 ent-PoweredStrobeLightEmpty = strobe
-    .desc = UH?! Sorry, all I can hear is WEE-OOO-WEE-OOO!
+    .desc = ГА?! Пробач, я не чую тебе із-за постійного ВІ-У-ВІ-У!
     .suffix = Empty
 
 ent-PoweredStrobeLightPolice = { ent-PoweredStrobeLightEmpty }
@@ -17,4 +17,3 @@ ent-PoweredStrobeLightSiren = { ent-PoweredStrobeLightEmpty }
 ent-PoweredStrobeLightEpsilon = { ent-PoweredStrobeLightEmpty }
     .desc = { ent-PoweredStrobeLightEmpty.desc }
     .suffix = "Empty, epsilon"
-

@@ -1,6 +1,5 @@
-ent-GravityGenerator = gravity generator
-    .desc = It's what keeps you to the floor.
+ent-GravityGenerator = генератор гравитації
+    .desc = Це те що тримає вас на підлозі.
 
-ent-GravityGeneratorMini = mini gravity generator
-    .desc = It's what keeps you to the floor, now in fun size.
-
+ent-GravityGeneratorMini = міні генератор гравитації
+    .desc = Це те що тримає вас на підлозі. Тепер у маленькому розмірі.

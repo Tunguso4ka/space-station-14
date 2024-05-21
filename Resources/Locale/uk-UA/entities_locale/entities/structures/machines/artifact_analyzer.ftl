@@ -1,6 +1,5 @@
-ent-MachineArtifactAnalyzer = artifact analyzer
-    .desc = A platform capable of performing analysis on various types of artifacts.
+ent-MachineArtifactAnalyzer = аналізатор артефактів
+    .desc = Платформа що може робити анализ різних типів артефактів.
 
-ent-MachineArtifactCrusher = artifact crusher
-    .desc = Best not to let your fingers get stuck...
-
+ent-MachineArtifactCrusher = роздрібнювач артефактів
+    .desc = Вам краще берегти свої пальці подалі від нього.

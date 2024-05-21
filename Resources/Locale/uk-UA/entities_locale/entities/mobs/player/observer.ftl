@@ -1,18 +1,17 @@
-ent-MobObserver = observer
-    .desc = Boo!
+ent-MobObserver = оглядач
+    .desc = Бу!
 
-ent-ActionGhostBoo = Boo!
-    .desc = Scare your crew members because of boredom!
+ent-ActionGhostBoo = Бу!
+    .desc = Нажахайте свій екіпаж!
 
-ent-ActionToggleLighting = Toggle All Lighting
-    .desc = Toggle all light rendering to better observe dark areas.
+ent-ActionToggleLighting = Перемкнути усе освітлення
+    .desc = Перемикає освітлення щоб краще бачити темні зони.
 
-ent-ActionToggleFov = Toggle FoV
-    .desc = Toggles field-of-view in order to see what players see.
+ent-ActionToggleFov = Перемкнути поле зору
+    .desc = Перемикає полез зору для того щоб бачити все як гравець.
 
-ent-ActionToggleGhosts = Toggle Ghosts
-    .desc = Toggle the visibility of other ghosts.
+ent-ActionToggleGhosts = Перемкнути привидів
+    .desc = Перемикає видімість інших привидів.
 
-ent-ActionToggleGhostHearing = Toggle Ghost Hearing
-    .desc = Toggle between hearing all messages and hearing only radio & nearby messages.
-
+ent-ActionToggleGhostHearing = Перемкнути слух
+    .desc = Перемикає між усіма сповіщеннями, або найбліжчима.

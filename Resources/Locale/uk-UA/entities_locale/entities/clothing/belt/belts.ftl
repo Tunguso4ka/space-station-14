@@ -55,8 +55,8 @@ ent-ClothingBeltMilitaryWebbing = chest rig
 ent-ClothingBeltMilitaryWebbingMed = medical chest rig
     .desc = A set of tactical webbing worn by Gorlex Marauder medic operatives.
 
-ent-ClothingBeltSuspenders = suspenders
-    .desc = For holding your pants up.
+ent-ClothingBeltSuspenders = підтяжки
+    .desc = Це тримає ваші штані.
 
 ent-ClothingBeltWand = wand belt
     .desc = A belt designed to hold various rods of power. A veritable fanny pack of exotic magic.

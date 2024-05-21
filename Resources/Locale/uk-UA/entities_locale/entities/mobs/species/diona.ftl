@@ -1,6 +1,3 @@
-ent-BaseMobDiona = Urist McPlants
-    .desc = { ent-BaseMobSpeciesOrganic.desc }
+ent-BaseMobDiona = Уріст МакПлентс
 
 ent-MobDionaDummy = { ent-BaseSpeciesDummy }
-    .desc = { ent-BaseSpeciesDummy.desc }
-

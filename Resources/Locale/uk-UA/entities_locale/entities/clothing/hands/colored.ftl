@@ -1,40 +1,39 @@
 ent-ClothingHandsGlovesColorPurple = фіолетові рукавички
-    .desc = Regular purple gloves that do not keep you from frying.
+    .desc = Звичайні фіолетові рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorRed = червоні рукавички
-    .desc = Regular red gloves that do not keep you from frying.
+    .desc = Звичайні червоні рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorBlue = сині рукавички
-    .desc = Regular blue gloves that do not keep you from frying.
+    .desc = Звичайні сині рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorBrown = коричневі рукавички
-    .desc = Regular brown gloves that do not keep you from frying.
+    .desc = Звичайні коричневі рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorGray = сірі рукавички
-    .desc = Regular grey gloves that do not keep you from frying.
+    .desc = Звичайні сірі рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorGreen = зелені рукавички
-    .desc = Regular green gloves that do not keep you from frying.
+    .desc = Звичайні зелені рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorLightBrown = світло коричневі рукавички
-    .desc = Regular light brown gloves that do not keep you from frying.
+    .desc = Звичайні світло коричневі рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorOrange = оранжеві рукавички
-    .desc = Regular orange gloves that do not keep you from frying.
+    .desc = Звичайні оранжеві рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorWhite = білі рукавички
-    .desc = Those gloves look fancy.
+    .desc = Ці рукавички виглядають чудово.
 
 ent-ClothingHandsGlovesColorBlack = чорні рукавички
-    .desc = Regular black gloves that do not keep you from frying.
+    .desc = Звичайні чорні рукавички що не збережуть вас від удару струмом.
 
 ent-ClothingHandsGlovesColorYellow = ізольовані рукавички
-    .desc = These gloves will protect the wearer from electric shocks.
+    .desc = Ці рукавички збережуть ваші ручки від електричного удару.
 
 ent-ClothingHandsGlovesColorYellowBudget = бюджетні ізольовані рукавички
-    .desc = These gloves are cheap knockoffs of the coveted ones - no way this can end badly.
+    .desc = Ці рукавички - дешева підробка. Ніхто не знає чи піджарять вони тебе чи ні.
 
 ent-ClothingHandsGlovesConducting = { ent-ClothingHandsGlovesColorYellow }
     .desc = { ent-ClothingHandsGlovesColorYellow.desc }
     .suffix = Conducting
-

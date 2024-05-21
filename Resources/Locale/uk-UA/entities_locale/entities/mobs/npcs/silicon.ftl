@@ -1,20 +1,19 @@
 ent-MobSiliconBase = ця сутність не має назви
 
-ent-MobHonkBot = honkbot
-    .desc = Horrifying.
+ent-MobHonkBot = хонкбот
+    .desc = Жахливо.
 
-ent-MobJonkBot = jonkbot
-    .desc = Horrifying.
+ent-MobJonkBot = джонкбот
+    .desc = Жахливо.
 
-ent-MobCleanBot = cleanbot
-    .desc = The creep of automation now threatening space janitors.
+ent-MobCleanBot = чистобот
+    .desc = Жахи автоматізації тепер загрожують й космічним прибиральникам.
 
-ent-MobMedibot = medibot
-    .desc = No substitute for a doctor, but better than nothing.
+ent-MobMedibot = медібот
+    .desc = Не є заміною лікарю, але краще ніж ніщо.
 
-ent-MobMimeBot = mimebot
-    .desc = Why not give mimebot a friendly wave.
+ent-MobMimeBot = мімбот
+    .desc = Чому б не помахати йому у відповідь?
 
-ent-MobSupplyBot = supplybot
-    .desc = Delivers cargo!
-
+ent-MobSupplyBot = логістобот
+    .desc = Діставляє пакунки!

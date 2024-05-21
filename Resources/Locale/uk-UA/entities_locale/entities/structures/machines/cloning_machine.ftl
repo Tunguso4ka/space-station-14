@@ -1,3 +1,2 @@
-ent-CloningPod = cloning pod
-    .desc = A Cloning Pod. 50% reliable.
-
+ent-CloningPod = клонувальна капсула
+    .desc = Клонувальна капсула. Надійна на всі 50 відсотків.

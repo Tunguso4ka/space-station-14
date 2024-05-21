@@ -1,3 +1,1 @@
-ent-MobVox = Vox
-    .desc = { ent-BaseMobVox.desc }
-
+ent-MobVox = Вокс

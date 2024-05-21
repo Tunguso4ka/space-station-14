@@ -1,7 +1,6 @@
-ent-MobTick = space tick
-    .desc = It's a space tick, watch out for its nasty bite. CentCom reports that 90 percent of cargo leg amputations are due to space tick bites.
+ent-MobTick = космічний кліщ
+    .desc = Це космічний кліщ. Стережися його укусу. ЦентКом каже що 90 відсотків ампутацій ніг логістів із-за них.
 
 ent-MobTickSalvage = { ent-MobTick }
     .desc = { ent-MobTick.desc }
     .suffix = "Salvage Ruleset"
-

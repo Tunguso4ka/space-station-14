@@ -1,5 +1,5 @@
-ent-MobRatvarBase = Ratvar
-    .desc = Your mind aches as it fails to understand the complex mechanics of what is before you.
+ent-MobRatvarBase = Ратвар
+    .desc = Ваш розум починає булькати та сочитися від спроб зрозуміти побачене.
 
 ent-MobRatvarSpawn = { ent-MobRatvarBase }
     .desc = { ent-MobRatvarBase.desc }
@@ -7,4 +7,3 @@ ent-MobRatvarSpawn = { ent-MobRatvarBase }
 
 ent-MobRatvar = { ent-MobRatvarBase }
     .desc = { ent-MobRatvarBase.desc }
-

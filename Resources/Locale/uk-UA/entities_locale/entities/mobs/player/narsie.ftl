@@ -1,5 +1,5 @@
-ent-MobNarsieBase = Nar'Sie
-    .desc = Your mind begins to bubble and ooze as it tries to comprehend what it sees.
+ent-MobNarsieBase = Нар'Сі
+    .desc = Ваш розум починає булькати та сочитися від спроб зрозуміти побачене.
 
 ent-MobNarsieSpawn = { ent-MobNarsieBase }
     .desc = { ent-MobNarsieBase.desc }
@@ -7,4 +7,3 @@ ent-MobNarsieSpawn = { ent-MobNarsieBase }
 
 ent-MobNarsie = { ent-MobNarsieBase }
     .desc = { ent-MobNarsieBase.desc }
-

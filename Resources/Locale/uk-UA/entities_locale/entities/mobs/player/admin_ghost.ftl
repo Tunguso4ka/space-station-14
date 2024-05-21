@@ -1,21 +1,20 @@
-ent-AdminObserver = admin observer
+ent-AdminObserver = адмін оглядач
     .desc = { ent-MobObserver.desc }
 
-ent-ActionAGhostShowSolar = Solar Control Interface
-    .desc = View a solar control interface.
+ent-ActionAGhostShowSolar = Дієвидло сонячних панелей
+    .desc = Відкриває дієвидло контролю сонячних панелей.
 
-ent-ActionAGhostShowCommunications = Communications Interface
-    .desc = View a communications interface.
+ent-ActionAGhostShowCommunications = Дієвидло комунікацій
+    .desc = Відкриває дієвидло консолі комунікацій.
 
-ent-ActionAGhostShowRadar = Mass Scanner Interface
-    .desc = View a mass scanner interface.
+ent-ActionAGhostShowRadar = Дієвидло сканера маси
+    .desc = Відкриває дієвидло сканера маси.
 
-ent-ActionAGhostShowCargo = Cargo Ordering Interface
-    .desc = View a cargo ordering interface.
+ent-ActionAGhostShowCargo = Дієвидло замовляння товарів
+    .desc = Відкриває дієвидло замовляння товарів.
 
-ent-ActionAGhostShowCrewMonitoring = Crew Monitoring Interface
-    .desc = View a crew monitoring interface.
+ent-ActionAGhostShowCrewMonitoring = Дієвидло моніторінгу екіпажа
+    .desc = Відкриває дієвидло моніторінгу екіпажа.
 
-ent-ActionAGhostShowStationRecords = Station Records Interface
-    .desc = View a station records Interface
-
+ent-ActionAGhostShowStationRecords = Дієвидло записів станції
+    .desc = Відкриває дієвидло записів станції

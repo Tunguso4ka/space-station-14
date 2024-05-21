@@ -1,3 +1,2 @@
-ent-CandyBucket = candy bucket
-    .desc = A festive bucket for all your treats.
-
+ent-CandyBucket = відро цукерок
+    .desc = Фестівальне відро для всіх ваших смачностей.
