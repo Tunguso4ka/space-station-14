@@ -1,3 +1,5 @@
-ent-MobDiona = Urist McPlants
+ent-MobDiona = Уріст МакРослина
+    .desc = { ent-BaseMobDiona.desc }
 
-ent-MobDionaReformed = Reformed Diona
+ent-MobDionaReformed = Реформована діона
+    .desc = { ent-MobDiona.desc }
