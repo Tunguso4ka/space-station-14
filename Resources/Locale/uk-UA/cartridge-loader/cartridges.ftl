@@ -18,3 +18,4 @@ log-probe-program-name = LogProbe
 log-probe-scan = Завантажили логі з {$device}!
 log-probe-label-time = Час
 log-probe-label-accessor = Використано
+log-probe-label-number = #
