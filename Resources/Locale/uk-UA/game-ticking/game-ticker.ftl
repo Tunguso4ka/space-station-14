@@ -33,10 +33,10 @@ player-first-join-message = ! Гравець {$name} під'єднався вп�
 # Displayed in chat to admins when a player leaves
 player-leave-message = Гравець {$name} від'єднався.
 
-latejoin-arrival-announcement = {$character} ({$job}) прокинувся від кріосну!
-latejoin-arrival-sender = Корабель
-latejoin-arrivals-direction = Шатл що доставе вас на корабель скоро прибуде.
-latejoin-arrivals-direction-time = Шатл що доставе вас на корабель прибуде через {$time}.
+latejoin-arrival-announcement = {$character} ({$job}) прибув на станцію!
+latejoin-arrival-sender = Станція
+latejoin-arrivals-direction = Шатл що доставить вас на станцію скоро прибуде.
+latejoin-arrivals-direction-time = Шатл що доставить вас на станцію прибуде через {$time}.
 
 preset-not-enough-ready-players = Неможливо почати {$presetName}. Потрібно мінімум {$minimumPlayers} гравців, але ми маємо {$readyPlayersCount}.
 preset-no-one-ready = Неможливо почати {$presetName}. Жодний гравець не приготувався.
