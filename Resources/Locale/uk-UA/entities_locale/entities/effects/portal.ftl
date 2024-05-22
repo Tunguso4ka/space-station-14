@@ -1,6 +1,5 @@
 ent-BasePortal = блюспейс портал
     .desc = Він може перености вас кудись далеко.
-Transports you to a linked destination!
 
 ent-PortalRed = { ent-BasePortal }
     .desc = Цьому більше підійде назва редспейс портал.
