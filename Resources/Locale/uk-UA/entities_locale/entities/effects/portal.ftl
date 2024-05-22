@@ -1,8 +1,9 @@
-ent-BasePortal = bluespace portal
-    .desc = Transports you to a linked destination!
+ent-BasePortal = блюспейс портал
+    .desc = Він може перености вас кудись далеко.
+Transports you to a linked destination!
 
 ent-PortalRed = { ent-BasePortal }
-    .desc = This one looks more like a redspace portal.
+    .desc = Цьому більше підійде назва редспейс портал.
 
 ent-PortalBlue = { ent-BasePortal }
     .desc = { ent-BasePortal.desc }
@@ -16,6 +17,5 @@ ent-PortalGatewayBlue = { ent-BasePortal }
 ent-PortalGatewayOrange = { ent-BasePortal }
     .desc = { ent-BasePortal.desc }
 
-ent-ShadowPortal = shadow rift
-    .desc = Looks unstable.
-
+ent-ShadowPortal = тіньовий розлом
+    .desc = Виглядає нестабільним.

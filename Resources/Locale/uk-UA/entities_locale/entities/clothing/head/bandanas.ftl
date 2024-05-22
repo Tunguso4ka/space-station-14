@@ -1,33 +1,32 @@
 ent-ClothingHeadBandBase = { ent-ClothingHeadBaseButcherable }
-    .desc = { ent-ClothingHeadBaseButcherable.desc }
-
-ent-ClothingHeadBandBlack = black bandana
-    .desc = { ent-ClothingMaskBandBlack.desc }
-
-ent-ClothingHeadBandBlue = blue bandana
-    .desc = { ent-ClothingMaskBandBlue.desc }
-
-ent-ClothingHeadBandBotany = botany bandana
-    .desc = { ent-ClothingMaskBandBotany.desc }
-
-ent-ClothingHeadBandGold = gold bandana
-    .desc = { ent-ClothingMaskBandGold.desc }
-
-ent-ClothingHeadBandGreen = green bandana
-    .desc = { ent-ClothingMaskBandGreen.desc }
-
-ent-ClothingHeadBandGrey = grey bandana
-    .desc = { ent-ClothingMaskBandGrey.desc }
-
-ent-ClothingHeadBandRed = red bandana
-    .desc = { ent-ClothingMaskBandRed.desc }
-
-ent-ClothingHeadBandSkull = skull bandana
-    .desc = { ent-ClothingMaskBandSkull.desc }
-
-ent-ClothingHeadBandMerc = mercenary bandana
-    .desc = { ent-ClothingMaskBandMerc.desc }
-
-ent-ClothingHeadBandBrown = brown bandana
     .desc = { ent-ClothingMaskBandBrown.desc }
 
+ent-ClothingHeadBandBlack = чорна бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandBlue = синя бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandBotany = ботанічна бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandGold = золота бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandGreen = зелена бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandGrey = сіра бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandRed = червона бандана
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandSkull = бандана з черепом
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandMerc = бандана найманця
+    .desc = { ent-ClothingHeadBandBase.desc }
+
+ent-ClothingHeadBandBrown = коричнева бандана
+    .desc = { ent-ClothingHeadBandBase.desc }

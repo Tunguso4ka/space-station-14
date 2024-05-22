@@ -136,8 +136,8 @@ ent-MobSlug = slug
 ent-MobFrog = frog
     .desc = Hop hop hop. Lookin' moist.
 
-ent-MobParrot = parrot
-    .desc = Infiltrates your domain, spies on you, and somehow still a cool pet.
+ent-MobParrot = папуга
+    .desc = Проникає в твій простір, шпигує за тобою але все ще найкращий птах.
 
 ent-MobPenguin = penguin
     .desc = Their lives are constant pain due to their inner-body knees.
@@ -145,21 +145,21 @@ ent-MobPenguin = penguin
 ent-MobGrenadePenguin = grenade penguin
     .desc = A small penguin with a grenade strapped around its neck. Harvested by the Syndicate from icy shit-hole planets.
 
-ent-MobSnake = snake
-    .desc = Hissss! Bites aren't poisonous.
+ent-MobSnake = змія
+    .desc = Хісс! Ця не отруйна.
 
-ent-MobGiantSpider = tarantula
-    .desc = Widely recognized to be the literal worst thing in existence.
+ent-MobGiantSpider = тарантул
+    .desc = Всесвітньо признані як найгірша штука на світі.
 
-ent-MobGiantSpiderAngry = tarantula
+ent-MobGiantSpiderAngry = тарантул
     .desc = { ent-MobGiantSpider.desc }
     .suffix = Angry
 
-ent-MobClownSpider = clown spider
-    .desc = Combines the two most terrifying things in existence, spiders and clowns.
+ent-MobClownSpider = клоун-павук
+    .desc = Ви боїтеся й клоунів й павуків? Тоді ця істота для вас - клоуно-павук!
 
-ent-MobGiantSpiderWizard = wizard spider
-    .desc = This spider looks a little magical
+ent-MobGiantSpiderWizard = чародій павук
+    .desc = Цей павук виглядає трошечки магічним.
     .suffix = Wizard
 
 ent-MobPossum = possum
@@ -169,20 +169,20 @@ ent-MobPossumOld = possum
     .desc = { ent-MobPossum.desc }
     .suffix = Old sprite
 
-ent-MobRaccoon = raccoon
-    .desc = Trash panda!
+ent-MobRaccoon = єнот
+    .desc = Маленька панда, що живе по смітникам.
 
-ent-MobFox = fox
-    .desc = They're a fox.
+ent-MobFox = лиса
+    .desc = Це лиса.
 
-ent-MobCorgi = corgi
-    .desc = Finally, a space corgi!
+ent-MobCorgi = коргі
+    .desc = Нарешті, космічний коргі!
 
-ent-MobCorgiNarsi = corrupted corgi
-    .desc = Ian! No!
+ent-MobCorgiNarsi = зіпсований коргі
+    .desc = Іан! Ніі!..
 
-ent-MobCorgiPuppy = corgi puppy
-    .desc = A little corgi! Aww...
+ent-MobCorgiPuppy = цуценя коргі
+    .desc = Маленький коргі! Авв...
 
 ent-MobCat = cat
     .desc = Feline pet, very funny.

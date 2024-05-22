@@ -1,57 +1,56 @@
-ent-ClothingHeadset = headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadset = навушник
+    .desc = Оновлений, модульний інтерком що вміщається у тебе на вухі. Ви можете вставити в нього ключи шифрування.
 
-ent-ClothingHeadsetGrey = passenger headset
+ent-ClothingHeadsetGrey = навушник асистента
     .desc = { ent-ClothingHeadset.desc }
 
-ent-ClothingHeadsetCargo = cargo headset
-    .desc = A headset used by supply employees.
+ent-ClothingHeadsetCargo = навушник логістів
+    .desc = Навушник видаваємий вантажникам й іншим членам логістики.
 
-ent-ClothingHeadsetMining = mining headset
-    .desc = Headset used by shaft miners.
+ent-ClothingHeadsetMining = шахтарський навушник
+    .desc = Навушник видиваємий шахтарям.
 
-ent-ClothingHeadsetQM = qm headset
-    .desc = A headset used by the quartermaster.
+ent-ClothingHeadsetQM = навушник кма
+    .desc = Навушник видаваємий квартирмейстеру.
 
-ent-ClothingHeadsetCentCom = CentCom headset
-    .desc = A headset used by the upper echelons of Nanotrasen.
+ent-ClothingHeadsetCentCom = навушник ЦК
+    .desc = Навушник видаваємий вишим чинам Центрального Командування.
 
-ent-ClothingHeadsetCommand = command headset
-    .desc = A headset with a commanding channel.
+ent-ClothingHeadsetCommand = навушник командування
+    .desc = Навушник з каналом командування.
 
-ent-ClothingHeadsetEngineering = engineering headset
-    .desc = A headset for engineers to chat while the station burns around them.
+ent-ClothingHeadsetEngineering = інженерний навушник
+    .desc = Навушник для інженерів, щоб порозмовляти під звуки горящої станції.
 
-ent-ClothingHeadsetCE = ce headset
-    .desc = A headset for the chief engineer to ignore all emergency calls on.
+ent-ClothingHeadsetCE = навушник гі
+    .desc = Навушник ГІ, для ігнорування всіх проблем станції.
 
-ent-ClothingHeadsetMedical = medical headset
-    .desc = A headset for the trained staff of the medbay.
+ent-ClothingHeadsetMedical = медічний навушник
+    .desc = Навушник натренованого персонала медвідділа.
 
-ent-ClothingHeadsetCMO = cmo headset
-    .desc = A headset used by the CMO.
+ent-ClothingHeadsetCMO = навушник гла
+    .desc = Навушник видаваємий головного лікарю.
 
-ent-ClothingHeadsetScience = science headset
-    .desc = A sciency headset. Like usual.
+ent-ClothingHeadsetScience = науковий навушник
+    .desc = Використовує науку. Як і все інше у науковому відділі.
 
-ent-ClothingHeadsetMedicalScience = medical research headset
-    .desc = A headset that is a result of the mating between medical and science.
+ent-ClothingHeadsetMedicalScience = науково-медічний навушник
+    .desc = Навушник створений схрещенням медічного та наукового навушників.
 
-ent-ClothingHeadsetRobotics = robotics headset
-    .desc = Made specifically for the roboticists, who cannot decide between departments.
+ent-ClothingHeadsetRobotics = роботехнічний навушник
+    .desc = Зроблений спеціально для роботехніків.
 
-ent-ClothingHeadsetRD = rd headset
-    .desc = Lamarr used to love chewing on this...
+ent-ClothingHeadsetRD = навушник нд
+    .desc = Ламар любив жевати його...
 
-ent-ClothingHeadsetSecurity = security headset
-    .desc = This is used by your elite security force.
+ent-ClothingHeadsetSecurity = навушник охорони
+    .desc = Використовується елітними силами безпеки.
 
-ent-ClothingHeadsetBrigmedic = brigmedic headset
-    .desc = A headset that helps to hear the death cries.
+ent-ClothingHeadsetBrigmedic = навушник бригмедика
+    .desc = Навушник, що допомогає чути плач смерті.
 
-ent-ClothingHeadsetService = service headset
-    .desc = Headset used by the service staff, tasked with keeping the station full, happy and clean.
+ent-ClothingHeadsetService = сервісний навушник
+    .desc = Навушник, що використовується екіпажом сервісу.
 
 ent-ClothingHeadsetFreelance = freelancer headset
     .desc = This is used by a roaming group of freelancers
-

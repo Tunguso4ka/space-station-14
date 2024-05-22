@@ -1,4 +1,5 @@
 ent-BaseMechPart = ця сутність не має назви
+    .desc = { "" }
 
 ent-BaseRipleyPart = { ent-BaseMechPart }
     .desc = { ent-BaseMechPart.desc }
@@ -83,4 +84,3 @@ ent-VimHarness = vim harness
 
 ent-VimChassis = vim chassis
     .desc = An in-progress construction of the Vim exosuit.
-

@@ -1,6 +1,5 @@
 ﻿whitelist-not-whitelisted = Ви не у вайтлісті.
 
-# proper handling for having a min/max or not
 whitelist-playercount-invalid = {$min ->
     [0] Вайтліст на цьому сервері працює тільки коли гравців менше за {$max}.
     *[other] Вайтліст на цьому сервері працює тільки коли гравців більше за {$min} {$max ->
@@ -8,8 +7,6 @@ whitelist-playercount-invalid = {$min ->
        *[other] -> гравців і менше за {$max} гравців, так що ви зможете під'єднатися пізніше.
     }
 }
-whitelist-not-whitelisted-rp = Ви не у вайтлісті. Щоб потрапити у нього, посетить наш Діскорд
-
 cmd-whitelistadd-desc = Adds the player with the given username to the server whitelist.
 cmd-whitelistadd-help = Usage: whitelistadd <username>
 cmd-whitelistadd-existing = {$username} is already on the whitelist!

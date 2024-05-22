@@ -1,33 +1,33 @@
-ent-ClothingHeadsetAlt = headset
-    .desc = An updated, modular intercom that fits over the head. Takes encryption keys.
+ent-ClothingHeadsetAlt = навушник
+    .desc = Оновлений, модульний інтерком що вміщається у тебе на вухі. Ви можете вставити в нього ключи шифрування.
 
-ent-ClothingHeadsetAltCargo = quartermaster's over-ear headset
+ent-ClothingHeadsetAltCargo = повнорозмірний навушник квартирмейстера
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltCentCom = CentCom over-ear headset
+ent-ClothingHeadsetAltCentCom = повнорозмірний навушник ЦентКому
     .desc = { ent-ClothingHeadsetAlt.desc }
 
 ent-ClothingHeadsetAltCentComFake = { ent-ClothingHeadsetAltCentCom }
     .desc = { ent-ClothingHeadsetAltCentCom.desc }
     .suffix = Fake
 
-ent-ClothingHeadsetAltCommand = command over-ear headset
+ent-ClothingHeadsetAltCommand = повнорозмірний навушник командування
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltEngineering = chief engineer's over-ear headset
+ent-ClothingHeadsetAltEngineering = повнорозмірний навушник інженерів
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltMedical = chief medical officer's over-ear headset
+ent-ClothingHeadsetAltMedical = повнорозмірний навушник головного лікаря
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltSecurity = head of security's over-ear headset
+ent-ClothingHeadsetAltSecurity = повнорозмірний навушник голови безпеки
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltScience = research director's over-ear headset
+ent-ClothingHeadsetAltScience = повнорозмірний навушник наукового директора
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltSyndicate = blood-red over-ear headset
-    .desc = An updated, modular syndicate intercom that fits over the head and takes encryption keys (there are 5 key slots.).
+ent-ClothingHeadsetAltSyndicate = криваво-червоний повнорозмірний навушник
+    .desc = Оновлений, модульний інтерком що вміщається у тебе на вухі. Ви можете вставити в нього 5 ключей шифрування.
 
 ent-ClothingHeadsetAltFreelancer = freelancer's over-ear headset
     .desc = { ent-ClothingHeadsetAlt.desc }

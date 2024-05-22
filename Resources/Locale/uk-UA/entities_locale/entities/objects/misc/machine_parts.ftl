@@ -1,15 +1,14 @@
-ent-BaseStockPart = stock part
-    .desc = What?
+ent-BaseStockPart = компонент
+    .desc = Га?
 
-ent-CapacitorStockPart = capacitor
+ent-CapacitorStockPart = конденсатор
     .desc = A basic capacitor used in the construction of a variety of devices.
     .suffix = Rating 1
 
-ent-MicroManipulatorStockPart = manipulator
+ent-MicroManipulatorStockPart = маніпулятор
     .desc = A basic manipulator used in the construction of a variety of devices.
     .suffix = Rating 1
 
-ent-MatterBinStockPart = matter bin
+ent-MatterBinStockPart = контейнер матерії
     .desc = A basic matter bin used in the construction of a variety of devices.
     .suffix = Rating 1
-
