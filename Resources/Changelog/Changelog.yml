@@ -1,18 +1,4 @@
 ﻿Entries:
-- author: mryikes
-  changes:
-  - message: New Nuke Detonation Song "Clearly Nuclear".
-    type: Add
-  id: 6113
-  time: '2024-03-09T01:44:54.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/25765
-- author: Plykiya
-  changes:
-  - message: Pre-filled syringes start in inject mode now.
-    type: Tweak
-  id: 6114
-  time: '2024-03-09T10:19:03.0000000+00:00'
-  url: https://github.com/space-wizards/space-station-14/pull/25881
 - author: EmoGarbage404
   changes:
   - message: Added a new "colorblind friendly" toggle in the accessibility menu. This
@@ -3875,3 +3861,17 @@
   id: 6612
   time: '2024-05-22T11:16:20.0000000+00:00'
   url: https://github.com/space-wizards/space-station-14/pull/26582
+- author: blueDev2
+  changes:
+  - message: Watermelon slices are now considered fruit
+    type: Fix
+  id: 6613
+  time: '2024-05-23T20:27:45.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/28226
+- author: ElectroJr
+  changes:
+  - message: Ghosts can once again open paper & other UIs
+    type: Fix
+  id: 6614
+  time: '2024-05-24T05:03:03.0000000+00:00'
+  url: https://github.com/space-wizards/space-station-14/pull/27999
