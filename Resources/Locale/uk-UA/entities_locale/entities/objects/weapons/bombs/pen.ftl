@@ -1,7 +1,6 @@
-ent-PenExploding = pen
-    .desc = A dark ink pen.
-    .suffix = Exploding
+ent-PenExploding = ручка
+    .desc = Ручка з чорним чорнилом.
+    .suffix = Вибухова
 
-ent-PenExplodingBox = exploding pen box
-    .desc = A small box containing an exploding pen. Packaging disintegrates when opened, leaving no evidence behind.
-
+ent-PenExplodingBox = коробка вибухової ручки
+    .desc = Маленька коробка, що містить вибухову ручку. Коробка самознищіться щойно буде відкрита та не залишить по собі доказів.

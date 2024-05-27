@@ -1,8 +1,9 @@
-Welcome to Space Station 14! You have just started your shift aboard a Nanotrasen space station and along with your crewmates should cooperate, perform your job role to the best of your ability and have fun (not at the expense of others hopefully).
+Вітаємо у Космічній Станції 14! Щойно ви розпочали свою зміну на Космічній Станції корпорації НаноТрайзен та разом з іншими членами екіпажу ви повинні виконувати свою роль настільки добре, настільки ви зможете.
 
-Please make sure you understand the server rules (F1) and if you have any questions, consult this guide, your colleagues on shift in person or over radio or via discord. You can also ask admins for help (ahelp) by hitting the escape key > admin help and typing a message to any online admins. Especially do this if you witness someone breaking rules.
+Будь ласка, впевнетися що ви розумієте правила сервера та якщо у вас будуть питання: звернитися до цього посібника, ваших колег по зміні або адмінів через Адмін Допомогу (Ahelp). 
 
-To reiterate, you are all a crew of people who work together (even the clown) and you should not be harming each other unless you have an extremely good reason (self defence) and even then, call security over radio, stun and detain, do not commit murder as a non antagonist (see antagonist further down).
+Ще раз наголошуємо, увесь екіпаж на станції працює разом (навіть клоун) й вам не варто завдавати шкоди іншим, якщо, звісно же, у вас нема на те гарної причини (самозахіст), але навіть тоді, покличте офіцерів безпеки по рації та зв'яжить нападника.
 
+Якщо ви прийшли з КС13, то замість Інтентів ми маємо тільки режим Бою. З вимкненим режимом бою - ви не зможете нікого вдарити, особливо себе ломиком.
 
-Instead of intents, we have combat mode. Check controls below for its keybind. You can't attack anybody with it off, so no more hitting yourself with your own crowbar.
+Ви можете подивитися Керування нижче.

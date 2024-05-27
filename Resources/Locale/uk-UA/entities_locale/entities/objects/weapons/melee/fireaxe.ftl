@@ -1,6 +1,5 @@
-ent-FireAxe = fireaxe
-    .desc = Truly, the weapon of a madman. Who would think to fight fire with an axe?
+ent-FireAxe = пожежна сокира
+    .desc = Дійсно, зброя божевільних. Хто ще міг подумати, що вогонь можна перебороти сокирою?
 
-ent-FireAxeFlaming = fire axe
-    .desc = Why fight fire with an axe when you can fight with fire and axe? Now featuring rugged rubberized handle!
-
+ent-FireAxeFlaming = сокира пожеж
+    .desc = Навіщо боротися з вогнем сокирою, коли ти можеш боротися й вогнем й сокирою? Тепер зі зручною прогумованою ручкою.

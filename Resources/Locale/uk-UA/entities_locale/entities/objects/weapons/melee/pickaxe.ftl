@@ -1,6 +1,5 @@
-ent-Pickaxe = pickaxe
-    .desc = Notched to perfection, for jamming it into rocks
+ent-Pickaxe = кирка
+    .desc = Відшліфована до досконалості, для розбивання космічних каменюк.
 
-ent-MiningDrill = mining drill
-    .desc = Powerful tool used to quickly drill through rocks
-
+ent-MiningDrill = шахтарський бур
+    .desc = Міцний інструмент для бурення каменюк.

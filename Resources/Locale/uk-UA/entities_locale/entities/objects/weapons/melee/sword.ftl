@@ -1,21 +1,20 @@
-ent-CaptainSabre = captain's sabre
-    .desc = A ceremonial weapon belonging to the captain of the station.
+ent-CaptainSabre = шабля капітана
+    .desc = Церемоніальна зброя, що належить капітану цієї станції.
 
-ent-Katana = katana
-    .desc = Ancient craftwork made with not so ancient plasteel.
+ent-Katana = катана
+    .desc = Старовинний ремісничний вироб, з не такої уж і старовинної пласталі.
 
-ent-EnergyKatana = energy katana
-    .desc = A katana infused with strong energy.
+ent-EnergyKatana = енергокатана
+    .desc = Катана скрізь яку проходить сильна енергія.
 
-ent-Machete = machete
-    .desc = A large, vicious looking blade.
+ent-Machete = мачете
+    .desc = Великий, жорстокий на вигляд клинок.
 
-ent-Claymore = claymore
-    .desc = An ancient war blade.
+ent-Claymore = клеймор
+    .desc = Старовинний бойовий меч.
 
-ent-Cutlass = cutlass
-    .desc = A wickedly curved blade, often seen in the hands of space pirates.
+ent-Cutlass = шабля
+    .desc = Зловісно вигнутий клинок, часто такий мають космічні пірати.
 
 ent-Throngler = The Throngler
     .desc = Why would you make this?
-

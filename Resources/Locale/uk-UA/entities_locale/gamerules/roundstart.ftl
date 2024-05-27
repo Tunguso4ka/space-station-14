@@ -1,4 +1,5 @@
 ent-BaseGameRule = Base Game Rule
+    .desc = { "" }
 
 ent-SubGamemodesRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
@@ -12,7 +13,13 @@ ent-InactivityTimeRestart = { ent-BaseGameRule }
 ent-MaxTimeRestart = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-BaseNukeopsRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
 ent-Nukeops = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
+ent-BaseTraitorRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-Traitor = { ent-BaseGameRule }
@@ -38,4 +45,3 @@ ent-RampingStationEventScheduler = { ent-BaseGameRule }
 
 ent-BasicRoundstartVariation = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-

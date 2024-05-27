@@ -1,7 +1,6 @@
-ent-Emag = cryptographic sequencer
-    .desc = The all-in-one hacking solution. The thinking man's lockpick. The iconic EMAG.
+ent-Emag = криптографічний секвенсер
+    .desc = Інструмент все-в-одному для взламу. Відмичка розумних людей.
 
-ent-EmagUnlimited = cryptographic sequencer
-    .desc = The all-in-one hacking solution. The thinking man's lockpick. The iconic EMAG.
+ent-EmagUnlimited = { ent-Emag }
+    .desc = { ent-Emag.desc }
     .suffix = Unlimited
-

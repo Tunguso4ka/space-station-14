@@ -1,15 +1,14 @@
-ent-Spear = spear
-    .desc = Definition of a Classic. Keeping murder affordable since 200,000 BCE.
+ent-Spear = спис
+    .desc = Ретро-класика нашого часу. Допомогає вбивати починаючі з 200 000 років до нашої ери.
 
-ent-SpearReinforced = reinforced spear
-    .desc = A spear with a reinforced glass shard as a tip.
+ent-SpearReinforced = посилений спис
+    .desc = Спис із посиленого скла.
 
-ent-SpearPlasma = plasma spear
-    .desc = A spear with a plasma shard as a tip.
+ent-SpearPlasma = плазмаспис
+    .desc = Спис із плазмоскла.
 
-ent-SpearUranium = uranium spear
-    .desc = A spear with a uranium shard as a tip.
+ent-SpearUranium = урановий спис
+    .desc = Спис із уранового скла.
 
-ent-SpearBone = bone spear
-    .desc = A spear made of bones.
-
+ent-SpearBone = кістковий спис
+    .desc = Спис із кісток. Тримайте подалі від собак.

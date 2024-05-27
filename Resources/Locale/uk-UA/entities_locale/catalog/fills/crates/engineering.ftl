@@ -1,20 +1,20 @@
-ent-CrateEngineeringGear = engineering gear crate
-    .desc = Various engineering gear parts.
+ent-CrateEngineeringGear = ящик інженерного спорядження
+    .desc = Різні штуки з інженергого спорядження.
 
-ent-CrateEngineeringToolbox = toolbox crate
-    .desc = Two mechanical and two electrical toolboxes.
+ent-CrateEngineeringToolbox = ящик з коробками інструментів
+    .desc = Дві механічних та одна електрична коробка інструментів.
 
-ent-CrateEngineeringCableLV = LV cable crate
-    .desc = 3 coils of LV cables.
+ent-CrateEngineeringCableLV = ящик НВ кабелів
+    .desc = 3 катушки НВ дротів.
 
-ent-CrateEngineeringCableMV = MV cable crate
-    .desc = 3 coils of LV cables.
+ent-CrateEngineeringCableMV = ящик СВ кабелів
+    .desc = 3 катушки СВ дротів.
 
-ent-CrateEngineeringCableHV = HV cable crate
-    .desc = 3 coils of HV cables.
+ent-CrateEngineeringCableHV = ящик ВВ кабелів
+    .desc = 3 катушки ВВ дротів.
 
-ent-CrateEngineeringCableBulk = bulk cable crate
-    .desc = 2 coils each for every cable type.
+ent-CrateEngineeringCableBulk = ящик усіх кабелів
+    .desc = По 2 катушці усіх типів кабелів.
 
 ent-CrateEngineeringElectricalSupplies = electrical supplies crate
     .desc = NT is not responsible for any workplace infighting relating to the insulated gloves included within these crates.
@@ -43,3 +43,5 @@ ent-CrateRCD = RCD crate
 ent-CrateParticleDecelerators = particle decelerators crate
     .desc = A crate containing 3 Particle Decelerators.
 
+ent-CrateEngineeringSpaceHeater = space heater crate
+    .desc = Contains a space heater for climate control.

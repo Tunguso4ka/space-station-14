@@ -1,56 +1,56 @@
 ent-JetpackEffect = ця сутність не має назви
 
-ent-BaseJetpack = Jetpack
-    .desc = It's a jetpack.
+ent-BaseJetpack = реактивний ранець
+    .desc = Це реактивний ранець.
 
-ent-ActionToggleJetpack = Toggle jetpack
-    .desc = Toggles the jetpack, giving you movement outside the station.
+ent-ActionToggleJetpack = Перемкнути реакт. ранець
+    .desc = Вмикає або вимикає реактивний ранець, дозволяючі тобі літати або не літати по космосу.
 
-ent-JetpackBlue = jetpack
+ent-JetpackBlue = реактивний ранець
     .desc = { ent-BaseJetpack.desc }
     .suffix = Empty
 
-ent-JetpackBlueFilled = jetpack
+ent-JetpackBlueFilled = { ent-JetpackBlue }
     .desc = { ent-JetpackBlue.desc }
     .suffix = Filled
 
-ent-JetpackBlack = jetpack
+ent-JetpackBlack = реактивний ранець
     .desc = { ent-BaseJetpack.desc }
     .suffix = Empty
 
-ent-JetpackBlackFilled = jetpack
+ent-JetpackBlackFilled = { ent-JetpackBlack }
     .desc = { ent-JetpackBlack.desc }
     .suffix = Filled
 
-ent-JetpackCaptain = captain's jetpack
+ent-JetpackCaptain = реактивний ранець капітана
     .desc = { ent-BaseJetpack.desc }
     .suffix = Empty
 
-ent-JetpackCaptainFilled = captain's jetpack
+ent-JetpackCaptainFilled = { ent-JetpackCaptain }
     .desc = { ent-JetpackCaptain.desc }
     .suffix = Filled
 
-ent-JetpackMini = mini jetpack
+ent-JetpackMini = мініреактивний ранець
     .desc = { ent-BaseJetpack.desc }
     .suffix = Empty
 
-ent-JetpackMiniFilled = mini jetpack
+ent-JetpackMiniFilled = { ent-JetpackMini }
     .desc = { ent-JetpackMini.desc }
     .suffix = Filled
 
-ent-JetpackSecurity = security jetpack
+ent-JetpackSecurity = реактивний ранець охорони
     .desc = { ent-BaseJetpack.desc }
     .suffix = Empty
 
-ent-JetpackSecurityFilled = security jetpack
+ent-JetpackSecurityFilled = { ent-JetpackSecurity }
     .desc = { ent-JetpackSecurity.desc }
     .suffix = Filled
 
-ent-JetpackVoid = void jetpack
+ent-JetpackVoid = пустотний реактивний ранець
     .desc = { ent-BaseJetpack.desc }
     .suffix = Empty
 
-ent-JetpackVoidFilled = void jetpack
+ent-JetpackVoidFilled = { ent-JetpackVoid }
     .desc = { ent-JetpackVoid.desc }
     .suffix = Filled
 

@@ -1,10 +1,10 @@
-ent-CableStack = cable stack
+ent-CableStack = катушка кабелів
     .desc = { ent-BaseItem.desc }
-    .suffix = Full
+    .suffix = Повний
 
-ent-CableHVStack = HV cable coil
-    .desc = HV cables for connecting engines to heavy duty machinery, SMESes, and substations.
-    .suffix = Full
+ent-CableHVStack = катушка ВВ кабелів
+    .desc = ВВ кабелі для під'єднання двигунів до важкої техники, НпМА та підстанцій.
+    .suffix = Повна
 
 ent-CableHVStack10 = { ent-CableHVStack }
     .desc = { ent-CableHVStack.desc }
@@ -18,9 +18,9 @@ ent-CableHVStack1 = { ent-CableHVStack }
     .desc = { ent-CableHVStack.desc }
     .suffix = 1
 
-ent-CableMVStack = MV cable coil
-    .desc = MV cables for connecting substations to APCs, and also powering a select few things like emitters.
-    .suffix = Full
+ent-CableMVStack = катушка СВ кабелів
+    .desc = СВ кабелі для під'єднання підстанцій до ЗКЖ, а також для живлення деяких пристроїв, як на приклад еміторів.
+    .suffix = Повна
 
 ent-CableMVStack10 = { ent-CableMVStack }
     .desc = { ent-CableMVStack.desc }
@@ -34,9 +34,9 @@ ent-CableMVStack1 = { ent-CableMVStack }
     .desc = { ent-CableMVStack.desc }
     .suffix = 1
 
-ent-CableApcStack = LV cable coil
-    .desc = Low-Voltage stack of wires for connecting APCs to machines and other purposes.
-    .suffix = Full
+ent-CableApcStack = катушка ЛВ кабелів
+    .desc = Катушка низьковольтажних кабелів для під'єднання ЗКЖ до пристроїв.
+    .suffix = Повна
 
 ent-CableApcStack10 = { ent-CableApcStack }
     .desc = { ent-CableApcStack.desc }
@@ -49,4 +49,3 @@ ent-CableApcStackLingering10 = { ent-CableApcStack10 }
 ent-CableApcStack1 = { ent-CableApcStack }
     .desc = { ent-CableApcStack.desc }
     .suffix = 1
-

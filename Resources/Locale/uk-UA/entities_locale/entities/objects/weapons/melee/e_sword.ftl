@@ -1,17 +1,16 @@
-ent-EnergySword = energy sword
-    .desc = A very loud & dangerous sword with a beam made of pure, concentrated plasma. Cuts through unarmored targets like butter.
+ent-EnergySword = енергомеч
+    .desc = Дуже гучний та небезпечний меч, його промінь зроблен з чистої, концентрованої плазми. Ріже все як масло.
 
-ent-EnergyDagger = pen
-    .desc = 'A dark ink pen.'
-    .suffix = E-Dagger
+ent-EnergyDagger = ручка
+    .desc = Ручка з чорними чорнилами.
+    .suffix = Енергоніж
 
-ent-EnergyDaggerBox = e-dagger box
-    .desc = A small box containing an e-dagger. Packaging disintegrates when opened, leaving no evidence behind.
-    .suffix = E-Dagger
+ent-EnergyDaggerBox = коробка енергоножа
+    .desc = Маленька коробка, що містить в собі енерго-ніж. Коробка самознищіться щойно буде відкрита, не залишаючі по собі доказів.
+    .suffix = Енергоніж
 
-ent-EnergyCutlass = energy cutlass
-    .desc = An exotic energy weapon.
+ent-EnergyCutlass = енергошабля
+    .desc = Екзотична плазмена зброя.
 
-ent-EnergySwordDouble = double-bladed energy sword
-    .desc = Syndicate Command Interns thought that having one blade on the energy sword was not enough. This can be stored in pockets.
-
+ent-EnergySwordDouble = дволезовий енергомеч
+    .desc = Інтерни з командування Синдикату вирішили, що мати тільки одне лезо не престижно.
