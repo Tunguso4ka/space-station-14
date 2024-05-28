@@ -1,21 +1,20 @@
-ent-RollerBed = rollerbed
-    .desc = Used to carry patients around without damaging them.
+ent-RollerBed = ліжко-каталка
+    .desc = Використовувається для транспортування пацієнтів.
 
 ent-RollerBedSpawnFolded = { ent-RollerBed }
     .desc = { ent-RollerBed.desc }
     .suffix = folded
 
-ent-CheapRollerBed = rollerbed
-    .desc = A run-down rollerbed. Used to carry patients around.
+ent-CheapRollerBed = ліжко-каталка
+    .desc = Дешеве ліжко-каталка. Використовується для транспортування пацієнтів.
 
 ent-CheapRollerBedSpawnFolded = { ent-CheapRollerBed }
     .desc = { ent-CheapRollerBed.desc }
     .suffix = folded
 
-ent-EmergencyRollerBed = rollerbed
-    .desc = A robust looking rollerbed used for emergencies.
+ent-EmergencyRollerBed = ліжко-каталка
+    .desc = Міцне на вигляд, ліжко-каталка, незамінний друг парамедика.
 
 ent-EmergencyRollerBedSpawnFolded = { ent-EmergencyRollerBed }
     .desc = { ent-EmergencyRollerBed.desc }
     .suffix = folded
-

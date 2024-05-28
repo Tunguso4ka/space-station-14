@@ -1,60 +1,59 @@
-ent-AltarBase = altar
-    .desc = Altar of the Gods.
+ent-AltarBase = вівтар
+    .desc = Вівтар богів.
 
-ent-AltarNanotrasen = nanotrasen altar
+ent-AltarNanotrasen = вівтар НаноТрайзен
     .desc = { ent-AltarBase.desc }
 
-ent-AltarChaos = chaos altar
+ent-AltarChaos = вівтар хаосу
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarDruid = druid altar
+ent-AltarDruid = вівтар друїдів
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarToolbox = toolbox altar
+ent-AltarToolbox = вівтар ящика для інструментів
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarSpaceChristian = space-Christian altar
+ent-AltarSpaceChristian = вівтар космохристиянства
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarSatana = satanic altar
+ent-AltarSatana = вівтар сатанизму
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarTechnology = technology altar
+ent-AltarTechnology = вівтар технологій
     .desc = { ent-AltarNanotrasen.desc }
 
-ent-AltarConvertFestival = festival altar
+ent-AltarConvertFestival = святковий вівтар
     .desc = { ent-AltarBase.desc }
 
-ent-AltarConvertMaint = maint altar
+ent-AltarConvertMaint = вівтар тех. тунелів
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarConvertBlue = blue altar
+ent-AltarConvertBlue = синій вівтар
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarConvertBurden = burden altar
+ent-AltarConvertBurden = вівтар тягар
     .desc = { ent-AltarConvertFestival.desc }
 
 ent-AltarConvert = convert altar
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarConvertOrange = orange altar
+ent-AltarConvertOrange = оранжевий вівтар
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarConvertRed = red altar
+ent-AltarConvertRed = червоний вівтар
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarConvertWhite = white altar
+ent-AltarConvertWhite = білий вівтар
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarConvertYellow = yellow altar
+ent-AltarConvertYellow = жовтий вівтар
     .desc = { ent-AltarConvertFestival.desc }
 
-ent-AltarHeaven = heaven altar
+ent-AltarHeaven = вівтар раю
     .desc = { ent-AltarBase.desc }
 
-ent-AltarFangs = fanged altar
+ent-AltarFangs = ікластий вівтар
     .desc = { ent-AltarHeaven.desc }
 
-ent-AltarBananium = honkmother altar
-    .desc = A bananium altar dedicated to the honkmother.
-
+ent-AltarBananium = вівтар хонкоматери
+    .desc = Вівтар із бананію посвячений хонкматері.

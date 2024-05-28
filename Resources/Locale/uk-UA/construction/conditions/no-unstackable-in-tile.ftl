@@ -1,1 +1,2 @@
-construction-step-condition-no-unstackable-in-tile = You cannot make a stack of similar devices.
+construction-step-condition-no-unstackable-in-tile = Ви не можете зробити стак зі схожих пристроїв.
+pipe-restrict-overlap-popup-blocked = { CAPITALIZE($pipe) } не вміщається з іншими трубами.

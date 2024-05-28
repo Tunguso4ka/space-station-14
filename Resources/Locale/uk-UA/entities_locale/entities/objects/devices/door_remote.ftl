@@ -25,9 +25,6 @@ ent-DoorRemoteMedical = пульт від медичних дверей
 ent-DoorRemoteEngineering = пульт від інженерних дверей
     .desc = { ent-DoorRemoteDefault.desc }
 
-ent-DoorRemoteFirefight = пульт від дверей пожарника
-    .desc = Пристрій завдяки якому ви можете відкривати або болтувати пожарні шлюзи дистанційно.
-
 ent-DoorRemoteAll = супер пульт від дверей
     .desc = { ent-DoorRemoteDefault.desc }
     .suffix = Адмеме

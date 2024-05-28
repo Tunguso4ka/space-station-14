@@ -223,21 +223,6 @@ ent-SalvageMagnetMachineCircuitboard = плата шахтарського ма�
 ent-MiniGravityGeneratorCircuitboard = плата маленього генератору гравитації
     .desc = Надрукована плата a mini gravity generator.
 
-ent-ShuttleGunSvalinnMachineGunCircuitboard = LSE-400c "Svalinn machine gun" плата
-    .desc = Надрукована плата an LSE-400c "Svalinn machine gun"
-
-ent-ShuttleGunPerforatorCircuitboard = LSE-1200c "Perforator" плата
-    .desc = Надрукована плата an LSE-1200c "Perforator"
-
-ent-ShuttleGunFriendshipCircuitboard = EXP-320g "Friendship" плата
-    .desc = Надрукована плата an EXP-320g "Friendship"
-
-ent-ShuttleGunDusterCircuitboard = EXP-2100g "Duster" плата
-    .desc = Надрукована плата an EXP-2100g "Duster"
-
-ent-ShuttleGunKineticCircuitboard = PTK-800 "Matter Dematerializer" плата
-    .desc = Надрукована плата an PTK-800 "Matter Dematerializer"
-
 ent-ReagentGrinderIndustrialMachineCircuitboard = плата покращеного подрібнювача елементів
     .desc = { ent-BaseMachineCircuitboard.desc }
 

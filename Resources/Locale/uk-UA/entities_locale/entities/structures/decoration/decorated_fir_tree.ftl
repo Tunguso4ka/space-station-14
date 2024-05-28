@@ -1,3 +1,2 @@
-ent-DecoratedFirTree = decorated fir tree
-    .desc = A very festive tree for a very festive holiday.
-
+ent-DecoratedFirTree = декоративна ялинка
+    .desc = Дуже святкове дерево для дуже святково свята. Ви вгадали це - новорічна............. йолка?

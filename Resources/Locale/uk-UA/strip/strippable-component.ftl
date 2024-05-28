@@ -10,13 +10,11 @@ strippable-component-alert-owner = {$user} знимає ваш {$item}!
 strippable-component-alert-owner-hidden = Ти відчуваєш як хтось шариться у твоєму {$slot}!
 strippable-component-alert-owner-insert = {$user} надягає {$item} на тебе!
 
-# generic warning for when a user interacts with your equipped items.
-strippable-component-alert-owner-interact = {$user} is fumbling around with your {$item}!
+strippable-component-alert-owner-insert-hand = {$user} кладе {$item} у вашу руку!
 
-# StripVerb
+strippable-component-alert-owner-interact = {$user} щось робить з вашим {$item}!
+
 strip-verb-get-data-text = Одяг
-
-## UI
 
 strippable-bound-user-interface-stripping-menu-title = Інвентар {$ownerName}
 strippable-bound-user-interface-stripping-menu-ensnare-button = Зняти обмежувачі руху
