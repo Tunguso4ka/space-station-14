@@ -1,28 +1,36 @@
-ent-SpawnPointGhostRatKing = ghost role spawn point
+ent-SpawnPointGhostRatKing = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = rat king
+    .suffix = король щурів
 
-ent-SpawnPointGhostRemilia = ghost role spawn point
+ent-SpawnPointGhostRemilia = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = Remilia
+    .suffix = Ремілія
 
-ent-SpawnPointGhostCerberus = ghost role spawn point
+ent-SpawnPointGhostCerberus = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = cerberus
+    .suffix = цербер
 
-ent-SpawnPointGhostNukeOperative = ghost role spawn point
+ent-SpawnPointGhostNukeOperative = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = nukeops
+    .suffix = ядерний оперативник
 
-ent-SpawnPointLoneNukeOperative = ghost role spawn point
+ent-SpawnPointLoneNukeOperative = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = loneops
+    .suffix = оперативник одинак
 
-ent-SpawnPointGhostDragon = ghost role spawn point
+ent-SpawnPointNukeopsCommander = { ent-SpawnPointLoneNukeOperative }
+    .desc = { ent-SpawnPointLoneNukeOperative.desc }
+
+ent-SpawnPointNukeopsMedic = { ent-SpawnPointLoneNukeOperative }
+    .desc = { ent-SpawnPointLoneNukeOperative.desc }
+
+ent-SpawnPointNukeopsOperative = { ent-SpawnPointLoneNukeOperative }
+    .desc = { ent-SpawnPointLoneNukeOperative.desc }
+
+ent-SpawnPointGhostDragon = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = dragon
+    .suffix = дракон
 
-ent-SpawnPointGhostSpaceNinja = ghost role spawn point
+ent-SpawnPointGhostSpaceNinja = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
-    .suffix = space ninja
-
+    .suffix = космічний нінзя

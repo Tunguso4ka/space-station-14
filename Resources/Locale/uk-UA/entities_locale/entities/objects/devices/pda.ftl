@@ -13,7 +13,7 @@ ent-TechnicalAssistantPDA = КПК техничного асистента
 ent-MedicalInternPDA = КПК медичного інтерна
     .desc = Чому він не білий? Має вбудований аназитор здоров'я.
 
-ent-SecurityCadetPDA = КПК кадета безпеки
+ent-SecurityCadetPDA = КПК кадета охорони
     .desc = Чому він не червоний?
 
 ent-ResearchAssistantPDA = КПК наукового асистента
@@ -88,7 +88,7 @@ ent-RnDPDA = КПК наукового директора
 ent-SciencePDA = КПК науковця
     .desc = Покритий невідомою рідиною.
 
-ent-HoSPDA = КПК голови безпеки
+ent-HoSPDA = КПК голови охорони
     .desc = Той хто носить цей КПК - є законом.
 
 ent-WardenPDA = КПК наглядача

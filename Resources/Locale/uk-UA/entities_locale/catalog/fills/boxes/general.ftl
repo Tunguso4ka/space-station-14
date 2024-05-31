@@ -1,91 +1,89 @@
-ent-BoxCardboard = cardboard box
-    .desc = A cardboard box for storing things.
+ent-BoxCardboard = картонна коробка
+    .desc = Коробка з картону для зберігання речей.
 
-ent-BoxMousetrap = mousetrap box
-    .desc = This box is filled with mousetraps. Try not to get your hand stuck in one.
+ent-BoxMousetrap = коробка мишоловок
+    .desc = Ця коробка заповнена мишоловками. Сувати туди свої пальці - не найкраща ідея.
 
-ent-BoxLightbulb = lightbulb box
-    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.
+ent-BoxLightbulb = коробка лампочек
+    .desc = В цю коробку вміщуються тільки лампочки та трубки.
 
-ent-BoxLighttube = lighttube box
-    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.
+ent-BoxLighttube = коробка ламп-трубок
+    .desc = В цю коробку вміщуються тільки лампочки та трубки.
 
-ent-BoxLightMixed = mixed lights box
-    .desc = This box is shaped on the inside so that only light tubes and bulbs fit.
+ent-BoxLightMixed = коробка різних ламп
+    .desc = В цю коробку вміщуються тільки лампочки та трубки.
 
-ent-BoxPDA = PDA box
-    .desc = A box of spare PDA microcomputers.
+ent-BoxPDA = коробка КПК
+    .desc = Коробка з КПК.
 
-ent-BoxID = ID card box
-    .desc = A box of spare blank ID cards.
+ent-BoxID = коробка ID карт
+    .desc = Коробка чистих ID карт.
 
-ent-BoxHeadset = headset box
-    .desc = A box of spare passenger headsets.
+ent-BoxHeadset = коробка навушників
+    .desc = Коробка навушників асистентів.
 
-ent-BoxMesonScanners = meson box
-    .desc = A box of spare meson goggles.
+ent-BoxMesonScanners = коробка мезонів
+    .desc = Коробка мезонних окулярів.
 
-ent-BoxMRE = M.R.E.
-    .desc = A box of decades old military surplus rations. It is surprisingly not rotten.
+ent-BoxMRE = сухпай
+    .desc = Коробка старого військового сухого пайку. На диво ще з'їстне.
 
-ent-BoxHugHealing = box of hugs
-    .desc = A special box for sensitive people.
+ent-BoxHugHealing = коробка обіймашек
+    .desc = Спеціальна коробка для чутливих людей.
+    .suffix = Медічна
 
-ent-BoxInflatable = inflatable wall box
-    .desc = Inflatable walls are not to be used as floatation devices.
+ent-BoxInflatable = коробка надувних стін
+    .desc = Будь ласка, не використовуйте надувні стіни як плоти.
 
-ent-BoxPerformer = hatsune miku day bag
-    .desc = Happy Hatsune Miku Day!
+ent-BoxPerformer = мішок на день Хатсуне Міку
+    .desc = Щастливого дня Хатсуне Міку!
 
-ent-BoxFlare = flare box
-    .desc = A box of flares. Party time.
+ent-BoxFlare = коробка спалахів
+    .desc = Коробка спалахів. Що це за час? Це час для вечірки.
 
-ent-BoxTrashbag = trashbag box
-    .desc = A box of trashbags. Happy janitor noises.
+ent-BoxTrashbag = коробка мішків сміття
+    .desc = Коробка з мішками для сміття. Змушує прибиральника радити.
 
-ent-BoxEncryptionKeyPassenger = passenger encryption key box
-    .desc = A box of spare encryption keys.
+ent-BoxEncryptionKeyPassenger = коробка ключів шифрування асистентів
+    .desc = Коробка ключів шифрування.
 
-ent-BoxEncryptionKeyCargo = cargo encryption key box
+ent-BoxEncryptionKeyCargo = коробка ключів шифрування логистів
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeyEngineering = engineering encryption key box
+ent-BoxEncryptionKeyEngineering = коробка ключів шифрування інженерів
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeyMedicalScience = med-sci encryption key box
+ent-BoxEncryptionKeyMedicalScience = коробка ключів шифрування мед-науки
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeyMedical = medical encryption key box
+ent-BoxEncryptionKeyMedical = коробка ключів шифрування лікарів
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeyRobo = robotech encryption key box
+ent-BoxEncryptionKeyRobo = коробка ключів шифрування роботехів
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeyScience = science encryption key box
+ent-BoxEncryptionKeyScience = коробка ключів шифрування науковців
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeySecurity = security encryption key box
+ent-BoxEncryptionKeySecurity = коробка ключів шифрування охорони
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeyService = service encryption key box
+ent-BoxEncryptionKeyService = коробка ключів шифрування сервісу
     .desc = { ent-BoxEncryptionKeyPassenger.desc }
 
-ent-BoxEncryptionKeySyndie = syndicate encryption key box
-    .desc = Two syndicate encryption keys for the price of one. Miniaturized for ease of use.
-
-ent-BoxDeathRattleImplants = deathrattle implant box
-    .desc = Six deathrattle implants and handheld GPS devices for the whole squad.
+ent-BoxEncryptionKeySyndie = коробка ключів шифрування Синдикату
+    .desc = Два ключа шифрування Синдикату по ціні одного.
 
 ent-BoxLeadLined = lead-lined box
     .desc = This box stymies the transmission of harmful radiation.
     .suffix = DEBUG
 
-ent-BoxCandle = candle box
+ent-BoxCandle = коробка свічок
     .desc = { ent-BoxCardboard.desc }
 
-ent-BoxCandleSmall = small candle box
+ent-BoxCandleSmall = коробка маленьких свічок
     .desc = { ent-BoxCardboard.desc }
 
-ent-BoxDarts = darts box
-    .desc = This box filled with colorful darts.
+ent-BoxDarts = коробка дартсів
+    .desc = Коробка заповнена різнокольоровими дартсами.
 

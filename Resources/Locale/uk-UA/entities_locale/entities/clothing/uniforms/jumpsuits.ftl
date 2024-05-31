@@ -85,19 +85,19 @@ ent-ClothingUniformJumpsuitEngineeringHazard = захисний комбінез
 ent-ClothingUniformJumpsuitHoP = комбінезон голови персоналу
     .desc = Rather bland and inoffensive. Perfect for vanishing off the face of the universe.
 
-ent-ClothingUniformJumpsuitHoS = комбінезон голови безпеки
+ent-ClothingUniformJumpsuitHoS = комбінезон голови охорони
     .desc = It's bright red and rather crisp, much like security's victims tend to be.
 
-ent-ClothingUniformJumpsuitHoSAlt = водолазка голови безпеки
+ent-ClothingUniformJumpsuitHoSAlt = водолазка голови охорони
     .desc = It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
 
-ent-ClothingUniformJumpsuitHoSBlue = синій комбінезон голови безпеки
+ent-ClothingUniformJumpsuitHoSBlue = синій комбінезон голови охорони
     .desc = A blue jumpsuit of Head of Security.
 
-ent-ClothingUniformJumpsuitHoSGrey = сірий комбінезон голови безпеки
+ent-ClothingUniformJumpsuitHoSGrey = сірий комбінезон голови охорони
     .desc = A grey jumpsuit of Head of Security, which make him look somewhat like a passenger.
 
-ent-ClothingUniformJumpsuitHoSParadeMale = парадна форма голови безпеки
+ent-ClothingUniformJumpsuitHoSParadeMale = парадна форма голови охорони
     .desc = A male head of security's luxury-wear, for special occasions.
 
 ent-ClothingUniformJumpsuitHydroponics = комбінезон ботаніка

@@ -1,31 +1,34 @@
-ent-BaseComputerCircuitboard = computer board
+ent-BaseComputerCircuitboard = плата комп'ютеру
     .desc = { ent-BaseItem.desc }
 
-ent-AlertsComputerCircuitboard = alerts computer board
+ent-AlertsComputerCircuitboard = плата комп'ютеру тривог
     .desc = A computer printed circuit board for an alerts computer.
 
-ent-PowerComputerCircuitboard = power monitoring computer board
+ent-PowerComputerCircuitboard = плата комп'ютеру моніторингу живлення
     .desc = A computer printed circuit board for a power monitoring computer.
 
-ent-MedicalRecordsComputerCircuitboard = medical records computer board
+ent-MedicalRecordsComputerCircuitboard = плата комп'ютеру медічних записів
     .desc = A computer printed circuit board for a medical records computer.
 
-ent-CriminalRecordsComputerCircuitboard = criminal records computer board
+ent-CriminalRecordsComputerCircuitboard = плата комп'ютеру записів злочинів
     .desc = A computer printed circuit board for a criminal records computer.
 
-ent-StationRecordsComputerCircuitboard = station records computer board
+ent-StationRecordsComputerCircuitboard = плата комп'ютеру записів станції
     .desc = A computer printed circuit board for a station records computer.
 
-ent-CargoRequestComputerCircuitboard = cargo request computer board
+ent-CargoRequestComputerCircuitboard = плата комп'ютеру замовлень
     .desc = A computer printed circuit board for a cargo request computer.
 
-ent-CargoBountyComputerCircuitboard = cargo bounty computer board
+ent-CargoSaleComputerCircuitboard = плата комп'ютеру продажу
+    .desc = A computer printed circuit board for a cargo sale computer.
+
+ent-CargoBountyComputerCircuitboard = плата комп'ютеру винагород
     .desc = A computer printed circuit board for a cargo bounty computer.
 
-ent-CargoShuttleComputerCircuitboard = cargo shuttle computer board
+ent-CargoShuttleComputerCircuitboard = плата комп'ютеру шатла логістів
     .desc = A computer printed circuit board for a cargo shuttle computer.
 
-ent-SalvageExpeditionsComputerCircuitboard = salvage expeditions computer board
+ent-SalvageExpeditionsComputerCircuitboard = salvage expeditions плата комп'ютеру
     .desc = A computer printed circuit board for a salvage expeditions computer.
 
 ent-CargoShuttleConsoleCircuitboard = cargo shuttle console board
@@ -43,34 +46,34 @@ ent-SurveillanceWirelessCameraMonitorCircuitboard = surveillance wireless camera
 ent-ComputerTelevisionCircuitboard = television board
     .desc = A computer printed circuit board for a television.
 
-ent-ResearchComputerCircuitboard = R&D computer board
+ent-ResearchComputerCircuitboard = R&D плата комп'ютеру
     .desc = A computer printed circuit board for a R&D console.
 
-ent-AnalysisComputerCircuitboard = analysis computer board
+ent-AnalysisComputerCircuitboard = analysis плата комп'ютеру
     .desc = A computer printed circuit board for an analysis console.
 
 ent-TechDiskComputerCircuitboard = tech disk terminal board
     .desc = A computer printed circuit board for a technology disk terminal.
 
-ent-CrewMonitoringComputerCircuitboard = crew monitoring computer board
+ent-CrewMonitoringComputerCircuitboard = crew monitoring плата комп'ютеру
     .desc = A computer printed circuit board for a crew monitoring console.
 
-ent-IDComputerCircuitboard = ID card computer board
+ent-IDComputerCircuitboard = ID card плата комп'ютеру
     .desc = A computer printed circuit board for an ID card console.
 
-ent-BodyScannerComputerCircuitboard = body scanner computer board
+ent-BodyScannerComputerCircuitboard = body scanner плата комп'ютеру
     .desc = A computer printed circuit board for a body scanner console.
 
-ent-CommsComputerCircuitboard = communications computer board
+ent-CommsComputerCircuitboard = communications плата комп'ютеру
     .desc = A computer printed circuit board for a communications console.
 
-ent-SyndicateCommsComputerCircuitboard = syndicate communications computer board
+ent-SyndicateCommsComputerCircuitboard = syndicate communications плата комп'ютеру
     .desc = A computer printed circuit board for a syndicate communications console.
 
-ent-RadarConsoleCircuitboard = radar console computer board
+ent-RadarConsoleCircuitboard = radar console плата комп'ютеру
     .desc = { ent-BaseComputerCircuitboard.desc }
 
-ent-SolarControlComputerCircuitboard = solar control computer board
+ent-SolarControlComputerCircuitboard = solar control плата комп'ютеру
     .desc = A computer printed circuit board for a solar control console.
 
 ent-SpaceVillainArcadeComputerCircuitboard = space villain arcade board
@@ -79,7 +82,7 @@ ent-SpaceVillainArcadeComputerCircuitboard = space villain arcade board
 ent-BlockGameArcadeComputerCircuitboard = block game arcade board
     .desc = A computer printed circuit board for a block game arcade cabinet.
 
-ent-ParticleAcceleratorComputerCircuitboard = PA control box computer board
+ent-ParticleAcceleratorComputerCircuitboard = PA control box плата комп'ютеру
     .desc = A computer printed circuit board for a particle accelerator control box.
 
 ent-ShuttleConsoleCircuitboard = shuttle console board
@@ -88,7 +91,7 @@ ent-ShuttleConsoleCircuitboard = shuttle console board
 ent-SyndicateShuttleConsoleCircuitboard = syndicate shuttle console board
     .desc = A computer printed circuit board for a syndicate shuttle console.
 
-ent-CloningConsoleComputerCircuitboard = cloning console computer board
+ent-CloningConsoleComputerCircuitboard = cloning console плата комп'ютеру
     .desc = A computer printed circuit board for a cloning console.
 
 ent-ComputerIFFCircuitboard = IFF console board

@@ -20,7 +20,7 @@ ent-ClothingHeadsetAltEngineering = повнорозмірний навушни�
 ent-ClothingHeadsetAltMedical = повнорозмірний навушник головного лікаря
     .desc = { ent-ClothingHeadsetAlt.desc }
 
-ent-ClothingHeadsetAltSecurity = повнорозмірний навушник голови безпеки
+ent-ClothingHeadsetAltSecurity = повнорозмірний навушник голови охорони
     .desc = { ent-ClothingHeadsetAlt.desc }
 
 ent-ClothingHeadsetAltScience = повнорозмірний навушник наукового директора

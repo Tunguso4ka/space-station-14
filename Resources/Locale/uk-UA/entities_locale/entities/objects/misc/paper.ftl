@@ -13,7 +13,7 @@ ent-PaperArtifactAnalyzer = роздруківка анализатору арт
 ent-PaperCaptainsThoughts = думки капітану
     .desc = Сторінка з журналу капітану. Пахне дорогущою лавандою.
 
-ent-PaperCargoInvoice = накладна логистів
+ent-PaperCargoInvoice = накладна логістів
     .desc = Один шматок бюрократії.
 
 ent-PaperCargoBountyManifest = маніфест про винагороду

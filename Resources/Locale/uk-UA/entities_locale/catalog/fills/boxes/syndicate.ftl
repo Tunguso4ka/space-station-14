@@ -8,3 +8,5 @@ ent-ChemicalSynthesisKit = набір хіміческого синтезу
 ent-ThrowingKnivesKit = набір кидаємих ножів
     .desc = Набір з 4 кидаємих ножів Синдикату. Добре встромляються в тіла ваших супротивників.
 
+ent-BoxDeathRattleImplants = deathrattle implant box
+    .desc = Six deathrattle implants and handheld GPS devices for the whole squad.

@@ -63,7 +63,7 @@ ent-LockerResearchDirector = шафка наукового директора
 ent-LockerScientist = шафка науковця
     .desc = { ent-LockerBase.desc }
 
-ent-LockerHeadOfSecurity = шафка голови безпеки
+ent-LockerHeadOfSecurity = шафка голови охорони
     .desc = { ent-LockerBaseSecure.desc }
 
 ent-LockerWarden = шафка наглядача
@@ -72,7 +72,7 @@ ent-LockerWarden = шафка наглядача
 ent-LockerBrigmedic = шафка брігмедика
     .desc = { ent-LockerBaseSecure.desc }
 
-ent-LockerSecurity = шафка офіцера безпеки
+ent-LockerSecurity = шафка офіцера охорони
     .desc = { ent-LockerBaseSecure.desc }
 
 ent-GunSafe = сейф зброї

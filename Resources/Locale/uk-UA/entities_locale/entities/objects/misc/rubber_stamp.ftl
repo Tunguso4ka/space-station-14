@@ -36,7 +36,7 @@ ent-RubberStampHop = печатка голови персоналу
     .desc = { ent-RubberStampBase.desc }
     .suffix = не мапувати
 
-ent-RubberStampHos = печатка голови безпеки
+ent-RubberStampHos = печатка голови охорони
     .desc = { ent-RubberStampBase.desc }
     .suffix = не мапувати
 

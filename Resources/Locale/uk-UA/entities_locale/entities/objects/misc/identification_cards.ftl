@@ -13,7 +13,7 @@ ent-MedicalInternIDCard = ID картка медичного інтерна
 ent-ResearchAssistantIDCard = ID картка наукового асистента
     .desc = { ent-PassengerIDCard.desc }
 
-ent-SecurityCadetIDCard = ID картка кадета безпеки
+ent-SecurityCadetIDCard = ID картка кадета охорони
     .desc = { ent-PassengerIDCard.desc }
 
 ent-ServiceWorkerIDCard = ID картка офіціанта
@@ -94,7 +94,7 @@ ent-CMOIDCard = ID картка головного лікаря
 ent-RDIDCard = ID картка наукового директора
     .desc = { ent-IDCardStandard.desc }
 
-ent-HoSIDCard = ID картка голови безпеки
+ent-HoSIDCard = ID картка голови охорони
     .desc = { ent-IDCardStandard.desc }
 
 ent-BrigmedicIDCard = ID картка бригмедика
