@@ -1,3 +1,6 @@
+ent-BaseAntagSpawner = спавн точка ролі для привидів
+    .desc = { ent-MarkerBase.desc }
+
 ent-SpawnPointGhostRatKing = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
     .suffix = король щурів
@@ -34,3 +37,4 @@ ent-SpawnPointGhostDragon = спавн точка ролі для привиді
 ent-SpawnPointGhostSpaceNinja = спавн точка ролі для привидів
     .desc = { ent-MarkerBase.desc }
     .suffix = космічний нінзя
+

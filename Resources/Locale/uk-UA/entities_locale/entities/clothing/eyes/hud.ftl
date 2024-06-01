@@ -1,16 +1,20 @@
 ent-ShowSecurityIcons = ця сутність не має назви
+    .desc = { "" }
 
-ent-ClothingEyesHudDiagnostic = diagnostic hud
-    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
+ent-ShowMedicalIcons = ця сутність не має назви
+    .desc = { "" }
 
-ent-ClothingEyesHudMedical = medical hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status.
+ent-ClothingEyesHudDiagnostic = прозороий дисплей діагностики
+    .desc = Прозорий дисплей, що здатень аналізувати цілісність та статус роботів та екзокостюмів.
 
-ent-ClothingEyesHudSecurity = security hud
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records.
+ent-ClothingEyesHudMedical = медічний прозорий дисплей
+    .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх здоров'є.
 
-ent-ClothingEyesHudBeer = beer goggles
-    .desc = A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion.
+ent-ClothingEyesHudSecurity = прозорий дисплей охорони
+    .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх ID статус та кріминальну історію.
+
+ent-ClothingEyesHudBeer = пивні окуляри
+    .desc = Пара сонцезахісних прозорих дисплеїв, що можуть сканувати реагенти.
 
 ent-ClothingEyesHudFriedOnion = fried onion goggles
     .desc = Filler
@@ -24,8 +28,8 @@ ent-ClothingEyesHudMedOnion = medonion hud
 ent-ClothingEyesHudMedOnionBeer = medthungerst hud
     .desc = Filler
 
-ent-ClothingEyesHudMedSec = medsec hud
-    .desc = An eye display that looks like a mixture of medical and security huds.
+ent-ClothingEyesHudMedSec = медічний прозорий дисплей охорони
+    .desc = Прозорий дисплей, що є сумішшу медічного та охороного дисплеїв.
 
 ent-ClothingEyesHudMultiversal = multiversal hud
     .desc = Filler
@@ -33,25 +37,25 @@ ent-ClothingEyesHudMultiversal = multiversal hud
 ent-ClothingEyesHudOmni = omni hud
     .desc = Filler
 
-ent-ClothingEyesHudSyndicate = syndicate visor
-    .desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
+ent-ClothingEyesHudSyndicate = візор Синдикату
+    .desc = Професіональний прозорий дисплей Синдикату, зроблений для кращого виявлення гуманоїдів.
 
-ent-ClothingEyesHudSyndicateAgent = syndicate agent visor
-    .desc = The Syndicate Agent's professional heads-up display, designed for quick diagnosis of their team's status.
+ent-ClothingEyesHudSyndicateAgent = візор агента Синдикату
+    .desc = Професіональний прозорий дисплей агента Синдикату, зроблений для кращого діагнозу статусу команди.
 
 ent-ClothingEyesGlassesHiddenSecurity = { ent-ClothingEyesGlassesSunglasses }
     .desc = { ent-ClothingEyesGlassesSunglasses.desc }
     .suffix = Syndicate
 
-ent-ClothingEyesEyepatchHudMedical = medical hud eyepatch
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their health status. For true patriots.
+ent-ClothingEyesEyepatchHudMedical = медічна розумна пов'язка на око
+    .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх здоров'є. Для патріотів.
 
-ent-ClothingEyesEyepatchHudSecurity = security hud eyepatch
-    .desc = A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records. For true patriots.
+ent-ClothingEyesEyepatchHudSecurity = розумна пов'язка на око охорони
+    .desc = Прозорий дисплей, що сканує гуманоїдів в поле зору та показує інформацію про їх ID статус та кріминальну історію. Для патріотів.
 
-ent-ClothingEyesEyepatchHudBeer = beer hud eyepatch
-    .desc = A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion. For true patriots.
+ent-ClothingEyesEyepatchHudBeer = пивна розумна пов'язка на око
+    .desc = Cонцезахісний прозорий дисплей, що може сканувати реагенти. Для патріотів.
 
 ent-ClothingEyesEyepatchHudDiag = diagnostic hud eyepatch
-    .desc = A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
+    .desc = Прозорий дисплей, що здатень аналізувати цілісність та статус роботів та екзокостюмів.
 

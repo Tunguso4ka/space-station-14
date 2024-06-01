@@ -1,28 +1,29 @@
-forensic-scanner-interface-title = Forensic scanner
-forensic-scanner-interface-fingerprints = Fingerprints
-forensic-scanner-interface-fibers = Fibers
-forensic-scanner-interface-dnas = DNAs
-forensic-scanner-interface-residues = Residues
-forensic-scanner-interface-no-data = No scan data available
-forensic-scanner-interface-print = Print
-forensic-scanner-interface-clear = Clear
-forensic-scanner-report-title = Forensics Report: {$entity}
-forensic-pad-unused = It hasn't been used.
-forensic-pad-sample = It has a sample: {$sample}
-forensic-pad-gloves = {CAPITALIZE($target)} is wearing gloves.
-forensic-pad-start-scan-target = {CAPITALIZE($user)} is trying to take a sample of your fingerprints.
-forensic-pad-start-scan-user = You start taking a sample of {CAPITALIZE($target)}'s fingerprints.
-forensic-pad-already-used = This pad has already been used.
-forensic-scanner-match-fiber = Match in fiber found!
-forensic-scanner-match-fingerprint = Match in fingerprint found!
-forensic-scanner-match-none = No matches found!
-forensic-scanner-printer-not-ready = Printer is not ready yet.
-forensic-scanner-verb-text = Scan
-forensic-scanner-verb-message = Perform a forensic scan
+forensic-scanner-interface-title = Криміналістичний сканер
+forensic-scanner-interface-fingerprints = Відбитки
+forensic-scanner-interface-fibers = Фібри
+forensic-scanner-interface-dnas = ДНК
+forensic-scanner-interface-residues = Рештки
+forensic-scanner-interface-no-data = Інформація не доступна
+forensic-scanner-interface-print = Друк
+forensic-scanner-interface-clear = Очистити
+forensic-scanner-report-title = Кримін. Рапорт: {$entity}
+forensic-pad-unused = Його ще не було використано.
+forensic-pad-sample = Він має відбиток на ньому: {$sample}
+forensic-pad-gloves = {CAPITALIZE($target)} носить рукавички.
+forensic-pad-start-scan-target = {CAPITALIZE($user)} бере відбитки з ваших пальців.
+forensic-pad-start-scan-user = Ви почали брати відбитки з пальців {CAPITALIZE($target)}.
+forensic-pad-already-used = Цей листик вже використаний.
+forensic-scanner-match-fiber = Знайдено збіг у фібрах!
+forensic-scanner-match-fingerprint = Знайдено збіг у відбитках!
+forensic-scanner-match-none = Збігів не знайдено!
+forensic-scanner-printer-not-ready = Друкувач ще не готовий.
+forensic-scanner-verb-text = Сканувати
+forensic-scanner-verb-message = Зробити криміналістичний скан
 
+forensic-pad-fingerprint-name = відбитки {$entity}
+forensic-pad-gloves-name = фібри {$entity}
 
-
-forensic-pad-fingerprint-name = {$entity}'s fingerprints
-forensic-pad-gloves-name = fibers from {$entity}
-
-forensics-cleaning = You begin cleaning the evidence off of {THE($target)}...
+forensics-verb-text = Прибрати докази
+forensics-verb-message = Прибрати відбитки та ДНК з об'єкту!
+forensics-cleaning = Ви почали прибирати докази з {$target}...
+forensics-cleaning-cannot-clean = На {$target} немає доказів!

@@ -1,4 +1,4 @@
-﻿roles-antag-syndicate-agent-name = Агент синдикату
+roles-antag-syndicate-agent-name = Агент синдикату
 roles-antag-syndicate-agent-objective = Виконайте свої завдання та недайте себе спіймати.
 
 roles-antag-initial-infected-name = Перший інфікований
@@ -31,3 +31,5 @@ roles-antag-space-ninja-objective = Використовуючи свою нев
 roles-antag-thief-name = Крадій
 roles-antag-thief-objective = Приватизуйте щось з власності НаноТрайзен в свою приватну колекцію, без крові.
 
+roles-antag-dragon-name = Космічний дракон
+roles-antag-dragon-objective = Створить армію коропів та захопить цей космічний квадрат.
