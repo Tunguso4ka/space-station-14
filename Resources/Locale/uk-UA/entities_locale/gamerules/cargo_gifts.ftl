@@ -1,3 +1,6 @@
+ent-CargoGiftsBase = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
 ent-GiftsPizzaPartySmall = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

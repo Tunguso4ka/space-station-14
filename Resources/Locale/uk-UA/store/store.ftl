@@ -9,3 +9,6 @@ store-withdraw-button-ui = Вийняти {$currency}
 
 store-ui-button-out-of-stock = {""} (Немає в наявності)
 store-not-account-owner = Цій {$store} не належить вам!
+
+store-preset-name-uplink = Аплінк
+store-preset-name-spellbook = Книга замовлянь
