@@ -1,6 +1,9 @@
 ent-BaseGameRule = Base Game Rule
     .desc = { "" }
 
+ent-RespawnDeadRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+
 ent-SubGamemodesRule = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -45,3 +48,4 @@ ent-RampingStationEventScheduler = { ent-BaseGameRule }
 
 ent-BasicRoundstartVariation = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
+

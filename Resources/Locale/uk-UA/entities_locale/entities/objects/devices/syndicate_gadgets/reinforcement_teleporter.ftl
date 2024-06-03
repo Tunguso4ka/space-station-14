@@ -1,18 +1,20 @@
-ent-ReinforcementRadioSyndicate = syndicate reinforcement radio
-    .desc = Call in a syndicate agent of questionable quality, instantly! Only basic equipment provided.
+ent-ReinforcementRadioSyndicate = рація підкріплення Синдикату
+    .desc = Покличте собі на допомогу агента Синдикату, сумнівної якості звісно же. Й у нього почти що нічого не буде.
 
 ent-ReinforcementRadioSyndicateNukeops = { ent-ReinforcementRadioSyndicate }
     .desc = { ent-ReinforcementRadioSyndicate.desc }
-    .suffix = NukeOps
+    .suffix = ЯдерОпер
 
-ent-ReinforcementRadioSyndicateMonkey = syndicate monkey reinforcement radio
-    .desc = Calls in a specially trained monkey to assist you.
+ent-ReinforcementRadioSyndicateAncestor = рація підкріплення генетичного предка Синдикату
+    .desc = Викликає вам на допомогу спеціально натренованого предка.
 
-ent-ReinforcementRadioSyndicateMonkeyNukeops = { ent-ReinforcementRadioSyndicateMonkey }
-    .desc = { ent-ReinforcementRadioSyndicateMonkey.desc }
-    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateAncestorNukeops = { ent-ReinforcementRadioSyndicateAncestor }
+    .desc = { ent-ReinforcementRadioSyndicateAncestor.desc }
+    .suffix = ЯдерОпер
 
-ent-ReinforcementRadioSyndicateCyborgAssault = syndicate assault cyborg reinforcement radio
-    .desc = Call in a well armed assault cyborg, instantly!
-    .suffix = NukeOps
+ent-ReinforcementRadioSyndicateSyndiCat = рація підкріплення СиндиКота
+    .desc = Викликає вам на допомогу натренованого кота з мікробомбою.
 
+ent-ReinforcementRadioSyndicateCyborgAssault = рація підкріплення штурмового киборга Синдикату
+    .desc = Викликає вам на допомогу озброєного киборга!
+    .suffix = ЯдерОпер
