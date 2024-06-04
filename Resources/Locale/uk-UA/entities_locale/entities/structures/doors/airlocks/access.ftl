@@ -30,10 +30,6 @@ ent-AirlockHydroponicsLocked = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Ботаніка, Зачинений
 
-ent-AirlockServiceCaptainLocked = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
-    .suffix = Капітан, Зачинений
-
 ent-AirlockExternalLocked = { ent-AirlockExternal }
     .desc = { ent-AirlockExternal.desc }
     .suffix = Зовнішний, Зачинений

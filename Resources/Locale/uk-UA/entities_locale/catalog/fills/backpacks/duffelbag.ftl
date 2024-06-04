@@ -1,11 +1,7 @@
-ent-ClothingBackpackDuffelSurgeryFilled = surgical duffel bag
-    .desc = A large duffel bag for holding extra medical supplies - this one seems to be designed for holding surgical tools.
+ent-ClothingBackpackDuffelSurgeryFilled = хирургічний мішок
+    .desc = Великий мішок, що може тримати в собі додаткові медичні речі. Цей зроблений для хирургічних інструментів.
 
-ent-ClothingBackpackDuffelCBURNFilled = { ent-ClothingBackpackDuffelCBURN }
-    .desc = { ent-ClothingBackpackDuffelCBURN.desc }
-    .suffix = Filled
-
-ent-ClothingBackpackDuffelSyndicateFilledMedical = syndicate surgical duffel bag
+ent-ClothingBackpackDuffelSyndicateFilledMedical = хирургічний мішок синдикату
     .desc = A large duffel bag containing a full suite of surgical tools.
 
 ent-ClothingBackpackDuffelSyndicateFilledShotgun = Bulldog bundle
@@ -64,12 +60,6 @@ ent-ClothingBackpackDuffelSyndicateHardsuitExtrasBundle = syndicate hardsuit ext
 
 ent-ClothingBackpackDuffelZombieBundle = syndicate zombie bundle
     .desc = An all-in-one kit for unleashing the undead upon a station.
-
-ent-ClothingBackpackDuffelSyndicateOperative = operative duffelbag
-    .desc = { ent-ClothingBackpackDuffelSyndicateBundle.desc }
-
-ent-ClothingBackpackDuffelSyndicateOperativeMedic = operative medic duffelbag
-    .desc = A large duffel bag for holding extra medical supplies.
 
 ent-ClothingBackpackDuffelSyndicateMedicalBundleFilled = medical bundle
     .desc = All you need to get your comrades back in the fight.

@@ -70,8 +70,11 @@ ent-ClothingBackpackERTJanitor = рюкзак прибиральника ГШР
 ent-ClothingBackpackERTClown = рюкзак клоуна ГШР
     .desc = A spacious backpack with lots of pockets, worn by Clowns of an Emergency Response Team.
 
-ent-ClothingBackpackERTChaplain = ERT chaplain backpack
+ent-ClothingBackpackERTChaplain = рюкзак капелана ГШР
     .desc = A spacious backpack with lots of pockets, worn by Chaplains of an Emergency Response Team.
+
+ent-ClothingBackpackDeathSquad = рюкзак загону смерті
+    .desc = Holds the kit of CentComm's most feared agents.
 
 ent-ClothingBackpackSyndicate = рюкзак Синдиката
     .desc = { ent-ClothingBackpack.desc }

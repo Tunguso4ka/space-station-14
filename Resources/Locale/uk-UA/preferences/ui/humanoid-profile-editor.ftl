@@ -41,7 +41,6 @@ humanoid-profile-editor-department-jobs-label = {$departmentName}
 humanoid-profile-editor-antags-tab = Антагоністи
 humanoid-profile-editor-antag-preference-yes-button = Так
 humanoid-profile-editor-antag-preference-no-button = Ні
-humanoid-profile-editor-traits-tab = Риси
 humanoid-profile-editor-job-priority-high-button = Високий
 humanoid-profile-editor-job-priority-medium-button = Середній
 humanoid-profile-editor-job-priority-low-button = Низький
@@ -49,3 +48,10 @@ humanoid-profile-editor-job-priority-never-button = Ніколи
 humanoid-profile-editor-naming-rules-warning = Увага: Образліви чи ЛРП імена та описи можуть привести до розмов з адміном. Прочитайте правила перед тим як робити ім'я.
 humanoid-profile-editor-markings-tab = Маркування
 humanoid-profile-editor-flavortext-tab = Опис
+humanoid-profile-editor-traits-tab = Риси
+humanoid-profile-editor-no-traits = Рис не доступно
+
+humanoid-profile-editor-trait-count-hint = Балів доступно: [{$current}/{$max}]
+
+trait-category-disabilities = Вади
+trait-category-speech = Вимова
