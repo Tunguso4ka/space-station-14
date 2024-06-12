@@ -1,2 +1,2 @@
-For creating and maintaining this awesome game: Goonstation, /tg/station, Baystation12, CEV-Eris, /vg/station, and countless others.
-Many art assets taken from various SS13 codebases under the CC-BY-SA-3.0 license. Goonstation assets licensed under CC-BY-SA-NC-3.0.
+За створення та підтримку цієї чудової гри: Goonstation, /tg/station, Baystation12, CEV-Eris, /vg/station і безлич інших.
+Багато текстур взято з різних кодбаз SS13 під лицензією CC-BY-SA-3.0. Текстури з Goonstation лицензовані під CC-BY-SA-NC-3.0.
