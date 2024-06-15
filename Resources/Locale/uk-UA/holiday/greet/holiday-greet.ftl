@@ -14,7 +14,7 @@ holiday-name-st-patricks-day = Дня Святого Патрика
 holiday-name-easter = Великдня
 holiday-name-april-fool-day = Дня дурака
 holiday-name-autism-awareness-day = Дня поширення інформації про аутизм
-holiday-name-cosmonautics-day = Дня космонавтики
+holiday-name-cosmonautics-day = Всесвітнього дня польоту людини в космос та Дня працівників ракетно-космічної галузі України
 holiday-name-four-twenty = Four-Twenty
 holiday-name-tea-day = National Tea Day
 holiday-name-earth-day = Дня землі
@@ -70,7 +70,7 @@ holiday-name-national-coming-out-day = National Coming Out Day
 holiday-name-pride-month = Місяца гордості
 
 
-holiday-custom-cosmonautics-day = Цього дня, 600 років тому, радянський космонавт Юрій Гагарін полетів у космос на ракеті українського вченого Корольова!
+holiday-custom-cosmonautics-day = «…ураховуючи значний внесок працівників ракетно-космічної галузі України у наукові дослідження, створення сучасної ракетно-космічної техніки та впровадження високих космічних технологій в народне господарство…»
 holiday-custom-mothers-day = Щастливого дня матері у Америках, Азії та Океанії!
 holiday-custom-bastille-day = Чи чуєш ти людей спів?
 holiday-custom-friendship-day = Have a magical Friendship Day!
