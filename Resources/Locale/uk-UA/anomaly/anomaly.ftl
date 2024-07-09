@@ -53,7 +53,7 @@ anomaly-sync-no-anomaly = Жодної аномалії поблизу.
 anomaly-sync-examine-connected = [color=darkgreen]Є зʼєднання[/color] з аномалією.
 anomaly-sync-examine-not-connected = [color=darkred]Нема зʼєднання[/color] з аномалією.
 anomaly-sync-connect-verb-text = Приєднати аномалією
-anomaly-sync-connect-verb-message = Приєднати ближчу аномалію до {THE($machine)}.
+anomaly-sync-connect-verb-message = Приєднати ближчу аномалію до {$machine}.
 
 anomaly-generator-ui-title = Генератор Аномалій
 anomaly-generator-fuel-display = Паливо:
