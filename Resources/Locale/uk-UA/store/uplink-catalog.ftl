@@ -122,6 +122,7 @@ uplink-reinforcement-radio-ancestor-desc =  Call in a trained ancestor of your c
 
 uplink-reinforcement-radio-name = Телепортер підтримки
 uplink-reinforcement-radio-traitor-desc =  Radio in a reinforcement agent of extremely questionable quality. No off button, buy this if you're ready to party. Call in a medic or spy or thief to help you out. Good luck.
+uplink-reinforcement-radio-nukeops-name = Nuclear Operative Teleporter
 uplink-reinforcement-radio-nukeops-desc =  Radio in a reinforcement agent of extremely questionable quality. No off button, buy this if you're ready to party. They have a pistol with no reserve ammo, and a knife. That's it.
 
 uplink-reinforcement-radio-cyborg-assault-name = Телепортер штурмового киборга Синдикату
