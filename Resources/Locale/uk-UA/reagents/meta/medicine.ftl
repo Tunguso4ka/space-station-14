@@ -128,7 +128,7 @@ reagent-name-insuzine = інсузін
 reagent-desc-insuzine = Rapidly repairs dead tissue caused by electrocution, but cools you slightly. Completely freezes the patient when overdosed.
 
 reagent-name-opporozidone = оппорозідон
-reagent-desc-opporozidone= A difficult to synthesize cryogenic drug used to regenerate rotting tissue and brain matter.
+reagent-desc-opporozidone = A difficult to synthesize cryogenic drug used to regenerate rotting tissue and brain matter.
 
 reagent-name-necrosol = некрозол
 reagent-desc-necrosol = A necrotic substance that seems to be able to heal frozen corpses. It can treat and rejuvenate plants when applied in small doses.
@@ -141,3 +141,9 @@ reagent-desc-mannitol = Efficiently restores brain damage.
 
 reagent-name-psicodine = псікодін
 reagent-desc-psicodine = Suppresses anxiety and other various forms of mental distress. Overdose causes hallucinations and minor toxin damage.
+
+reagent-name-potassium-iodide = іодід калію
+reagent-desc-potassium-iodide = Will reduce the damaging effects of radiation by 90%. Prophylactic use only.
+
+reagent-name-haloperidol = галоперідол
+reagent-desc-haloperidol = Removes most stimulating and hallucinogenic drugs. Reduces druggy effects and jitteriness. Causes drowsiness.
