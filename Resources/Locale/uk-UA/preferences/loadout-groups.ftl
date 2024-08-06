@@ -18,6 +18,8 @@ loadout-group-survival-syndicate = Github is forcing me to write text that is li
 loadout-group-breath-tool = Species-dependent breath tools
 loadout-group-tank-harness = Species-specific survival equipment
 
+loadout-group-EVA-tank = Species-specific gas tank
+
 loadout-group-captain-head = Голова
 loadout-group-captain-jumpsuit = Одяг
 loadout-group-captain-neck = Шія
