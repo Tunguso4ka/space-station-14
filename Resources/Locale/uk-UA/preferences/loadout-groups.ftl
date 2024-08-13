@@ -38,6 +38,8 @@ loadout-group-passenger-gloves = Рукавички
 loadout-group-passenger-outerclothing = Зовнішний одяг
 loadout-group-passenger-shoes = Взуття
 
+loadout-group-passenger-neck = Шія
+
 loadout-group-bartender-head = Голова
 loadout-group-bartender-jumpsuit = Одяг
 loadout-group-bartender-outerclothing = Зовнішний одяг
@@ -189,6 +191,8 @@ loadout-group-paramedic-jumpsuit = Одяг
 loadout-group-paramedic-outerclothing = Зовнішний одяг
 loadout-group-paramedic-shoes = Взуття
 loadout-group-reporter-jumpsuit = Одяг
+
+loadout-group-psychologist-jumpsuit = Psychologist jumpsuit
 
 loadout-group-boxer-jumpsuit = Одяг
 loadout-group-boxer-gloves = Рукавички

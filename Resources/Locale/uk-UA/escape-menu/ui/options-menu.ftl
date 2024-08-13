@@ -150,6 +150,10 @@ ui-options-function-move-pulled-object = Пересунти об'єкт
 ui-options-function-release-pulled-object = Відпустити об'єкт
 ui-options-function-point = Вказати
 
+ui-options-function-rotate-object-clockwise = Rotate clockwise
+ui-options-function-rotate-object-counterclockwise = Rotate counterclockwise
+ui-options-function-flip-object = Flip
+
 ui-options-function-focus-chat-input-window = Сфокусувати чат
 ui-options-function-focus-local-chat-window = Сфокусувати чат (IC)
 ui-options-function-focus-emote = Сфокусувати чат (Емоції)

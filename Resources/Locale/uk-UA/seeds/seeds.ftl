@@ -121,3 +121,5 @@ seeds-cotton-name = бавовни
 seeds-cotton-display-name = рослина бавовни
 seeds-pyrotton-name =  пироттону
 seeds-pyrotton-display-name = рослина пироттону
+seeds-capfruit-name = capfruit
+seeds-capfruit-display-name = capfruit tree
