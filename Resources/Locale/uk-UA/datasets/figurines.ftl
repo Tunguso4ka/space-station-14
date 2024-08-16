@@ -27,20 +27,25 @@ figurines-mime-5 = ................
 figurines-musician-1 = Ніколи тебе не покину!
 figurines-musician-2 = Ніколи тебе не принижу!
 
-# figurines-boxer-
 
 figurines-captain-1 = Екіпаж, ніхто не бачив мого диска?
 figurines-captain-2 = Слава НТ!
+figurines-captain-3 = Ядерний диск в безпеці. Де? Та десь.
 
 figurines-hos-1 = Космозакон? Типу я?
-figurines-hos-2 = Застрельте клоуна.
+figurines-hos-2 = Так, піца з пончиками, так, екстра-корочка, дякую.
+figurines-hos-3 = Тобі зброю, тобі зброю, ні клоуне, тобі зброю я не дамо.
 
 figurines-warden-1 = Стратьте його за проникнення!
+figurines-warden-2 = Видати зброю в червоний код? Ви що?!
+figurines-warden-3 = Ми обходимося зі всіма однаково і НЕ принижуємо їх, так так!
 
 figurines-detective-1 = Це був дворецький.
+figurines-detective-2 = Ех, після цього мені точно не завадить трошечки віски.
 
 figurines-security-1 = Я є закон!
 figurines-security-2 = Ви порушили закон номер 1984.
+figurines-security-3 = Якщо мені нудно, то і всім повинно бути нудно! Нумо в клітку!
 
 figurines-lawyer-1 = Краще подзвонить Солу!
 figurines-lawyer-2 = Протестую!
@@ -134,8 +139,6 @@ figurines-wizard-3 = Знаєте, я хоч і маг, але FPV дрони п
 figurines-wizard-4 = ВОГНЯНА КУЛЯ!
 
 figurines-space-dragon-1 = Спіймати рибку? А що якщо рибка спіймає вас?!
-
-# figurines-queen
 
 figurines-rat-king-1 = Дайка мі жрачки, капіш?
 figurines-rat-king-2 = Ехзабудьпроце.

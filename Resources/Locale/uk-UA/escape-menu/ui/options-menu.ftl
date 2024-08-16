@@ -38,7 +38,7 @@ ui-options-volume-label = Гучність
 ui-options-display-label = Екран
 ui-options-quality-label = Якість
 ui-options-misc-label = Інше
-ui-options-interface-label = Дієвидло
+ui-options-interface-label = Дійовид
 
 
 ui-options-show-held-item = Показувати тримаємий предмет поряд з курсором
@@ -100,7 +100,7 @@ ui-options-header-movement = Рух
 ui-options-header-camera = Камера
 ui-options-header-interaction-basic = Базові взаїмодії
 ui-options-header-interaction-adv = Просунуті взаїмодії
-ui-options-header-ui = Дієвидло користувача
+ui-options-header-ui = Дійовид користувача
 ui-options-header-misc = Різне
 ui-options-header-hotbar = Швидка панель
 ui-options-header-shuttle = Шатл
@@ -200,7 +200,7 @@ ui-options-function-editor-copy-object = Копіювати
 ui-options-function-show-debug-console = Відкрити консоль
 ui-options-function-show-debug-monitors = Показати монітор відладки
 ui-options-function-inspect-entity = Обдивитися сутність
-ui-options-function-hide-ui = Сховати дієвидло
+ui-options-function-hide-ui = Сховати дійовид
 
 ui-options-function-hotbar1 = Hotbar slot 1
 ui-options-function-hotbar2 = Hotbar slot 2

@@ -164,6 +164,8 @@ loadout-group-detective-outerclothing = Зовнішний одяг
 
 loadout-group-security-cadet-jumpsuit = Одяг
 
+loadout-group-security-star = Security Star
+
 loadout-group-medical-gloves = Рукавички
 loadout-group-medical-mask = Маски
 

@@ -19,6 +19,9 @@ ent-BaseSecurityCommandContraband = { ent-BaseRestrictedContraband }
 ent-BaseSecurityScienceCommandContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 
+ent-BaseSecurityEngineeringContraband = { ent-BaseRestrictedContraband }
+    .desc = { ent-BaseRestrictedContraband.desc }
+
 ent-BaseEngineeringContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 

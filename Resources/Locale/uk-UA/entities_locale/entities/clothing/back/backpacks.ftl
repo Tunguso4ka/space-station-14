@@ -86,6 +86,10 @@ ent-ClothingBackpackCluwne = гигик фон дурниктон
     .desc = Рюкзак розроблений Дур! Ко.
     .suffix = Незнімний
 
+ent-ClothingBackpackElectropack = electropack
+    .desc = Shocks on the signal. It is used to keep a particularly dangerous criminal under control.
+    .suffix = SelfUnremovable
+
 ent-ClothingBackpackDebug = фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
@@ -101,4 +105,3 @@ ent-ClothingBackpackDebug3 = гейський фукзак
 ent-ClothingBackpackDebug4 = безкрайний фукзак
     .desc = Що це за ху... фігня?
     .suffix = Дебаг
-

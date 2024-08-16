@@ -27,6 +27,7 @@ research-technology-salvage-weapons = Шахтарське Озброєння
 research-technology-draconic-munitions = Draconic Munitions
 research-technology-uranium-munitions = Уранові набої
 research-technology-explosive-technology = Вибухові Технології
+research-technology-special-means = Special Means
 research-technology-weaponized-laser-manipulation = Weaponised Laser Manipulation
 research-technology-nonlethal-ammunition = Нелетальні набої
 research-technology-practice-ammunition = Набої для практики
