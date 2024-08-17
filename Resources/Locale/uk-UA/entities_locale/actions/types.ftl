@@ -4,8 +4,8 @@ ent-BaseSuicideAction = Суїцид
 ent-ActionScream = Кричати
     .desc = АААААААААААААААААААААААА
 
-ent-ActionTurnUndead = Turn Undead
-    .desc = Succumb to your infection and become a zombie.
+ent-ActionTurnUndead = Перетворитися на мертвяка
+    .desc = Здатися інфекції та перетворитися на зомбі.
 
 ent-ActionToggleLight = Перемкнути світло
     .desc = Перемикає світло.
@@ -78,4 +78,3 @@ ent-ActionToggleEyes = Відкрити/Закрити очі
 
 ent-ActionToggleWagging = action-name-toggle-wagging
     .desc = action-description-toggle-wagging
-

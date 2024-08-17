@@ -71,6 +71,8 @@ ui-options-hud-theme-clockwork = Годинники
 ui-options-hud-theme-retro = Ретро
 ui-options-hud-theme-minimalist = Мінімализм
 ui-options-hud-theme-ashen = Ашен
+ui-options-hud-layout-default = Стандартний
+ui-options-hud-layout-separated = Розділений
 ui-options-vp-stretch = Розтягнути поле зору під розмір окна гри
 ui-options-vp-scale = Фіксований розмір екрану: x{ $scale }
 ui-options-vp-scale-value = x{ $scale }
@@ -150,9 +152,11 @@ ui-options-function-move-pulled-object = Пересунти об'єкт
 ui-options-function-release-pulled-object = Відпустити об'єкт
 ui-options-function-point = Вказати
 
-ui-options-function-rotate-object-clockwise = Rotate clockwise
-ui-options-function-rotate-object-counterclockwise = Rotate counterclockwise
-ui-options-function-flip-object = Flip
+ui-options-function-rotate-object-clockwise = Обернути за годинником
+
+ui-options-function-rotate-object-counterclockwise = Обернути проти годинника
+
+ui-options-function-flip-object = Перевернути
 
 ui-options-function-focus-chat-input-window = Сфокусувати чат
 ui-options-function-focus-local-chat-window = Сфокусувати чат (IC)
@@ -186,7 +190,7 @@ ui-options-function-show-escape-menu = Перемкнути меню гри
 ui-options-function-escape-context = Закрити останнє вікно або перемкнути меню гри
 
 ui-options-function-take-screenshot = Зробити знимок екрану
-ui-options-function-take-screenshot-no-ui = Зробити знимок екрану (без дієвидла)
+ui-options-function-take-screenshot-no-ui = Зробити знимок екрану (без дієвида)
 ui-options-function-toggle-fullscreen = Перемнути повне вікно
 
 ui-options-function-editor-place-object = Поставити об'єкт
@@ -194,7 +198,7 @@ ui-options-function-editor-cancel-place = Відминити вибір
 ui-options-function-editor-grid-place = Поставити коробкою
 ui-options-function-editor-line-place = Поставити лінією
 ui-options-function-editor-rotate-object = Обернути
-ui-options-function-editor-flip-object = Обернути на 180
+ui-options-function-editor-flip-object = Перевернути
 ui-options-function-editor-copy-object = Копіювати
 
 ui-options-function-show-debug-console = Відкрити консоль
