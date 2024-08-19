@@ -1,4 +1,4 @@
-guide-entry-ss14 = Космічна Станція 14
+guide-entry-ss14 = Станція та зміни
 guide-entry-engineering = Інженерний
 guide-entry-construction = Будування
 guide-entry-airlock-security = Покращення дверей
@@ -77,6 +77,8 @@ guide-entry-revolutionaries = Революціонери
 guide-entry-minor-antagonists = Мінорні антаги
 guide-entry-space-ninja = Космічний Ніндзя
 
+guide-entry-thieves = Thieves
+
 guide-entry-rules = Правила сервера
 guide-entry-rules-core-only = Core Only Ruleset
 guide-entry-rules-lrp = Стандартні правила
@@ -115,7 +117,7 @@ guide-entry-rules-r12 = R12
 guide-entry-rules-r13 = R13
 guide-entry-rules-r14 = R14
 guide-entry-rules-r15 = R15
-guide-entry-rules-silicon = Правила киборгів
+guide-entry-rules-silicon = Правила кіборгів
 guide-entry-rules-s1 = S1
 guide-entry-rules-s2 = S2
 guide-entry-rules-s3 = S3
