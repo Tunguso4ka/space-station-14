@@ -1,4 +1,5 @@
 sandbox-window-title = Пісочниця
+sandbox-window-ai-overlay-button = AI Overlay
 sandbox-window-respawn-button = Відродження
 sandbox-window-spawn-entities-button = Ств. сутності
 sandbox-window-spawn-tiles-button = Ств. тайли

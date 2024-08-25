@@ -1,5 +1,4 @@
-loadout-group-species-restriction = This item is not available for your current species.
-
+loadout-group-species-restriction = Ця річ не доступна виду вашого персонажа.
 loadout-group-trinkets = Дрібнички
 
 loadout-group-glasses = Окуляри
@@ -19,6 +18,8 @@ loadout-group-breath-tool = Species-dependent breath tools
 loadout-group-tank-harness = Species-specific survival equipment
 
 loadout-group-EVA-tank = Species-specific gas tank
+
+loadout-group-survival-mime = Mime Survival Box
 
 loadout-group-captain-head = Голова
 loadout-group-captain-jumpsuit = Одяг

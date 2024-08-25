@@ -22,6 +22,7 @@ salvage-magnet-resources = {$resource ->
     [OrePlasma] Плазма
     [OreUranium] Уран
     [OreArtifactFragment] Фрагменти артефакта
+    [OreBananium] Бананій
     *[other] {$resource}
 }
 
@@ -33,6 +34,8 @@ salvage-magnet-resources-count = {$count ->
     [5] (Rich)
     *[other] (Extraordinary)
 }
+
+salvage-magnet-debris-ChunkDebris = Space Debris
 
 dungeon-config-proto-BlobAsteroid = Asteroid clump
 
@@ -51,4 +54,3 @@ salvage-map-wreck-size-small = [color=lime]Малий[/color]
 salvage-map-wreck-size-medium = [color=cornflowerblue]Середній[/color]
 
 salvage-map-wreck-size-large = [color=orchid]Великий[/color]
-
