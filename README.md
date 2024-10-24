@@ -28,7 +28,7 @@
 2. Запустить `RUN_THIS.py` щоб ініціалізувати підмодулі та завантажити рушій.
 3. Скомпілюйте рішення
 
-[Більш докладна інструкція по збірці проекту (Англійською)](https://docs.spacestation14.com/en/general-development/setup.html)
+[Докладніша інструкція по збірці проекту (Англійською)](https://docs.spacestation14.com/en/general-development/setup.html)
 
 ## Лицензія
 
