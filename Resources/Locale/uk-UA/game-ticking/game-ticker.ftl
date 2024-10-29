@@ -32,6 +32,7 @@ player-first-join-message = ! Гравець {$name} під'єднався вп�
 player-leave-message = Гравець {$name} від'єднався.
 
 latejoin-arrival-announcement = {$character} ({$job}) прибув на станцію!
+latejoin-arrival-announcement-special = {$job} {$character} on deck!
 latejoin-arrival-sender = Станція
 latejoin-arrivals-direction = Шатл що доставить вас на станцію скоро прибуде.
 latejoin-arrivals-direction-time = Шатл що доставить вас на станцію прибуде через {$time}.
@@ -41,3 +42,6 @@ latejoin-arrivals-teleport-to-spawn = Містична сила переноси
 
 preset-not-enough-ready-players = Неможливо почати {$presetName}. Потрібно мінімум {$minimumPlayers} гравців, але ми маємо {$readyPlayersCount}.
 preset-no-one-ready = Неможливо почати {$presetName}. Жодний гравець не приготувався.
+game-run-level-PreRoundLobby = Pre-round lobby
+game-run-level-InRound = In round
+game-run-level-PostRound = Post round
