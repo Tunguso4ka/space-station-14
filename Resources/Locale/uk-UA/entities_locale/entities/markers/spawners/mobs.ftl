@@ -7,6 +7,9 @@ ent-SpawnMobCockroach = Cockroach Spawner
 ent-SpawnMobCorgi = HoP Corgi Spawner
     .desc = { ent-MarkerBase.desc }
 
+ent-SpawnMobCorgiMouse = Dev Mouse Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Admeme
 ent-SpawnMobPossumMorty = Possum Morty Spawner
     .desc = { ent-MarkerBase.desc }
 

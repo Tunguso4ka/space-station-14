@@ -7,6 +7,8 @@ ent-ClothingHandsGlovesColorRed = червоні рукавички
 ent-ClothingHandsGlovesColorBlue = сині рукавички
     .desc = Звичайні сині рукавички, котрі не вбережуть вас від удару струмом.
 
+ent-ClothingHandsGlovesColorTeal = teal gloves
+    .desc = Regular teal gloves that do not keep you from frying.
 ent-ClothingHandsGlovesColorBrown = коричневі рукавички
     .desc = Звичайні коричневі рукавички, котрі не вбережуть вас від удару струмом.
 

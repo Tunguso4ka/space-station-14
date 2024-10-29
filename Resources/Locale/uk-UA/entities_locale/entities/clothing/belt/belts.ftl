@@ -55,8 +55,9 @@ ent-ClothingBeltMilitaryWebbing = тактичний нагрудник
 ent-ClothingBeltMilitaryWebbingMed = тактичний нагрудник медика
     .desc = Набір тактичних розвантажних поясів, що носять медики Головорізів Ґорлакса.
 
-ent-ClothingBeltSuspenders = підтяжки
-    .desc = Це тримає ваші штані.
-
+ent-ClothingBeltSuspendersRed = red suspenders
+    .desc = For holding your pants up.
+ent-ClothingBeltSuspendersBlack = black suspenders
+    .desc = { ent-ClothingBeltSuspendersRed.desc }
 ent-ClothingBeltWand = жезловий ремінь
     .desc = Ремінь, здатний тримати різноманітні чарівні палички. Повні штані екзотичної маґії.

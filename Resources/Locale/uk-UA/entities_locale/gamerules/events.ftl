@@ -43,15 +43,6 @@ ent-GasLeak = { ent-BaseGameRule }
 ent-KudzuGrowth = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-MouseMigration = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
-ent-KingRatMigration = { ent-BaseStationEventShortDelay }
-    .desc = { ent-BaseStationEventShortDelay.desc }
-
-ent-CockroachMigration = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-PowerGridCheck = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -64,6 +55,8 @@ ent-VentClog = { ent-BaseGameRule }
 ent-SlimesSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
+ent-SnakeSpawn = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
 ent-SpiderSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

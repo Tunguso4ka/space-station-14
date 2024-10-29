@@ -1,5 +1,5 @@
-ent-BaseIntercom = intercom
-    .desc = An intercom. For when the station just needs to know something.
+ent-BaseIntercom = інтерком
+    .desc = Інтерком. Для моментів коли станція ну просто повинна дізнатися про щось.
 
 ent-IntercomAssembly = intercom assembly
     .desc = An intercom. It doesn't seem very helpful right now.
@@ -8,9 +8,10 @@ ent-IntercomConstructed = { ent-BaseIntercom }
     .desc = { ent-BaseIntercom.desc }
     .suffix = Empty, Panel Open
 
-ent-Intercom = інтерком
-    .desc = Інтерком. Для моментів коли станція ну просто повинна дізнатися про щось.
-
+ent-Intercom = { ent-IntercomConstructed }
+    .desc = { ent-IntercomConstructed.desc }
+ent-BaseIntercomSecure = { ent-Intercom }
+    .desc = { ent-Intercom.desc }
 ent-IntercomCommon = { ent-Intercom }
     .desc = { ent-Intercom.desc }
     .suffix = Common
@@ -31,8 +32,8 @@ ent-IntercomScience = { ent-Intercom }
     .desc = { ent-Intercom.desc }
     .suffix = Science
 
-ent-IntercomSecurity = { ent-Intercom }
-    .desc = { ent-Intercom.desc }
+ent-IntercomSecurity = { ent-BaseIntercomSecure }
+    .desc = An intercom. It's been reinforced with metal from security helmets, making it a bitch-and-a-half to open.
     .suffix = Security
 
 ent-IntercomService = { ent-Intercom }
