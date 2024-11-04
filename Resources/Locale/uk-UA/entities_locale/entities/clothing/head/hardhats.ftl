@@ -1,24 +1,24 @@
 ent-ClothingHeadHatHardhatBase = { ent-ClothingHeadBase }
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadHatHardhatBlue = blue hard hat
-    .desc = A hard hat, painted in blue, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatBlue = синя каска
+    .desc = Каска, пофарбована у синій. Використовується у небезпечних будівництвах для захисту голови. Споряджається вбудованим ліхтариком.
 
-ent-ClothingHeadHatHardhatOrange = orange hard hat
-    .desc = A hard hat, painted in orange, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatOrange = помаранчева каска
+    .desc = Каска, пофарбована у помаранчевий. Використовується у небезпечних будівництвах для захисту голови. Споряджається вбудованим ліхтариком.
 
-ent-ClothingHeadHatHardhatRed = red hard hat
-    .desc = A hard hat, painted in red, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatRed = червона каска
+    .desc = Каска, пофарбована у червоний. Використовується у небезпечних будівництвах для захисту голови. Споряджається вбудованим ліхтариком.
 
-ent-ClothingHeadHatHardhatWhite = white hard hat
-    .desc = A hard hat, painted in white, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatWhite = біла каска
+    .desc = Каска, пофарбована у білий. Використовується у небезпечних будівництвах для захисту голови. Споряджається вбудованим ліхтариком.
 
-ent-ClothingHeadHatHardhatYellow = yellow hard hat
-    .desc = A hard hat, painted in yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatYellow = жовта каска
+    .desc = Каска, пофарбована у жовтий. Використовується у небезпечних будівництвах для захисту голови. Споряджається вбудованим ліхтариком.
 
-ent-ClothingHeadHatHardhatYellowDark = dark yellow hard hat
-    .desc = A hard hat, painted in dark yellow, used in dangerous working conditions to protect the head. Comes with a built-in flashlight.
+ent-ClothingHeadHatHardhatYellowDark = темножовта каска
+    .desc = Каска, пофарбована у темножовтий. Використовується у небезпечних будівництвах для захисту голови. Споряджається вбудованим ліхтариком.
 
-ent-ClothingHeadHatHardhatArmored = armored hard hat
-    .desc = An armored hard hat. Provides the best of both worlds in both protection & utility - perfect for the engineer on the frontlines.
+ent-ClothingHeadHatHardhatArmored = захисна каска
+    .desc = Захисна каска. Надає найкращі захист і зручність — незамінно для інженерів на передовій.
 

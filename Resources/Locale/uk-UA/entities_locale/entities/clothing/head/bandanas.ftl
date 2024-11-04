@@ -22,7 +22,7 @@ ent-ClothingHeadBandGrey = сіра бандана
 ent-ClothingHeadBandRed = червона бандана
     .desc = { ent-ClothingHeadBandBase.desc }
 
-ent-ClothingHeadBandSkull = бандана з черепом
+ent-ClothingHeadBandSkull = бандана із черепом
     .desc = { ent-ClothingHeadBandBase.desc }
 
 ent-ClothingHeadBandMerc = бандана найманця

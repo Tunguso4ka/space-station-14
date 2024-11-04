@@ -4,17 +4,17 @@ ent-ClothingHeadBase = { ent-Clothing }
 ent-ClothingHeadBaseButcherable = { ent-ClothingHeadBase }
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadLightBase = base helmet with light
+ent-ClothingHeadLightBase = основний шолом із ліхтариком
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadEVAHelmetBase = base space helmet
+ent-ClothingHeadEVAHelmetBase = основний космічний шолом
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadHardsuitBase = base hardsuit helmet
-
+ent-ClothingHeadHardsuitBase = основний шолом від захисного костюму
     .desc = { "" }
-ent-ClothingHeadHardsuitWithLightBase = base hardsuit helmet with light
+
+ent-ClothingHeadHardsuitWithLightBase = основний шолом від захисного костюму з ліхтариком
     .desc = { ent-ClothingHeadHardsuitBase.desc }
 
-ent-ClothingHeadHatHoodWinterBase = base winter coat hood
-    .desc = A hood, made to keep your head warm.
+ent-ClothingHeadHatHoodWinterBase = основний каптур до зимового плащу
+    .desc = Каптур, покликаний тримати голову в теплі.

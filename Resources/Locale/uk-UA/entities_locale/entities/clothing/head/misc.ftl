@@ -1,11 +1,11 @@
-ent-ClothingHeadHatBunny = кролячі вушки
+ent-ClothingHeadHatBunny = кролячі вушкa
     .desc = Милі кролячі вушка.
 
-ent-ClothingHeadHatCake = cake hat
-    .desc = You put the cake on your head. Brilliant.
+ent-ClothingHeadHatCake = тортолюх
+    .desc = Натягнути торта на макітру. Блискуче.
 
-ent-ClothingHeadHatChickenhead = chicken head
-    .desc = It's a chicken head. Bok bok bok!
+ent-ClothingHeadHatChickenhead = куряча голова
+    <!>.desc = Це голова курки. Чути курячі звуки.
 
 ent-ClothingHeadHatFlowerWreath = flower wreath
     .desc = A wreath of colourful flowers. Can be worn both on head and neck.
@@ -55,7 +55,7 @@ ent-ClothingHeadHatSquid = squiddy
 ent-ClothingHeadHatRedRacoon = red racoon hat
     .desc = Fluffy hat of red racoon!
 
-ent-WaterDropletHat = water droplet
+ent-WaterDropletHat = крапля води
     .desc = Makes 8-eyed friends 8 times more adorable!
 
 ent-ClothingHeadHatHairflower = hairflower

@@ -1,25 +1,26 @@
 ent-ClothingHeadHatBeaverHat = beaver hat
     .desc = 'Gentlemen?'
 
-ent-ClothingHeadHatBeret = beret
-    .desc = A beret, an artists favorite headwear.
+ent-ClothingHeadHatBeret = берет
+    .desc = Берет, улюблений головний убір художників.
 
-ent-ClothingHeadHatBeretFrench = French beret
-    .desc = A French beret, "vive la France".
+ent-ClothingHeadHatBeretFrench = французький берет
+    .desc = Французький берет, "vive la France".
 
-ent-ClothingHeadHatBeretSecurity = security beret
-    .desc = A stylish clothing option for security officers.
+ent-ClothingHeadHatBeretSecurity = берет охорони
+    .desc = Стильний вибір офіцерів охорони.
 
-ent-ClothingHeadHatSecurityTrooper = trooper hat
-    .desc = A campaign hat for the Nanotrasen Troopers, comes with a case too, but you lost it.
+ent-ClothingHeadHatSecurityTrooper = капелюх штурмовика
+    .desc = Капелюх штурмовиків Nanotrasen, постачається з чохлом, котрий був успішно загублений тобою.
+
 ent-ClothingHeadHatCasa = casa
     .desc = Cone-shaped hat
 
-ent-ClothingHeadHatBeretRND = scientific beret
-    .desc = A beret for real scientists.
+ent-ClothingHeadHatBeretRND = науковий берет
+    .desc = Берет для справжніх учених.
 
-ent-ClothingHeadHatBeretEngineering = engineering beret
-    .desc = A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretEngineering = інженерний берет
+    .desc = Берет із інженерним знаком на ньому. Для інженерів, радше схильних до стилю, ніж до безпеки.
 
 ent-ClothingHeadHatBeretQM = quartermaster's beret
     .desc = A beret with the cargo's insignia emblazoned on it. For quartermasters that are more inclined towards style.
@@ -30,23 +31,23 @@ ent-ClothingHeadHatBeretHoS = head of security's beret
 ent-ClothingHeadHatBeretWarden = warden's beret
     .desc = A corporate blue beret with a warden's rank emblem. For officers that are more inclined towards style than safety.
 
-ent-ClothingHeadHatBeretSeniorPhysician = physician beret
+ent-ClothingHeadHatBeretSeniorPhysician = берет фізика
     .desc = Donning the colours of medical and chemistry, physicians are the pride of this department!
 
 ent-ClothingHeadHatBeretBrigmedic = brigmedical beret
     .desc = White beret, looks like a cream pie on the head.
 
-ent-ClothingHeadHatBeretMerc = mercenary beret
-    .desc = Olive beret, the badge depicts a jackal on a rock.
+ent-ClothingHeadHatBeretMerc = берет наймита
+    .desc = Оливковий берет, шеврон на ньому зображає шакала на камені.
 
 ent-ClothingHeadHatBowlerHat = bowler hat
     .desc = Stylish bowler hat.
 
-ent-ClothingHeadHatCaptain = captain's hardhat
-    .desc = It's good being the king.
+ent-ClothingHeadHatCaptain = каска капітана
+    .desc = Як добре бути королем.
 
-ent-ClothingHeadHatCardborg = cardborg helmet
-    .desc = A hat made out of a box.
+ent-ClothingHeadHatCardborg = картонний шолом
+    .desc = Головний убір, зроблений із коробки.
 
 ent-ClothingHeadHatCentcom = CentCom brand hat
     .desc = It's good to be the emperor.

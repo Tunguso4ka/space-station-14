@@ -1,76 +1,76 @@
-ent-ClothingHeadHelmetHardsuitBasic = basic hardsuit helmet
-    .desc = A basic-looking hardsuit helmet that provides minor protection against most sources of damage.
+ent-ClothingHeadHelmetHardsuitBasic = звичайний шолом до захисного костюму
+    .desc = Непримітний шолом до захисного костюму, котрий надає незначний захист від більшости джерел шкоди.
 
-ent-ClothingHeadHelmetHardsuitAtmos = atmos hardsuit helmet
-    .desc = A special hardsuit helmet designed for working in low-pressure, high thermal environments.
+ent-ClothingHeadHelmetHardsuitAtmos = шолом до захисного костюму атмосу
+    .desc = Особливий шолом до захисного костюму для роботи в умовах низького тиску та високої температури.
 
-ent-ClothingHeadHelmetHardsuitEngineering = engineering hardsuit helmet
-    .desc = An engineering hardsuit helmet designed for working in low-pressure, high radioactive environments.
+ent-ClothingHeadHelmetHardsuitEngineering = шолом до інженерного захисного костюму
+    .desc = Інженерний шолом для роботи в умовах низького тиску та високої радіації.
 
-ent-ClothingHeadHelmetHardsuitSpatio = spationaut hardsuit helmet
-    .desc = A sturdy helmet designed for complex industrial operations in space.
+ent-ClothingHeadHelmetHardsuitSpatio = шолом до космічного захисного костюму
+    .desc = Твердий шолом для складних індустріальних задач у космосі.
 
-ent-ClothingHeadHelmetHardsuitSalvage = salvage hardsuit helmet
-    .desc = A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
+ent-ClothingHeadHelmetHardsuitSalvage = шолом до захисного костюму рятівника
+    .desc = Особливий шолом для роботи у небезпечних умовах за низького тиску. Має укріплене покриття та спарений прожектор.
 
 ent-ClothingHeadHelmetHardsuitMaxim = salvager maxim helmet
     .desc = A predication of decay washes over your mind.
 
-ent-ClothingHeadHelmetHardsuitSecurity = security hardsuit helmet
-    .desc = Armored hardsuit helmet for security needs.
+ent-ClothingHeadHelmetHardsuitSecurity = шолом до захисного костюму охорони
+    .desc = Шолом до броньованого захисного костюму для потреб охорони.
 
-ent-ClothingHeadHelmetHardsuitBrigmedic = brigmedic hardsuit helmet
-    .desc = The lightweight helmet of the brigmedic hardsuit. Protects against viruses, and clowns.
+ent-ClothingHeadHelmetHardsuitBrigmedic = шолом до захисного костюму бриґмеда
+    .desc = Легкий шолом до захисного костюму бриґадного медика. Захищає від вірусів та клоунів.
 
-ent-ClothingHeadHelmetHardsuitWarden = warden's hardsuit helmet
-    .desc = A modified riot helmet. Oddly comfortable.
+ent-ClothingHeadHelmetHardsuitWarden = шолом до захисного костюму вардена
+    .desc = Змінений шолом бунтівників. Несподівано зручний.
 
-ent-ClothingHeadHelmetHardsuitCap = captain's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the captain of the station.
+ent-ClothingHeadHelmetHardsuitCap = шолом до капітанського захисного костюму
+    .desc = Особливий шолом, створений для капітана станції.
 
-ent-ClothingHeadHelmetHardsuitEngineeringWhite = chief engineer's hardsuit helmet
-    .desc = Special hardsuit helmet, made for the chief engineer of the station.
+ent-ClothingHeadHelmetHardsuitEngineeringWhite = шолом до захисного костюму старшого інженера
+    .desc = Особливий шолом, створений для старшого інженера станції.
 
-ent-ClothingHeadHelmetHardsuitMedical = chief medical officer's hardsuit helmet
-    .desc = Lightweight medical hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitMedical = шолом до захисного костюму медофіцера
+    .desc = Легкий шолом, котрий не сковує рухи головою.
 
-ent-ClothingHeadHelmetHardsuitRd = experimental research hardsuit helmet
-    .desc = Lightweight hardsuit helmet that doesn't restrict your head movements.
+ent-ClothingHeadHelmetHardsuitRd = шолом до експериментального захисного костюму
+    .desc = Легкий шолом, котрий не сковує рухи головою.
 
-ent-ClothingHeadHelmetHardsuitSecurityRed = head of security's hardsuit helmet
-    .desc = Security hardsuit helmet with the latest top secret NT-HUD software. Belongs to the HoS.
+ent-ClothingHeadHelmetHardsuitSecurityRed = шолом до захисного костюму голови охорони
+    .desc = Шолом до захисного костюму охорони з найсвіжішим надтаємним ПЗ NT-HUD. Належить голові охорони.
 
 ent-ClothingHeadHelmetHardsuitLuxury = luxury mining hardsuit helmet
     .desc = A refurbished mining hardsuit helmet, fitted with satin cushioning and an extra (non-functioning) antenna, because you're that extra.
 
-ent-ClothingHeadHelmetHardsuitSyndie = blood-red hardsuit helmet
-    .desc = A heavily armored helmet designed for work in special operations. Property of Gorlex Marauders.
+ent-ClothingHeadHelmetHardsuitSyndie = багряний шолом до захисного костюму
+    .desc = Важкоброньований шолом, створений для виконання спецоперацій. Власність Марадерів Ґорлекса.
 
-ent-ClothingHeadHelmetHardsuitSyndieMedic = blood-red medic hardsuit helmet
-    .desc = An advanced red hardsuit helmet specifically designed for field medic operations.
+ent-ClothingHeadHelmetHardsuitSyndieMedic = багряний шолом до захисного костюму лікаря
+    .desc = Шолом до просунутого захисного костюму, створений для польових медичних задач.
 
-ent-ClothingHeadHelmetHardsuitSyndieElite = syndicate elite helmet
-    .desc = An elite version of the blood-red hardsuit's helmet, with improved armor and fireproofing. Property of Gorlex Marauders.
+ent-ClothingHeadHelmetHardsuitSyndieElite = елітний шолом синдикату
+    .desc = Елітна версія шолому до багряного захисного костюму з поліпшеним балістичним та тепловим захистом. Власність Марадерів Ґорлекса.
 
-ent-ClothingHeadHelmetHardsuitSyndieCommander = syndicate commander helmet
+ent-ClothingHeadHelmetHardsuitSyndieCommander = шолом командира синдикату
     .desc = A bulked up version of the blood-red hardsuit's helmet, purpose-built for the commander of a syndicate operative squad. Has significantly improved armor for those deadly front-lines firefights.
 
 ent-ClothingHeadHelmetHardsuitCybersun = cybersun juggernaut helmet
     .desc = Made of compressed red matter, this helmet was designed in the Tau chromosphere facility.
 
-ent-ClothingHeadHelmetHardsuitWizard = wizard hardsuit helmet
-    .desc = A bizarre gem-encrusted helmet that radiates magical energies.
+ent-ClothingHeadHelmetHardsuitWizard = чаклунський шолом до захисного костюму
+    .desc = Химерний шолом із інкрустованим камінням, котрий випромінює чарівну енерґію.
 
-ent-ClothingHeadHelmetHardsuitLing = organic space helmet
-    .desc = A spaceworthy biomass of pressure and temperature resistant tissue.
+ent-ClothingHeadHelmetHardsuitLing = органічний шолом до захисного костюму
+    .desc = Космопридатна біомаса тиско- та термостійкої тканини.
 
-ent-ClothingHeadHelmetHardsuitPirateEVA = deep space EVA helmet
-    .desc = A deep space EVA helmet, very heavy but provides good protection.
-    .suffix = Pirate
+ent-ClothingHeadHelmetHardsuitPirateEVA = шолом для виходу у відкритий космос
+    .desc = Шолом для діяльності поза кораблем в глибокому космосі, дуже важкий, але забезпечує добрий захист.
+    .suffix = Піратський
 
-ent-ClothingHeadHelmetHardsuitPirateCap = pirate captain's hardsuit helmet
-    .desc = A special hardsuit helmet, made for the captain of a pirate ship.
-    .suffix = Pirate
+ent-ClothingHeadHelmetHardsuitPirateCap = шолом до захисного костюму капітана піратів
+    .desc = Особливий шолом до захисного костюму, створений для капітана піратського кораблю.
+    .suffix = Піратський
 
 ent-ClothingHeadHelmetHardsuitERTLeader = ERT leader hardsuit helmet
     .desc = A special hardsuit helmet worn by members of an emergency response team.
@@ -93,15 +93,14 @@ ent-ClothingHeadHelmetHardsuitERTJanitor = ERT janitor hardsuit helmet
 ent-ClothingHeadHelmetCBURN = CBURN exosuit helmet
     .desc = A pressure resistant and fireproof hood worn by special cleanup units.
 
-ent-ClothingHeadHelmetHardsuitDeathsquad = deathsquad hardsuit helmet
-    .desc = A robust helmet for special operations.
+ent-ClothingHeadHelmetHardsuitDeathsquad = шолом до захисного костюму загону смерті
+    .desc = Міцний шолом для спецоперацій.
 
-ent-ClothingHeadHelmetHardsuitClown = clown hardsuit helmet
-    .desc = A clown hardsuit helmet.
+ent-ClothingHeadHelmetHardsuitClown = шолом до захисного костюму клоуна
+    .desc = Шолом клоуна.
 
-ent-ClothingHeadHelmetHardsuitMime = mime hardsuit helmet
-    .desc = A mime hardsuit helmet.
+ent-ClothingHeadHelmetHardsuitMime = шолом до захисного костюму міма
+    .desc = Шолом міма.
 
-ent-ClothingHeadHelmetHardsuitSanta = Santa's hardsuit helmet
-    .desc = A festive-looking hardsuit helmet that provides the jolly gift-giver protection from low-pressure environments.
-
+ent-ClothingHeadHelmetHardsuitSanta = шолом до захисного костюму Санти
+    .desc = По-святковому прикрашений шолом, котрий надає роздавачеві подарунків захист від середовищ із низьким тиском.

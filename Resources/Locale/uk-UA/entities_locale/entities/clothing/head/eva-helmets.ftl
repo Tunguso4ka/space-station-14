@@ -1,18 +1,18 @@
-ent-ClothingHeadHelmetEVA = EVA helmet
-    .desc = An old-but-gold helmet designed for extravehicular activites. Infamous for making security officers paranoid.
+ent-ClothingHeadHelmetEVA = шолом для виходу у відкритий космос
+    .desc = Старий-добрий шолом, створений для діяльності поза кораблем. Сумнозвісний здатністю стривожити офіцерів охорони.
 
-ent-ClothingHeadHelmetEVALarge = EVA helmet
-    .desc = An old-but-gold helmet designed for extravehicular activites.
+ent-ClothingHeadHelmetEVALarge = шолом для виходу у відкритий космос
+    .desc = Старий-добрий шолом, створений для діяльності поза кораблем.
 
-ent-ClothingHeadHelmetSyndicate = syndicate EVA helmet
-    .desc = A simple, stylish EVA helmet. Designed for maximum humble space-badassery.
+ent-ClothingHeadHelmetSyndicate = синдикатський шолом для виходу у відкритий космос
+    .desc = Простий, стильний шолом. Створений для щонайбільш скромної космокрутості.
 
-ent-ClothingHeadHelmetCosmonaut = cosmonaut helmet
-    .desc = Ancient design, but advanced manufacturing.
+ent-ClothingHeadHelmetCosmonaut = шолом космонавта
+    .desc = Древній дизайн, але просунуте виробництво.
 
-ent-ClothingHeadHelmetVoidParamed = paramedic void helmet
-    .desc = A void helmet made for paramedics.
+ent-ClothingHeadHelmetVoidParamed = парамедичний пустотний шолом
+    .desc = Пустотний шолом, створений для парамедиків.
 
-ent-ClothingHeadHelmetAncient = NTSRA void helmet
-    .desc = An ancient space helmet, designed by the NTSRA branch of CentCom.
+ent-ClothingHeadHelmetAncient = пустотний шолом NTSRA
+    .desc = Древній космічний шолом, створений гілкою NTSRA CentCom.
 
