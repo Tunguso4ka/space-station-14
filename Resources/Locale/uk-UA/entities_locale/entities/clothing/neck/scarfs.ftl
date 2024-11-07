@@ -1,36 +1,36 @@
-ent-ClothingNeckScarfStripedRed = striped red scarf
-    .desc = A stylish striped red scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedRed = червоний шарф у смужку
+    .desc = Стильний червоний шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedBlue = striped blue scarf
-    .desc = A stylish striped blue scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBlue = синій шарф у смужку
+    .desc = Стильний синій шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedGreen = striped green scarf
-    .desc = A stylish striped green scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedGreen = зелений шарф у смужку
+    .desc = Стильний зелений шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedBlack = striped black scarf
-    .desc = A stylish striped black scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBlack = чорний шарф у смужку
+    .desc = Стильний чорний шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedBrown = striped brown scarf
-    .desc = A stylish striped brown scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedBrown = коричневий шарф у смужку
+    .desc = Стильний коричневий шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedLightBlue = striped light blue scarf
-    .desc = A stylish striped light blue scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedLightBlue = блакитний шарф у смужку
+    .desc = Стильний блакитний шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedOrange = striped orange scarf
-    .desc = A stylish striped orange scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedOrange = помаранчевий шарф у смужку
+    .desc = Стильний помаранчевий шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedPurple = striped purple scarf
-    .desc = A stylish striped purple scarf. The perfect winter accessory for those with a keen fashion sense, and those who just can't handle a cold breeze on their necks.
+ent-ClothingNeckScarfStripedPurple = пурпуровий шарф у смужку
+    .desc = Стильний пурпуровий шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто не може витримати холодний вітер, що торкається їхніх ший.
 
-ent-ClothingNeckScarfStripedSyndieGreen = striped syndicate green scarf
-    .desc = A stylish striped syndicate green scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
+ent-ClothingNeckScarfStripedSyndieGreen = зелений синдикатський шарф у смужку
+    .desc = Стильний зелений синдикатський шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто бажає чогось украсти.
 
-ent-ClothingNeckScarfStripedSyndieRed = striped syndicate red scarf
-    .desc = A stylish striped syndicate red scarf. The perfect winter accessory for those with a keen fashion sense, and those who are in the mood to steal something.
+ent-ClothingNeckScarfStripedSyndieRed = червоний синдикатський шарф у смужку
+    .desc = Стильний червоний синдикатський шарф у смужку. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто бажає чогось украсти.
 
-ent-ClothingNeckScarfStripedCentcom = striped CentCom scarf
-    .desc = A stylish striped centcom colored scarf. The perfect winter accessory for those with a keen fashion sense, and those who need to do paperwork in the cold.
+ent-ClothingNeckScarfStripedCentcom = шарф у смужку ЦентКому
+    .desc = Стильний шарф у смужку ЦентКому. Чудовий зимовий одяг для тих, хто має відчуття стилю, або тих, хто мусить виконувати паперову роботу на холоді.
 
-ent-ClothingNeckScarfStripedZebra = zebra scarf
-    .desc = A striped scarf, a mandatory accessory for artists.
+ent-ClothingNeckScarfStripedZebra = зебровий шарф
+    .desc = Шарф у смужку, обовʼязковий атрибут художника.
 

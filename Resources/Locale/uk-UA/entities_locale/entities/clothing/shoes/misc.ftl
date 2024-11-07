@@ -1,30 +1,30 @@
-ent-ClothingShoesFlippers = flippers
-    .desc = A pair of rubber flippers that improves swimming ability when worn.
+ent-ClothingShoesFlippers = ласти
+    .desc = Пара гумових ласт, що поліпшують пересування у воді.
 
-ent-ClothingShoesLeather = leather shoes
-    .desc = Very stylish pair of boots, made from fine leather.
+ent-ClothingShoesLeather = шкіряні черевики
+    .desc = Дуже стильні черевики, зроблені з якісної шкіри.
 
-ent-ClothingShoesSlippers = slippers
-    .desc = Fluffy!
+ent-ClothingShoesSlippers = капці
+    .desc = Пухнасті.
 
-ent-ClothingShoeSlippersDuck = ducky slippers
-    .desc = Comfy, yet haunted by the ghosts of ducks you fed bread to as a child.
+ent-ClothingShoeSlippersDuck = качкапці
+    .desc = Зручні, але сповнені привидами качок з твоїх дитячих спогадів.
 
-ent-ClothingShoesTourist = tourist shoes
-    .desc = These cheap sandals don't look very comfortable.
+ent-ClothingShoesTourist = взуття туриста
+    .desc = Ці дешеві сандалі не виглядають надто зручними.
 
-ent-ClothingShoesDameDane = yakuza shoes
-    .desc = At last...
+ent-ClothingShoesDameDane = туфлі якудзи
+    .desc = Нарешті...
 
-ent-ClothingShoesSnakeskinBoots = snakeskin boots
-    .desc = Boots made of high-class snakeskin, everyone around you will be jealous.
+ent-ClothingShoesSnakeskinBoots = чоботи зі шкіри змії
+    .desc = Чоботи з висококласної зміячої шкіри. Усі довкола заздритимуть.
 
-ent-ClothingShoesBootsSpeed = speed boots
-    .desc = High-tech boots woven with quantum fibers, able to convert electricity into pure speed!
+ent-ClothingShoesBootsSpeed = швидкісні черевики
+    .desc = Високотехнолоґічні черевики, зплетені з квантових ниток, здатні перетворювати струм на чисту швидкість!
 
-ent-ActionToggleSpeedBoots = Toggle Speed Boots
-    .desc = Toggles the speed boots on and off.
+ent-ActionToggleSpeedBoots = Перемкнути Швидкісні Черевики
+    .desc = Увімкнути або вимкнути швидкісні черевики.
 
-ent-ClothingShoesBootsMoon = moon boots
-    .desc = Special anti-gravity boots developed with a speciality blend of lunar rock gel. Shipped from the Netherlands.
+ent-ClothingShoesBootsMoon = місячні чоботи
+    .desc = Антиґравітаційні чоботи, розроблені з особливої гелевої суміші з місячного каменю. Відправлено з Нідерландів.
 

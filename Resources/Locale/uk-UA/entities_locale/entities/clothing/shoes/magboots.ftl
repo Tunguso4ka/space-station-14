@@ -1,19 +1,20 @@
-ent-ClothingShoesBootsMagBase = маг. чоботи
-    .desc = Магнетичні чоботи, які зазвичай використовуються під час позакорабельної діяльності, щоб забезпечити безпечне прикріплення користувача до судна.
+ent-ClothingShoesBootsMagBase = маґнітні чоботи
+    .desc = Маґнітні чоботи, які зазвичай використовуються під час позакорабельної діяльності, аби забезпечити безпечне прикріплення користувача до судна.
 
 ent-ClothingShoesBootsMag = { ent-ClothingShoesBootsMagBase }
     .desc = { ent-ClothingShoesBootsMagBase.desc }
-ent-ClothingShoesBootsMagAdv = advanced magboots
-    .desc = State-of-the-art magnetic boots that do not slow down their wearer.
+
+ent-ClothingShoesBootsMagAdv = просунуті маґнітні чоботи
+    .desc = Довершені маґнітні чоботи, що не сповільнюють свого носія.
 
 ent-ClothingShoesBootsMagSci = { ent-ClothingShoesBootsMag }
     .desc = { ent-ClothingShoesBootsMag.desc }
 
-ent-ClothingShoesBootsMagBlinding = magboots of blinding speed
-    .desc = These would look fetching on a fetcher like you.
+ent-ClothingShoesBootsMagBlinding = маґнітні чоботи засліплюючої швидкості
+    .desc = Ніхто не воліє подорожувати величезною блохою.
 
-ent-ClothingShoesBootsMagSyndie = blood-red magboots
-    .desc = Reverse-engineered magnetic boots that have a heavy magnetic pull and integrated thrusters.
+ent-ClothingShoesBootsMagSyndie = багряні маґнітні чоботи
+    .desc = Маґнітні чоботи з потужним маґнітним тяжінням та вбудованими прискорювачами.
 
-ent-ActionToggleMagboots = Перемкнути маг. бутси
-    .desc = Вмикає або вимикає магбутси.
+ent-ActionToggleMagboots = Перемкнути маґнітні чоботи
+    .desc = Вмикає або вимикає маґнітні чоботи.

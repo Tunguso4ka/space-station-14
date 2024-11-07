@@ -9,8 +9,8 @@ ent-ClothingShoesMilitaryBase = { ent-ClothingShoesBase }
 
 ent-ClothingShoesBootsSecFilled = ця сутність не має назви
     .desc = { "" }
-    .suffix = Filled
+    .suffix = Наповнені
 
 ent-ClothingShoesBaseWinterBoots = { ent-ClothingShoesBaseButcherable }
-    .desc = Пухнасті чоботи які допоможуть тобі пережити найхолоднішу із зим.
+    .desc = Пухнасті чоботи, котрі допоможуть пережити найхолодніші зими.
 

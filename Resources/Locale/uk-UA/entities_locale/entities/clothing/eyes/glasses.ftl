@@ -1,46 +1,47 @@
-ent-ClothingEyesGlassesGar = gar glasses
-    .desc = Go beyond impossible and kick reason to the curb!
+ent-ClothingEyesGlassesGar = колючкуляри
+    .desc = Прямуй за межі неможливого і жени геть здоровий глузд!
 
-ent-ClothingEyesGlassesGarOrange = orange gar glasses
+ent-ClothingEyesGlassesGarOrange = помаранчеві колючкуляри
     .desc = Just who the hell do you think I am?!
 
-ent-ClothingEyesGlassesGarGiga = giga gar glasses
-    .desc = We evolve past the person we were a minute before. Little by little we advance with each turn. That's how a drill works!
+ent-ClothingEyesGlassesGarGiga = ґіґаколючкуляри
+    .desc = Ми зростаємо над особою, котрою ми були хвилину тому. Помалу ми просуваємось із кожним разом. Саме так працює дріль!
 
-ent-ClothingEyesGlassesMeson = engineering goggles
-    .desc = Green-tinted goggles using a proprietary polymer that provides protection from eye damage of all types.
+ent-ClothingEyesGlassesMeson = інженерні окуляри
+    .desc = Зеленкуваті окуляри, зроблені з власницького полімеру, який забезпечує захист від будь-якої шкоди очам.
 
-ent-ClothingEyesGlasses = glasses
-    .desc = A pair of spectacular spectacles with prescription lenses.
+ent-ClothingEyesGlasses = окуляри
+    .desc = Пара блискучих окулярів із коригуючими лінзами.
 
-ent-ClothingEyesGlassesJensen = jensen glasses
-    .desc = A pair of yellow tinted folding glasses. You never asked for these.
+ent-ClothingEyesGlassesJensen = окуляри дженсена
+    .desc = Пара жовтуватих складних окулярів. Ви ніколи не прохали про них.
 
-ent-ClothingEyesGlassesJamjar = jamjar glasses
-    .desc = Also known as Virginity Protectors.
+ent-ClothingEyesGlassesJamjar = джамджарові окуляри
+    .desc = Також відомі як Захисники Цноти.
 
-ent-ClothingEyesGlassesOutlawGlasses = outlaw glasses
-    .desc = A must for every self-respecting undercover agent.
+ent-ClothingEyesGlassesOutlawGlasses = окуляри вигнанця
+    .desc = Вартомай для кожного поважного агента під прикриттям.
 
-ent-ClothingEyesGlassesCheapSunglasses = cheap sunglasses
-    .desc = A pair of black sunglasses. Doesn't block light well, more of an accessory than something useful.
+ent-ClothingEyesGlassesCheapSunglasses = дешеві сонцезахисні окуляри
+    .desc = Пара темних окулярів. Не надто добре захищають від світла. Радше примочка, ніж щось дійсно корисне.
 
-ent-ClothingEyesGlassesSunglasses = sun glasses
-    .desc = A pair of black sunglasses.
+ent-ClothingEyesGlassesSunglasses = сонцезахисні окуляри
+    .desc = Пара темних окулярів.
 
-ent-ClothingEyesGlassesSecurity = security glasses
-    .desc = Upgraded sunglasses that provide flash immunity and a security HUD.
+ent-ClothingEyesGlassesSecurity = окуляри охорони
+    .desc = Поліпшені сонцезахисні окуляри із невразливістю до спалахів та охоронницьким дисплеєм.
 
-ent-ClothingEyesGlassesCommand = administration glasses
-    .desc = Upgraded sunglasses that provide flash immunity and show ID card status.
-ent-ClothingEyesGlassesMercenary = mercenary glasses
-    .desc = Glasses made for combat, to protect the eyes from bright blinding flashes.
+ent-ClothingEyesGlassesCommand = окуляри адміністрації
+    .desc = Поліпшені сонцезахисні окуляри, що захищають від спалахів та показують паспортні дані.
 
-ent-ClothingEyesGlassesThermal = optical thermal scanner
-    .desc = Thermals in the shape of glasses.
+ent-ClothingEyesGlassesMercenary = окуляри найманця
+    .desc = Окуляри, створені для бою. Захищають очі від яскравих осліплюючих спалахів.
 
-ent-ClothingEyesGlassesChemical = chemical analysis goggles
-    .desc = Goggles that can scan the chemical composition of a solution.
+ent-ClothingEyesGlassesThermal = оптичний термосканер
+    .desc = Термосканер у вигляді окуляр.
 
-ent-ClothingEyesVisorNinja = ninja visor
-    .desc = An advanced visor protecting a ninja's eyes from flashing lights.
+ent-ClothingEyesGlassesChemical = окуляри хіманалізу
+    .desc = Окуляри, здатні сканувати хімічну будову речовин.
+
+ent-ClothingEyesVisorNinja = забрало ніндзі
+    .desc = Просунуте забрало, що захищає очі ніндзі від спалахливого світла.
