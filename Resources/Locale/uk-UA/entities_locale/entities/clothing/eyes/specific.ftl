@@ -1,4 +1,4 @@
-ent-ClothingEyesChameleon = sun glasses
-    .desc = Useful both for security and cargonia.
-    .suffix = Chameleon
+ent-ClothingEyesChameleon = сонцезахисні окуляри
+    .desc = Корисні як для охорони, так і для складонії.
+    .suffix = Хамелеон
 

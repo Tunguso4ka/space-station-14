@@ -1,60 +1,60 @@
-ent-ClothingShoesBootsWork = workboots
-    .desc = Engineering lace-up work boots for the especially blue-collar.
+ent-ClothingShoesBootsWork = черевики
+    .desc = Робітничі черевики зі шнурками.
 
-ent-ClothingShoesBootsJack = jackboots
-    .desc = Nanotrasen-issue Security combat boots for combat scenarios or combat situations. All combat, all the time.
+ent-ClothingShoesBootsJack = берці охорони
+    .desc = Видані охороні Nanotrasen, черевики з високими берцями для бойових сценаріїв або бойових випадків. Повністю бойові, повну добу.
 
-ent-ClothingShoesBootsSalvage = salvage boots
-    .desc = Steel-toed salvage boots for salvaging in hazardous environments.
+ent-ClothingShoesBootsSalvage = рятівні чоботи
+    .desc = Чоботи рятівної команди зі сталевим носиком. Для порятунку з небезпечних середовищ.
 
-ent-ClothingShoesBootsPerformer = performer's boots
-    .desc = These boots provide great traction for when you're up on stage.
+ent-ClothingShoesBootsPerformer = чоботи виконавця
+    .desc = Ці чоботи забезпечують чудову цупкість із поверхнею сцени.
 
-ent-ClothingShoesBootsCombat = combat boots
-    .desc = Robust combat boots for combat scenarios or combat situations. All combat, all the time.
+ent-ClothingShoesBootsCombat = берці
+    .desc = Міцні бойові чоботи для бойових сценаріїв або бойових випадків. Повністю бойові, повну добу.
 
-ent-ClothingShoesHighheelBoots = high-heeled boots
-    .desc = Snazy boots for when you want to be stylish, yet prepared.
+ent-ClothingShoesHighheelBoots = чоботи на підборах
+    .desc = Модні чоботи. Стильно та напоготові.
 
-ent-ClothingShoesBootsMerc = mercenary boots
-    .desc = Boots that have gone through many conflicts and that have proven their combat reliability.
+ent-ClothingShoesBootsMerc = берці наймита
+    .desc = Черевики з високими берцями, що пройшли крізь безліч війн і довели свою надійність у бою.
 
-ent-ClothingShoesBootsLaceup = laceup shoes
-    .desc = The height of fashion, and they're pre-polished!
+ent-ClothingShoesBootsLaceup = шнуровані черевики
+    .desc = Останній писк моди. Поліровані ще на заводі.
 
-ent-ClothingShoesBootsWinter = winter boots
+ent-ClothingShoesBootsWinter = зимові черевики
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterCargo = cargo winter boots
+ent-ClothingShoesBootsWinterCargo = вантажні зимові черевики
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterEngi = engineering winter boots
+ent-ClothingShoesBootsWinterEngi = інженерні зимові черевики
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterMed = medical winter boots
+ent-ClothingShoesBootsWinterMed = медичні зимові черевики
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterSci = science winter boots
+ent-ClothingShoesBootsWinterSci = наукові зимові черевики
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterSec = security winter boots
+ent-ClothingShoesBootsWinterSec = охоронні зимові черевики
     .desc = { ent-ClothingShoesBaseWinterBoots.desc }
 
-ent-ClothingShoesBootsWinterSyndicate = syndicate's winter boots
-    .desc = Durable heavy boots, looks like merch from "Syndieland"
+ent-ClothingShoesBootsWinterSyndicate = зимові черевики синдикату
+    .desc = Міцні, важкі черевики. Виглядають, мов мерч у «Синдиленді».
 
-ent-ClothingShoesBootsWinterWeb = web winter boots
-    .desc = Boots made out of dense webbing to help survive even the coldest of winters.
+ent-ClothingShoesBootsWinterWeb = зимові черевики з павутини
+    .desc = Черевики з щільного павутиння, котрі допоможуть пережити найхолодніші зими.
 
-ent-ClothingShoesBootsCowboyBrown = brown cowboy boots
-    .desc = They got spurs that jingle and/or jangle.
+ent-ClothingShoesBootsCowboyBrown = коричневі ковбойські чоботи
+    .desc = Вони мають шпори, що дзвенять та/або дзвонять.
 
-ent-ClothingShoesBootsCowboyBlack = black cowboy boots
+ent-ClothingShoesBootsCowboyBlack = чорні ковбойські чоботи
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
 
-ent-ClothingShoesBootsCowboyWhite = white cowboy boots
+ent-ClothingShoesBootsCowboyWhite = білі ковбойські чоботи
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
 
-ent-ClothingShoesBootsCowboyFancy = fancy cowboy boots
+ent-ClothingShoesBootsCowboyFancy = вигадливі ковбойські чоботи
     .desc = { ent-ClothingShoesBootsCowboyBrown.desc }
 

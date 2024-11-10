@@ -1,17 +1,17 @@
-ent-ClothingNeckHeadphones = headphones
-    .desc = Quality headphones from Drunk Masters, with good sound insulation.
+ent-ClothingNeckHeadphones = навушники
+    .desc = Якісні навушники від Пʼяних Майстрів із гарною звукоізоляцією.
 
-ent-ClothingNeckStethoscope = stethoscope
-    .desc = An outdated medical apparatus for listening to the sounds of the human body. It also makes you look like you know what you're doing.
+ent-ClothingNeckStethoscope = стетоскоп
+    .desc = Застарілий медичний апарат для прослуховування звуків людського тіла. Також змушує оточуючих думати, ніби ти знаєш, що робиш.
 
 ent-ClothingNeckBling = bling
-    .desc = Damn, it feels good to be a gangster.
+    .desc = Як же до біса добре бути бандитом.
 
-ent-ClothingNeckLawyerbadge = lawyer badge
-    .desc = A badge to show that the owner is a 'legitimate' lawyer who passed the NT bar exam required to practice law.
+ent-ClothingNeckLawyerbadge = бейдж адвоката
+    .desc = Бейдж, котрий доводить, що власник є «законним» адвокатом, що закінчив барний екзамен Nanotrasen, необхідний для роботи з законом.
 
-ent-ActionStethoscope = Listen with stethoscope
-
+ent-ActionStethoscope = Слухати стетоскопом
     .desc = { "" }
-ent-Dinkystar = star sticker
-    .desc = A dinky lil star for only the hardest working security officers! It's not even sticky anymore.
+
+ent-Dinkystar = наліпка зірки
+    .desc = Маленька зірочка лише для найпрацьовитіших офіцерів охорони! Вона вже навіть не клеїться.

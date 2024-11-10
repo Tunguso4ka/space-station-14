@@ -10,17 +10,17 @@ ent-ClothingShoesColorBrown = коричневі кросівки
 ent-ClothingShoesColorGreen = зелені кросівки
     .desc = Стильні зелені кросівки.
 
-ent-ClothingShoesColorOrange = оранжеві кросівки
-    .desc = Стильні оранжеві кросівки.
+ent-ClothingShoesColorOrange = помаранчеві кросівки
+    .desc = Стильні помаранчеві кросівки.
 
-ent-ClothingShoesColorPurple = фіолетові кросівки
-    .desc = Стильні фіолетові кросівки.
+ent-ClothingShoesColorPurple = пурпурові кросівки
+    .desc = Стильні пурпурові кросівки.
 
 ent-ClothingShoesColorRed = червоні кросівки
     .desc = Стильні червоні кросівки.
 
 ent-ClothingShoesColorWhite = білі кросівки
-    .desc = Краще не зімай їх на Різдв'янної вечирці.
+    .desc = Краще не знімай їх на різдвяній вечірці.
 
 ent-ClothingShoesColorYellow = жовті кросівки
     .desc = Стильні жовті кросівки.

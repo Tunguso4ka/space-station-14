@@ -1,9 +1,9 @@
-ent-ClothingNeckTieRed = red-tie
-    .desc = A neosilk clip-on red tie.
+ent-ClothingNeckTieRed = червона краватка
+    .desc = Неошовкова краватка на зажимі.
 
-ent-ClothingNeckTieDet = detective's tie
-    .desc = A loosely tied necktie, a perfect accessory for the over-worked detective.
+ent-ClothingNeckTieDet = краватка детектива
+    .desc = Недбало завʼязана краватка, чудова прикраса для перепрацьованого детектива.
 
-ent-ClothingNeckTieSci = scientist's tie
-    .desc = Why do we all have to wear these ridiculous ties?
+ent-ClothingNeckTieSci = краватка науковця
+    .desc = Чому ми всі мусимо носити ці сміховинні краватки?
 
