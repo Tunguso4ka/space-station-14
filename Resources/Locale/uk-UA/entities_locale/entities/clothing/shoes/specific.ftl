@@ -1,51 +1,51 @@
 ent-ClothingShoesChef = туфлі шефа
-    .desc = Sturdy shoes that minimize injury from falling objects or knives.
+    .desc = Тверді туфлі, що зменшують шкоду від предметів та ножів, що падають.
 
 ent-ClothingShoesClownBase = { ent-ClothingShoesBaseButcherable }
     .desc = { ent-ClothingShoesBaseButcherable.desc }
 
 ent-ClothingShoesClown = взуття клоуна
-    .desc = The prankster's standard-issue clowning shoes. Damn they're huge!
+    .desc = Стандартні клоунські черевики. Які ж вони величезні!
 
 ent-ClothingShoesClownBanana = бананове взуття клоуна
-    .desc = When humor and footwear combine into new levels of absurdity.
+    .desc = Коли гумор та взуття обʼєднуються в новий рівень безглуздя.
 
-ent-ClothingShoesBling = bling clown shoes
-    .desc = Made of refined bananium and shined with the pulp of a fresh banana peel. These make a flashy statement.
+ent-ClothingShoesBling = коштовні черевики клоуна
+    .desc = Зроблені з очищеного бананіуму та шліфовані мʼякоттю свіжої бананової шкірки.
 
-ent-ClothingShoesCult = cult shoes
-    .desc = A pair of boots worn by the followers of Nar'Sie.
+ent-ClothingShoesCult = черевики культу
+    .desc = Пара черевиків послідовників НарʼСі
 
-ent-ClothingShoesGaloshes = galoshes
-    .desc = Rubber boots.
+ent-ClothingShoesGaloshes = калоші
+    .desc = Гумові чоботи.
 
-ent-ClothingShoesSpaceNinja = space ninja shoes
-    .desc = A pair of nano-enhanced boots with built-in magnetic suction cups.
+ent-ClothingShoesSpaceNinja = черевики космічного ніндзі
+    .desc = Пара нанотехнолоґічних черевиків із вбудованими маґнітними присосками.
 
-ent-ClothingShoesSwat = swat shoes
-    .desc = When you want to turn up the heat.
+ent-ClothingShoesSwat = берці корду
+    .desc = Коли волієш підняти градус.
 
-ent-ClothingShoesWizard = wizard shoes
-    .desc = A pair of magic shoes.
+ent-ClothingShoesWizard = сандалі чаклуна
+    .desc = Пара чаклунських сандалів.
 
-ent-ClothingShoesChameleon = black shoes
-    .desc = Stylish black shoes.
-    .suffix = Chameleon
+ent-ClothingShoesChameleon = чорні черевики
+    .desc = Стильні чорні черевики.
+    .suffix = Хамелеон
 
-ent-ClothingShoesChameleonNoSlips = black shoes
-    .desc = Stylish black shoes.
-    .suffix = No-slip, Chameleon
+ent-ClothingShoesChameleonNoSlips = чорні туфлі
+    .desc = Стильні чорні туфлі.
+    .suffix = Неслизькі, Хамелеон
 
-ent-ClothingShoesJester = jester shoes
-    .desc = A court jester's shoes, updated with modern squeaking technology.
+ent-ClothingShoesJester = черевики шута
+    .desc = Черевики придворного шута, поліпшені сучасними пищалками.
 
-ent-ClothingShoesCluwne = cluwne shoes
-    .desc = Cursed pair of cluwne shoes.
-    .suffix = Unremoveable
+ent-ClothingShoesCluwne = черевики клоуна
+    .desc = Проклята пара черевиків клоуна.
+    .suffix = Незнімні
 
-ent-ClothingShoesClownLarge = large clown shoes
-    .desc = When you need to stand out in a room full of clowns!
+ent-ClothingShoesClownLarge = великі черевики клоуна
+    .desc = Коли потрібно вирізнитися у кімнаті, повній клоунів!
 
-ent-ClothingShoesSkates = roller skates
-    .desc = Get your skates on!
+ent-ClothingShoesSkates = ролики
+    .desc = Вдягни ролики!
 

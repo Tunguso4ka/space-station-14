@@ -1,24 +1,24 @@
-ent-ClothingNeckBronzeheart = bronzeheart medal
-    .desc = Given to crewmates for exemplary bravery in the face of danger.
+ent-ClothingNeckBronzeheart = медаль бронзового серця
+    .desc = Надається членам екіпажу, котрі проявили зразкову хоробрість перед обличчям небезпеки.
 
-ent-ClothingNeckGoldmedal = gold medal of crewmanship
-    .desc = Given to crewmates who display excellent crewmanship.
+ent-ClothingNeckGoldmedal = золота медаль за виконані обовʼязки
+    .desc = Надається членам екіпажу, котрі відмінно виконали свої обовʼязки.
 
-ent-ClothingNeckCargomedal = cargo medal
-    .desc = Given for the best work in the cargo department.
+ent-ClothingNeckCargomedal = медаль вантажника
+    .desc = Надається за найкращу роботу в вантажному відділі.
 
-ent-ClothingNeckEngineermedal = engineer medal
-    .desc = Given for the best work in the engineering department.
+ent-ClothingNeckEngineermedal = медаль інженера
+    .desc = Надається за найкращу роботу в інженерному відділі.
 
-ent-ClothingNeckMedicalmedal = medical medal
-    .desc = Given for the best work in the medical department.
+ent-ClothingNeckMedicalmedal = медаль лікаря
+    .desc = Надається за найкращу роботу в медичному відділі.
 
-ent-ClothingNeckSciencemedal = science medal
-    .desc = Given for the best work in the science department.
+ent-ClothingNeckSciencemedal = медаль науковця
+    .desc = Надається за найкращу роботу в науковому відділі.
 
-ent-ClothingNeckSecuritymedal = security medal
-    .desc = Given for the best work in the security department.
+ent-ClothingNeckSecuritymedal = медаль охоронця
+    .desc = Надається за найкращу роботу у відділі охорони.
 
-ent-ClothingNeckClownmedal = clown medal
-    .desc = Given for the best joke in the universe. HONK!
+ent-ClothingNeckClownmedal = медаль клоуна
+    .desc = Надається за найкращу роботу у Всесвіті. ХОНК!
 

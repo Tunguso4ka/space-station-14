@@ -1,24 +1,24 @@
-ent-ClothingNeckMantleCap = captain's mantle
-    .desc = A comfortable and chique mantle befitting of only the most experienced captain.
+ent-ClothingNeckMantleCap = капітанська мантія
+    .desc = Зручна, вишукана мантія, гідна лише найдосвідченішого капітана.
 
-ent-ClothingNeckMantleCE = chief engineer's mantle
-    .desc = High visibility, check. RIG system, check. High capacity cell, check. Everything a chief engineer could need in a stylish mantle.
+ent-ClothingNeckMantleCE = мантія старшого інженера
+    .desc = Висока видимість, система RIG, високовмісна батарея. Усе необхідне старшому інженерові у стильній мантії.
 
-ent-ClothingNeckMantleCMO = chief medical officer's mantle
-    .desc = For a CMO that has been in enough medbays to know that more PPE means less central command dry cleaning visits when the shift is over.
+ent-ClothingNeckMantleCMO = мантія старшого медофіцера
+    .desc = Для СМО, котрі з власного досвіду знають, що більше ЗІЗ означає менше відвідин центрального командування із сухим прибиранням, коли зміна вже скінчилася.
 
-ent-ClothingNeckMantleHOP = head of personnel's mantle
-    .desc = A good HOP knows that paper pushing is only half the job... petting your dog and looking fashionable is the other half.
+ent-ClothingNeckMantleHOP = мантія голови персоналу
+    .desc = Хороший ГП знає, що стосити паперу це лише пів роботи... пестити песика та виглядати модно — інша.
 
-ent-ClothingNeckMantleHOS = head of security's mantle
-    .desc = Shootouts with nukies are just another Tuesday for this HoS. This mantle is a symbol of commitment to the station.
+ent-ClothingNeckMantleHOS = мантія голови охорони
+    .desc = Перестрілка ядеркою це лише черговий вівторок для цього ГО. Ця мантія є символом відданості станції.
 
-ent-ClothingNeckMantleRD = research director's mantle
-    .desc = For when long days in the office consist of explosives, poisonous gas, murder robots, and a fresh pizza from cargo; this mantle will keep you comfy.
+ent-ClothingNeckMantleRD = мантія голови відділу досліджень
+    .desc = Коли довгі дні в офісі складаються з вибухівки, отруйних газів, роботів-убивць, та свіжої піци зі складу; ця мантія триматиме тебе у комфорті.
 
-ent-ClothingNeckMantleQM = quartermaster's mantle
-    .desc = For the master of goods and materials to rule over the department, a befitting mantle to show off superiority!
+ent-ClothingNeckMantleQM = мантія квартермейстра
+    .desc = Для повелителя товарів та матеріалів, що керує відділом, відповідна мантія, що випромінює перевагу!
 
-ent-ClothingNeckMantle = mantle
-    .desc = A soft mantle, made with the same 'synthetic' animal furs of the iconic winter coat.
+ent-ClothingNeckMantle = мантія
+    .desc = Мʼяка мантія, зроблена з того самого «синтетичного» хутра знакового зимового плащу.
 
