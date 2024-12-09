@@ -10,6 +10,8 @@ ent-VendingMachineAmmo = апарат свободи
 ent-VendingMachineBooze = Бухло-Мат
     .desc = Технологічне диво, яке, на думку багатьох, може змішати все що би забажаєте щойно ви цього попросите.
 
+ent-VendingMachineBoozeSyndicate = Bruise-O-Mat
+    .desc = A refurbished Booze-O-Mat for boosting operative morale. An imprint of a blood-red hardsuit is visible on one side, and the paint seems ashed off on the other side.
 ent-VendingMachineCart = ПіТех
     .desc = ПіТех роздає! Роздає МІЦНИЙ вибір КПК, картіджей та будь чого, що тільки може знадобитися для паперової роботи!
 

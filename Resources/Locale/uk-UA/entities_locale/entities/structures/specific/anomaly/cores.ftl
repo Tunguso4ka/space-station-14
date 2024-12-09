@@ -41,6 +41,9 @@ ent-AnomalyCoreShadow = { ent-BaseAnomalyCore }
     .desc = { ent-BaseAnomalyCore.desc }
     .suffix = Shadow
 
+ent-AnomalyCoreTech = { ent-BaseAnomalyCore }
+    .desc = { ent-BaseAnomalyCore.desc }
+    .suffix = Tech
 ent-BaseAnomalyInertCore = { ent-BaseAnomalyCore }
     .desc = { ent-BaseAnomalyCore.desc }
 
@@ -84,3 +87,6 @@ ent-AnomalyCoreShadowInert = { ent-BaseAnomalyInertCore }
     .desc = { ent-BaseAnomalyInertCore.desc }
     .suffix = Shadow, Inert
 
+ent-AnomalyCoreTechInert = { ent-BaseAnomalyInertCore }
+    .desc = { ent-BaseAnomalyInertCore.desc }
+    .suffix = Tech, Inert

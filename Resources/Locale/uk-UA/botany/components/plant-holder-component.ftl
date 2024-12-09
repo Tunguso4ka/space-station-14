@@ -29,3 +29,4 @@ plant-holder-component-heat-improper-warning = Лампочка [color=orange]н
 plant-holder-component-pressure-improper-warning = Лампочка [color=lightblue]неправильного рівня тиску[/color] блимає.
 plant-holder-component-gas-missing-warning = Лампочка [color=cyan]неправильної атмосфери[/color] блимає.
 plant-holder-component-early-sample-message = Рослина ще недостатньо доросла даби взяти з неї саджанця.
+plant-holder-component-ligneous-cant-harvest-message = The plant is too tough to harvest with your bare hands.

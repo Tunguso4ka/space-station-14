@@ -34,9 +34,6 @@ ent-SalvageExpeditionsComputerCircuitboard = salvage expeditions плата ко
 ent-CargoShuttleConsoleCircuitboard = cargo shuttle console board
     .desc = A computer printed circuit board for a cargo shuttle console.
 
-ent-SalvageShuttleConsoleCircuitboard = salvage shuttle console board
-    .desc = A computer printed circuit board for a salvage shuttle console.
-
 ent-SurveillanceCameraMonitorCircuitboard = surveillance camera monitor board
     .desc = A computer printed circuit board for a surveillance camera monitor.
 
@@ -109,3 +106,5 @@ ent-SensorConsoleCircuitboard = sensor monitoring console board
 ent-RoboticsConsoleCircuitboard = robotics control console board
     .desc = A computer printed circuit board for a robotics control console.
 
+ent-StationAiUploadCircuitboard = AI upload console board
+    .desc = A computer printed circuit board for a AI upload console.

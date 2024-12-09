@@ -64,6 +64,8 @@ ent-FoodDoughTortillaSlice = tortilla dough slice
 ent-FoodDoughTortillaFlat = flattened tortilla dough
     .desc = A flattened slice of tortilla dough, cook this to get a taco shell.
 
+ent-FoodDoughCotton = cotton dough
+    .desc = A piece of fabric dough.
 ent-FoodDoughPastryBaseRaw = raw pastry base
     .desc = Must be cooked before use.
 
@@ -76,6 +78,8 @@ ent-FoodDoughPie = pie dough
 ent-FoodDoughFlat = flat dough
     .desc = A flattened dough.
 
+ent-FoodDoughCottonFlat = flat cotton dough
+    .desc = A flattened cotton dough.
 ent-FoodDoughPizzaBaked = pizza bread
     .desc = Add ingredients to make a pizza.
 

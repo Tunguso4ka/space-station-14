@@ -52,15 +52,17 @@ station-beacon-atmos = Атмос
 station-beacon-teg = ТЕГ
 station-beacon-tech-vault = Tech Vault
 
+station-beacon-anchor = Anchor
+
 station-beacon-service = Service
 station-beacon-kitchen = Кухня
 station-beacon-bar = Бар
 station-beacon-botany = Ботаника
 station-beacon-janitor = Прибиральник
 
-station-beacon-ai = AI
-station-beacon-ai-sat = AI Sat
-station-beacon-ai-core = AI Core
+station-beacon-ai = ШІ
+station-beacon-ai-sat = Супутник
+station-beacon-ai-core = Ядро ШІ
 
 station-beacon-arrivals = Прибуття
 station-beacon-evac = Евакуація
@@ -69,7 +71,8 @@ station-beacon-chapel = Церква
 station-beacon-library = Бібліотека
 station-beacon-dorms = Каюти
 station-beacon-theater = Театр
-station-beacon-tools = Tools
-station-beacon-disposals = Disposals
-station-beacon-cryosleep = Cryosleep
+station-beacon-tools = Інструменти
+station-beacon-disposals = Смітник
+station-beacon-cryosleep = Кріо
 station-beacon-escape-pod = Escape Pod
+station-beacon-vox = Vox Break Room

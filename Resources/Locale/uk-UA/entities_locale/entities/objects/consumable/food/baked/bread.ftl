@@ -16,6 +16,10 @@ ent-FoodBreadBanana = banana bread
 ent-FoodBreadBananaSlice = banana bread slice
     .desc = A slice of delicious banana bread.
 
+ent-FoodBreadCotton = cotton bread
+    .desc = Bread, but for moff.
+ent-FoodBreadCottonSlice = cotton bread slice
+    .desc = A slice of (maybe) delicious cotton bread.
 ent-FoodBreadCorn = cornbread
     .desc = Some good down-home country-style, rootin'-tootin', revolver-shootin', dad-gum yeehaw cornbread.
 
@@ -96,4 +100,3 @@ ent-FoodBreadTwoSlice = two slice
 
 ent-MobBreadDog = bread dog
     .desc = It's a bread. It's a dog. It's a... breaddog?
-

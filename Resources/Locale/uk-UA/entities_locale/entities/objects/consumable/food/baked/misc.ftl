@@ -13,6 +13,10 @@ ent-FoodBakedMuffinCherry = cherry muffin
 ent-FoodBakedMuffinBluecherry = bluecherry muffin
     .desc = Blue cherries inside a delicious muffin.
 
+ent-FoodBakedMuffinChocolate = chocolate muffin
+    .desc = A delicious and spongy chocolate muffin.
+ent-FoodBakedMuffinBanana = banana muffin
+    .desc = A delicious and spongy banana muffin.
 ent-FoodBakedBunHoney = honey bun
     .desc = A sticky pastry bun glazed with honey.
 

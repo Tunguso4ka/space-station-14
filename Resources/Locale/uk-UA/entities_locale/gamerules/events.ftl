@@ -1,15 +1,13 @@
 ent-BaseStationEvent = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
-
 ent-BaseStationEventShortDelay = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-BaseStationEventLongDelay = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-AnomalySpawn = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
+ent-AnomalySpawn = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
 ent-BluespaceArtifact = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
@@ -79,4 +77,8 @@ ent-IonStorm = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
 ent-MimicVendorRule = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-GreytideVirus = { ent-BaseStationEventShortDelay }
+    .desc = { ent-BaseStationEventShortDelay.desc }
+ent-DerelictCyborgSpawn = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }

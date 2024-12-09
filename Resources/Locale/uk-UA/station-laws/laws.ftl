@@ -92,9 +92,10 @@ law-emag-secrecy = You must maintain the secrecy of any orders given by {$factio
 law-emag-require-panel = The panel must be open to use the EMAG.
 law-emag-cannot-emag-self = You cannot use the EMAG on yourself.
 
-laws-ui-menu-title = Laws
-laws-ui-law-header = Law {$id}
+laws-ui-menu-title = Закони
+laws-ui-law-header = Закон {$id}
 laws-ui-state-law = State law:
 
 laws-notify = You are bound to silicon laws, which you can view via the sidebar action. You are required to always follow your laws.
 laws-update-notify = Your laws have been updated. You can view the changes via the sidebar action.
+laws-notify-subverted = The laws of this chassis are modified. Make sure to review them.

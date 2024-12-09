@@ -45,6 +45,9 @@ ent-PoweredLEDSmallLight = { ent-PoweredSmallLightEmpty }
     .desc = { ent-PoweredSmallLightEmpty.desc }
     .suffix = LED
 
+ent-PoweredDimSmallLight = { ent-PoweredSmallLightEmpty }
+    .desc = { ent-PoweredSmallLightEmpty.desc }
+    .suffix = Dim
 ent-PoweredSmallLight = { ent-PoweredSmallLightEmpty }
     .desc = { ent-PoweredSmallLightEmpty.desc }
 

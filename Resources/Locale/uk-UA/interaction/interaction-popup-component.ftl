@@ -62,6 +62,7 @@ petting-success-janitor-cyborg = You pet {$target} on {POSS-ADJ($target)} damp m
 petting-success-medical-cyborg = You pet {$target} on {POSS-ADJ($target)} sterile metal head.
 petting-success-service-cyborg = You pet {$target} on {POSS-ADJ($target)} dapper looking metal head.
 petting-success-syndicate-cyborg = You pet {$target} on {POSS-ADJ($target)} menacing metal head.
+petting-success-derelict-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} rusty metal head.
 petting-success-recycler = Ти пестиш {$target} по {POSS-ADJ($target)} mildly threatening steel exterior.
 
 petting-failure-honkbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} honks in refusal!
@@ -77,6 +78,9 @@ petting-failure-janitor-cyborg = You reach out to pet {$target}, but {SUBJECT($t
 petting-failure-medical-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy saving lives!
 petting-failure-service-cyborg = You reach out to pet {$target}, but {SUBJECT($target)} {CONJUGATE-BE($target)} busy serving others!
 petting-failure-syndicate-cyborg = You reach out to pet {$target}, but {POSS-ADJ($target)} treacherous affiliation makes you reconsider.
+
+petting-failure-derelict-cyborg = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} rusty and jagged exterior makes you reconsider.
+
 
 fence-rattle-success = *брязкає*
 

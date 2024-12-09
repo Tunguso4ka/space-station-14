@@ -30,7 +30,7 @@ id-card-access-level-kitchen = Кухня
 id-card-access-level-hydroponics = Ботаніка
 id-card-access-level-service = Сервіс
 id-card-access-level-janitor = Прибиральник
-id-card-access-level-theatre = Театг
+id-card-access-level-theatre = Театр
 id-card-access-level-chapel = Церква
 id-card-access-level-lawyer = Адвокат
 
@@ -42,3 +42,4 @@ id-card-access-level-nuclear-operative = Ядерний Оперативник
 id-card-access-level-syndicate-agent = Агент Синдикату
 
 id-card-access-level-central-command = Центральне Командування
+id-card-access-level-wizard = Чаклун

@@ -16,9 +16,6 @@ ent-ComputerShuttleSyndie = консоль шатла Синдикату
 ent-ComputerShuttleCargo = консоль шатла логістики
     .desc = Використовується для керування шатлом логістів.
 
-ent-ComputerShuttleSalvage = консоль шатла шахтарів
-    .desc = Використовується для керування шатлом шахтарів.
-
 ent-ComputerIFF = комп'ютер системи "свій-чужий"
     .desc = Дозволяє вам керувати системою "свій-чужий" цього шатла.
 
@@ -98,3 +95,5 @@ ent-ComputerSensorMonitoring = sensor monitoring computer
 
 ent-ComputerRoboticsControl = консоль контролю робототехники
     .desc = Дозволяє стежити, вимикати та навіть знищювати кіборгів на станції.
+ent-StationAiUploadComputer = AI upload console
+    .desc = Used to update the laws of the station AI.

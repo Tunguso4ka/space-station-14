@@ -186,3 +186,10 @@ ent-SpawnClownSpider = clown spider spawner
 
 ent-SpawnHonkBot = honk bot spawner
     .desc = { ent-MarkerBase.desc }
+ent-SpawnMobGingerbreadAI = gingerbread man Spawner
+    .desc = { ent-MarkerBase.desc }
+    .suffix = Ghostrole
+ent-SpawnMobReindeerBuck = Reindeer Buck Spawner
+    .desc = { ent-MarkerBase.desc }
+ent-SpawnMobReindeerDoe = Reindeer Doe Spawner
+    .desc = { ent-MarkerBase.desc }

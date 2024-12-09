@@ -1,7 +1,7 @@
 ent-BaseRock = булига
     .desc = Настільки ж тяжка як і реально тяжка штука.
 
-ent-BaseTree = дерево
+ent-BaseTree = { "" }
     .desc = Так, це дерево.
 
 ent-BaseTreeSnow = { ent-BaseTree }
@@ -131,6 +131,9 @@ ent-FloraTreeChristmas02 = різдвяне дерево
     .desc = { ent-BaseTreeConifer.desc }
     .suffix = Дає подарунки
 
+ent-FloraTreeChristmas03 = christmas tree
+    .desc = { ent-FloraTreeChristmas02.desc }
+    .suffix = Insane Presents
 ent-FloraTreeStumpConifer = пеньок
     .desc = { ent-BaseTreeConifer.desc }
 
@@ -169,4 +172,3 @@ ent-LightTree05 = { ent-LightTree01 }
 
 ent-LightTree06 = { ent-LightTree01 }
     .desc = { ent-LightTree01.desc }
-

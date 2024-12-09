@@ -8,11 +8,11 @@ ent-BoxLightbulb = коробка лампочек
     .desc = В цю коробку вміщуються тільки лампочки та трубки.
 
 ent-BoxLighttube = коробка ламп-трубок
-    .desc = В цю коробку вміщуються тільки лампочки та трубки.
-
+    .desc = { ent-BoxLightbulb.desc }
 ent-BoxLightMixed = коробка різних ламп
-    .desc = В цю коробку вміщуються тільки лампочки та трубки.
-
+    .desc = { ent-BoxLightbulb.desc }
+ent-BoxLighttubeHoliday = holiday lighttube box
+    .desc = { ent-BoxLightbulb.desc }
 ent-BoxPDA = коробка КПК
     .desc = Коробка з КПК.
 
@@ -28,8 +28,8 @@ ent-BoxMesonScanners = коробка мезонів
 ent-BoxMRE = сухпай
     .desc = Коробка старого військового сухого пайку. На диво ще з'їстне.
 
-ent-BoxHugHealing = коробка обіймашек
-    .desc = Спеціальна коробка для чутливих людей.
+ent-BoxHugHealing = { ent-BoxHug }
+    .desc = { ent-BoxHug.desc }
     .suffix = Медічна
 
 ent-BoxInflatable = коробка надувних стін
@@ -79,8 +79,7 @@ ent-BoxLeadLined = lead-lined box
     .suffix = DEBUG
 
 ent-BoxCandle = коробка свічок
-    .desc = { ent-BoxCardboard.desc }
-
+    .desc = This box is specifically moulded to only carry candles.
 ent-BoxCandleSmall = коробка маленьких свічок
     .desc = { ent-BoxCardboard.desc }
 

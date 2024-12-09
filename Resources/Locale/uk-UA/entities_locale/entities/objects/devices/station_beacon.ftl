@@ -21,6 +21,9 @@ ent-DefaultStationBeaconVault = { ent-DefaultStationBeaconCommand }
     .desc = { ent-DefaultStationBeaconCommand.desc }
     .suffix = Сховище
 
+ent-DefaultStationBeaconGateway = { ent-DefaultStationBeaconCommand }
+    .desc = { ent-DefaultStationBeaconCommand.desc }
+    .suffix = Gateway
 ent-DefaultStationBeaconCaptainsQuarters = { ent-DefaultStationBeaconCommand }
     .desc = { ent-DefaultStationBeaconCommand.desc }
     .suffix = Кімната капітана
@@ -165,6 +168,9 @@ ent-DefaultStationBeaconGravGen = { ent-DefaultStationBeaconEngineering }
     .desc = { ent-DefaultStationBeaconEngineering.desc }
     .suffix = Генератор гравитації
 
+ent-DefaultStationBeaconAnchor = { ent-DefaultStationBeaconEngineering }
+    .desc = { ent-DefaultStationBeaconEngineering.desc }
+    .suffix = Anchor
 ent-DefaultStationBeaconSingularity = { ent-DefaultStationBeaconEngineering }
     .desc = { ent-DefaultStationBeaconEngineering.desc }
     .suffix = Прискорювач частинок
@@ -264,3 +270,6 @@ ent-DefaultStationBeaconCryosleep = { ent-DefaultStationBeacon }
 ent-DefaultStationBeaconEscapePod = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = Рятувальна капсула
+ent-DefaultStationBeaconVox = { ent-DefaultStationBeacon }
+    .desc = { ent-DefaultStationBeacon.desc }
+    .suffix = Vox

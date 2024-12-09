@@ -1,8 +1,6 @@
-ent-ActionJumpToCore = Jump to core
-    .desc = Sends your eye back to the core.
-ent-ActionShowJobIcons = Show job icons
-    .desc = Shows job icons for crew members.
-ent-ActionSurvCameraLights = Toggle camera lights
+ent-ActionJumpToCore = Переміститися до ядра
+    .desc = Переміщує ваше "око" назад до ядра.
+ent-ActionSurvCameraLights = Перемкнути лампи на камерах
     .desc = Enable surveillance camera lights near wherever you're viewing.
-ent-ActionAIViewLaws = View Laws
-    .desc = View the laws that you must follow.
+ent-ActionAIViewLaws = Подивитися закони
+    .desc = Показує закони яким ви обʼязани слухатися.

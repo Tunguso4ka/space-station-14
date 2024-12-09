@@ -184,7 +184,7 @@ ent-MobCorgiNarsi = зіпсований коргі
 ent-MobCorgiPuppy = цуценя коргі
     .desc = Маленький коргі! Авв...
 
-ent-MobCat = cat
+ent-MobCat = кіт
     .desc = Feline pet, very funny.
 
 ent-MobCatCalico = calico cat
@@ -208,12 +208,11 @@ ent-MobSloth = sloth
 ent-MobFerret = ferret
     .desc = Just a silly little guy!
 
-ent-MobHamster = hamster
+ent-MobHamster = хом'як
     .desc = A cute, fluffy, robust hamster.
 
-ent-MobPig = pig
-    .desc = Oink.
-
+ent-MobPig = свиня
+    .desc = А це - свиня.
 ent-MobDionaNymph = diona nymph
     .desc = It's like a cat, only.... branch-ier.
 
@@ -221,3 +220,7 @@ ent-MobDionaNymphAccent = { ent-MobDionaNymph }
     .desc = { ent-MobDionaNymph.desc }
     .suffix = Accent
 
+ent-MobReindeerBuck = reindeer buck
+    .desc = You think it can pull a sleigh?
+ent-MobReindeerDoe = reindeer doe
+    .desc = { ent-MobReindeerBuck.desc }
