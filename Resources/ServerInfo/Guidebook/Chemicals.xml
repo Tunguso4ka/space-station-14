@@ -14,21 +14,24 @@ Knowing different types of chemicals and their effects is important for being ab
 ## Наркотики
 <GuideReagentGroupEmbed Group="Narcotics"/>
 
-## Пиротехника
+## Пиротехнічні
 <GuideReagentGroupEmbed Group="Pyrotechnic"/>
 
-## Токсіни
+## Токсичні
 <GuideReagentGroupEmbed Group="Toxins"/>
 
 ## Їжа
 <GuideReagentGroupEmbed Group="Foods"/>
 
-## Ботанічне
+## Ботанічні
 <GuideReagentGroupEmbed Group="Botanical"/>
 
-## Біологічне
+## Біологічні
 <GuideReagentGroupEmbed Group="Biological"/>
 
-## Інше
+## Спеціальні
+<GuideReagentGroupEmbed Group="Special"/>
+
+## Інші
 <GuideReagentGroupEmbed Group="Unknown"/>
 </Document>
