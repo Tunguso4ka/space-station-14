@@ -7,6 +7,8 @@ ent-BoxMousetrap = коробка мишоловок
 ent-BoxLightbulb = коробка лампочек
     .desc = В цю коробку вміщуються тільки лампочки та трубки.
 
+ent-BoxWarmLightbulb = lightbulb box warm
+    .desc = { ent-BoxLightbulb.desc }
 ent-BoxLighttube = коробка ламп-трубок
     .desc = { ent-BoxLightbulb.desc }
 ent-BoxLightMixed = коробка різних ламп

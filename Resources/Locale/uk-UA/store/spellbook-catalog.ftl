@@ -21,6 +21,10 @@ spellbook-ethereal-jaunt-name = Ethereal Jaunt
 spellbook-ethereal-jaunt-description = Slip into the ethereal plane to slip away from your enemies!
 
 
+spellbook-mind-swap-name = Mind Swap
+spellbook-mind-swap-description = Exchange bodies with another person!
+
+
 spellbook-wand-polymorph-door-name = Жезл входу
 spellbook-wand-polymorph-door-description = Для моментів коли вам необхідні двері саме у цієї стіні.
 

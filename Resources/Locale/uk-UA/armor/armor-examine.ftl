@@ -1,4 +1,3 @@
-# Armor examines
 armor-examinable-verb-text = Броня
 armor-examinable-verb-message = Дослідити властивості броні.
 armor-examine = Надає наступний захист:
@@ -17,3 +16,4 @@ armor-damage-type-cold = Холод
 armor-damage-type-poison = Отрута
 armor-damage-type-shock = Удар струмом
 armor-damage-type-structural = Цілісність
+armor-damage-type-holy = Holy

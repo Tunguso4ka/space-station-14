@@ -9,6 +9,7 @@ station-beacon-hop = ГП
 
 station-beacon-security = Охорона
 station-beacon-brig = Бріг
+station-beacon-brig-med = Brig Med
 station-beacon-warden = Наглядач
 station-beacon-hos = ГО
 station-beacon-armory = Зброярня
@@ -25,6 +26,9 @@ station-beacon-cryonics = Крио
 station-beacon-cmo = ГЛ
 station-beacon-morgue = Морг
 station-beacon-surgery = Хірургія
+
+station-beacon-psychology = Psychology
+station-beacon-clinic = Clinic
 
 station-beacon-science = Наука
 station-beacon-research-and-development = Дослідження
@@ -64,11 +68,16 @@ station-beacon-ai = ШІ
 station-beacon-ai-sat = Супутник
 station-beacon-ai-core = Ядро ШІ
 
+station-beacon-ai-upload = AI Upload
+station-beacon-ai-power = AI Power
+
 station-beacon-arrivals = Прибуття
 station-beacon-evac = Евакуація
+station-beacon-docking-arm = Docking Arm
 station-beacon-eva-storage = EVA Storage
 station-beacon-chapel = Церква
 station-beacon-library = Бібліотека
+station-beacon-reporter = Reporter
 station-beacon-dorms = Каюти
 station-beacon-theater = Театр
 station-beacon-tools = Інструменти

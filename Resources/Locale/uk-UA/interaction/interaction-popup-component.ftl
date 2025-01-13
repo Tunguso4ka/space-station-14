@@ -65,6 +65,8 @@ petting-success-syndicate-cyborg = You pet {$target} on {POSS-ADJ($target)} mena
 petting-success-derelict-cyborg = You pet {THE($target)} on {POSS-ADJ($target)} rusty metal head.
 petting-success-recycler = Ти пестиш {$target} по {POSS-ADJ($target)} mildly threatening steel exterior.
 
+petting-success-station-ai = You pet {THE($target)} on {POSS-ADJ($target)} cold, square screen.
+
 petting-failure-honkbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} honks in refusal!
 petting-failure-cleanbot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} busy mopping!
 petting-failure-mimebot = Ти тягнешся щоб попестити {$target}, але {SUBJECT($target)} busy miming!
@@ -80,6 +82,11 @@ petting-failure-service-cyborg = You reach out to pet {$target}, but {SUBJECT($t
 petting-failure-syndicate-cyborg = You reach out to pet {$target}, but {POSS-ADJ($target)} treacherous affiliation makes you reconsider.
 
 petting-failure-derelict-cyborg = You reach out to pet {THE($target)}, but {POSS-ADJ($target)} rusty and jagged exterior makes you reconsider.
+
+
+petting-failure-station-ai = You reach out to pet {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BASIC($target, "zap", "zaps")} your hand away.
+
+petting-success-station-ai-others = { CAPITALIZE(THE($user)) } pets {THE($target)} on {POSS-ADJ($target)} cold, square screen.
 
 
 fence-rattle-success = *брязкає*
