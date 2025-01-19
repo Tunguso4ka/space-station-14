@@ -1,4 +1,4 @@
-ent-BaseAnomalyInjector = anomaly injector
+ent-BaseAnomalyInjector = інжектор анамалій
     .desc = { ent-MarkerBase.desc }
 ent-AnomalyTrapPyroclastic = { ent-BaseAnomalyInjector }
     .desc = { ent-BaseAnomalyInjector.desc }
@@ -30,3 +30,6 @@ ent-AnomalyTrapTech = { ent-BaseAnomalyInjector }
 ent-AnomalyTrapRock = { ent-BaseAnomalyInjector }
     .desc = { ent-BaseAnomalyInjector.desc }
     .suffix = Rock
+ent-AnomalyTrapSanta = { ent-BaseAnomalyInjector }
+    .desc = { ent-BaseAnomalyInjector.desc }
+    .suffix = Santa

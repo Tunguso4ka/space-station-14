@@ -1,4 +1,4 @@
-verb-categories-antag = Антагі
+verb-categories-antag = Антаги
 admin-verb-make-traitor = Перетворює ціль на зрадника.
 admin-verb-make-initial-infected = Перетворює ціль на першого інфікованого.
 admin-verb-make-zombie = Перетворює ціль на зомбі.
@@ -14,3 +14,4 @@ admin-verb-text-make-nuclear-operative = Ядерний Оперативник
 admin-verb-text-make-pirate = Пірат
 admin-verb-text-make-head-rev = Головний Революціонер
 admin-verb-text-make-thief = Крадій
+admin-overlay-antag-classic = АНТАГ

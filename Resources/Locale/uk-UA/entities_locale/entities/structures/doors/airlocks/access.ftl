@@ -2,12 +2,12 @@ ent-AirlockServiceLocked = { ent-Airlock }
     .desc = { ent-Airlock.desc }
     .suffix = Сервіс, Зачинений
 
-ent-AirlockLawyerLocked = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockLawyerLocked = { ent-AirlockServiceLocked }
+    .desc = { ent-AirlockServiceLocked.desc }
     .suffix = Адвокат, Зачинений
 
-ent-AirlockTheatreLocked = { ent-Airlock }
-    .desc = { ent-Airlock.desc }
+ent-AirlockTheatreLocked = { ent-AirlockServiceLocked }
+    .desc = { ent-AirlockServiceLocked.desc }
     .suffix = Театр, Зачинений
 
 ent-AirlockChapelLocked = { ent-AirlockServiceLocked }
@@ -26,6 +26,9 @@ ent-AirlockBarLocked = { ent-AirlockServiceLocked }
     .desc = { ent-AirlockServiceLocked.desc }
     .suffix = Бар, Зачинений
 
+ent-AirlockBarKitchenLocked = { ent-AirlockServiceLocked }
+    .desc = { ent-AirlockServiceLocked.desc }
+    .suffix = Bar&Kitchen, Locked
 ent-AirlockHydroponicsLocked = { ent-AirlockHydroponics }
     .desc = { ent-AirlockHydroponics.desc }
     .suffix = Ботаніка, Зачинений
@@ -196,6 +199,9 @@ ent-AirlockBarGlassLocked = { ent-AirlockServiceGlassLocked }
     .desc = { ent-AirlockServiceGlassLocked.desc }
     .suffix = Бар, Зачинений
 
+ent-AirlockBarKitchenGlassLocked = { ent-AirlockServiceGlassLocked }
+    .desc = { ent-AirlockServiceGlassLocked.desc }
+    .suffix = Bar&Kitchen, Locked
 ent-AirlockExternalGlassLocked = { ent-AirlockExternalGlass }
     .desc = { ent-AirlockExternalGlass.desc }
     .suffix = Зовнішний, Склянний, Зачинений
@@ -383,6 +389,9 @@ ent-AirlockMaintBarLocked = { ent-AirlockMaint }
     .desc = { ent-AirlockMaint.desc }
     .suffix = Bar, Зачинений
 
+ent-AirlockMaintBarKitchenLocked = { ent-AirlockMaintServiceLocked }
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+    .suffix = Bar&Kitchen, Locked
 ent-AirlockMaintChapelLocked = { ent-AirlockMaint }
     .desc = { ent-AirlockMaint.desc }
     .suffix = Chapel, Зачинений
@@ -411,6 +420,9 @@ ent-AirlockMaintKitchenLocked = { ent-AirlockMaint }
     .desc = { ent-AirlockMaint.desc }
     .suffix = Kitchen, Зачинений
 
+ent-AirlockMaintKitchenHydroLocked = { ent-AirlockMaintServiceLocked }
+    .desc = { ent-AirlockMaintServiceLocked.desc }
+    .suffix = Kitchen/Hydroponics, Locked
 ent-AirlockMaintIntLocked = { ent-AirlockMaint }
     .desc = { ent-AirlockMaint.desc }
     .suffix = Interior, Зачинений

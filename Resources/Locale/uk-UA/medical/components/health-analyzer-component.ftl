@@ -7,10 +7,10 @@ health-analyzer-window-entity-alive-text = Живий
 health-analyzer-window-entity-dead-text = Мертвий
 health-analyzer-window-entity-critical-text = Критічний
 
-health-analyzer-window-entity-temperature-text = Температура: {$temperature}
-health-analyzer-window-entity-blood-level-text = Рівень крові: {$bloodLevel}
+health-analyzer-window-entity-temperature-text = Температура:
+health-analyzer-window-entity-blood-level-text = Рівень крові:
 health-analyzer-window-entity-status-text = Статус:
-health-analyzer-window-entity-damage-total-text = Загальна шкода: {$amount}
+health-analyzer-window-entity-damage-total-text = Загальна шкода:
 health-analyzer-window-damage-group-text = {$damageGroup}: {$amount}
 health-analyzer-window-damage-type-text = {$damageType}: {$amount}
 health-analyzer-window-entity-unrevivable-text = [color=red]Unique body composition detected! Patient can not be resuscitated by normal means![/color]

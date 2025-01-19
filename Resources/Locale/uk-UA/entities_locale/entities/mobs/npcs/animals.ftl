@@ -148,13 +148,15 @@ ent-MobGrenadePenguin = grenade penguin
 ent-MobSnake = змія
     .desc = Хісс! Ця не отруйна.
 
+ent-MobSpiderBase = { ent-SimpleMobBase }
+    .desc = { ent-SimpleMobBase.desc }
+ent-MobSpiderAngryBase = { ent-MobSpiderBase }
+    .desc = { ent-MobSpiderBase.desc }
 ent-MobGiantSpider = тарантул
     .desc = Всесвітньо признані як найгірша штука на світі.
 
 ent-MobGiantSpiderAngry = тарантул
     .desc = { ent-MobGiantSpider.desc }
-    .suffix = Angry
-
 ent-MobClownSpider = клоун-павук
     .desc = Ви боїтеся й клоунів й павуків? Тоді ця істота для вас - клоуно-павук!
 

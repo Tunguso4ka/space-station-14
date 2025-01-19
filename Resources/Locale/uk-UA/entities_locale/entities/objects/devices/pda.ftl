@@ -207,3 +207,6 @@ ent-PiratePDA = КПК пірата
 
 ent-SyndiAgentPDA = КПК агента Синдикату
     .desc = Для лікаря поганих хлопців.
+ent-ChameleonPDA = { ent-PassengerPDA }
+    .desc = { ent-PassengerPDA.desc }
+    .suffix = Chameleon

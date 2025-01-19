@@ -40,6 +40,9 @@ ent-DefaultStationBeaconBrig = { ent-DefaultStationBeaconSecurity }
     .desc = { ent-DefaultStationBeaconSecurity.desc }
     .suffix = Бриг
 
+ent-DefaultStationBeaconBrigMed = { ent-DefaultStationBeaconSecurity }
+    .desc = { ent-DefaultStationBeaconSecurity.desc }
+    .suffix = Brig Med
 ent-DefaultStationBeaconWardensOffice = { ent-DefaultStationBeaconSecurity }
     .desc = { ent-DefaultStationBeaconSecurity.desc }
     .suffix = Офіс наглядача
@@ -100,6 +103,12 @@ ent-DefaultStationBeaconSurgery = { ent-DefaultStationBeaconMedical }
     .desc = { ent-DefaultStationBeaconMedical.desc }
     .suffix = Хирургія
 
+ent-DefaultStationBeaconPsychology = { ent-DefaultStationBeaconMedical }
+    .desc = { ent-DefaultStationBeaconMedical.desc }
+    .suffix = Psychology
+ent-DefaultStationBeaconClinic = { ent-DefaultStationBeaconMedical }
+    .desc = { ent-DefaultStationBeaconMedical.desc }
+    .suffix = Clinic
 ent-DefaultStationBeaconScience = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = Науковий
@@ -227,6 +236,12 @@ ent-DefaultStationBeaconAICore = { ent-DefaultStationBeaconAI }
     .desc = { ent-DefaultStationBeaconAI.desc }
     .suffix = Ядро ШІ
 
+ent-DefaultStationBeaconAIUpload = { ent-DefaultStationBeaconAI }
+    .desc = { ent-DefaultStationBeaconAI.desc }
+    .suffix = AI Upload
+ent-DefaultStationBeaconAIPower = { ent-DefaultStationBeaconAI }
+    .desc = { ent-DefaultStationBeaconAI.desc }
+    .suffix = AI Power
 ent-DefaultStationBeaconArrivals = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = Прибуття
@@ -235,6 +250,9 @@ ent-DefaultStationBeaconEvac = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = Евакуація
 
+ent-DefaultStationBeaconDockingArm = { ent-DefaultStationBeacon }
+    .desc = { ent-DefaultStationBeacon.desc }
+    .suffix = Docking Arm
 ent-DefaultStationBeaconEVAStorage = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = ЄВА
@@ -247,6 +265,9 @@ ent-DefaultStationBeaconLibrary = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = Бібліотека
 
+ent-DefaultStationBeaconReporter = { ent-DefaultStationBeacon }
+    .desc = { ent-DefaultStationBeacon.desc }
+    .suffix = Reporter
 ent-DefaultStationBeaconTheater = { ent-DefaultStationBeacon }
     .desc = { ent-DefaultStationBeacon.desc }
     .suffix = Театр

@@ -19,6 +19,8 @@ ent-ClothingNeckNonBinaryPin = значок небінарних
 
 ent-ClothingNeckPansexualPin = значок пансексуалів
     .desc = be pan do crime.
+ent-ClothingNeckOmnisexualPin = omnisexual pin
+    .desc = Be omni do crime.
 ent-ClothingNeckTransPin = значок трансгендерних
     .desc = be trans do crime.
 ent-ClothingNeckAutismPin = значок аутистів

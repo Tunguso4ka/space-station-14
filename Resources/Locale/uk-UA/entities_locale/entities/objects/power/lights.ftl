@@ -12,6 +12,8 @@ ent-LedLightBulb = led light bulb
 
 ent-DimLightBulb = dim light bulb
     .desc = A dim light bulb for populating the darkness of maintenance.
+ent-WarmLightBulb = warm light bulb
+    .desc = A warm light bulb for a more cozy atmosphere.
 ent-LightBulbOld = old incandescent light bulb
     .desc = An aging light bulb.
 

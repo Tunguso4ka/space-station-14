@@ -3,10 +3,13 @@ ent-BaseChemistryEmptyVial = пробірка
 ent-VestineChemistryVial = { ent-BaseChemistryEmptyVial }
     .desc = { ent-BaseChemistryEmptyVial.desc }
 
-    .suffix = vestine
+    .suffix = вестін
 ent-RadiumChemistryVial = { ent-BaseChemistryEmptyVial }
     .desc = { ent-BaseChemistryEmptyVial.desc }
-    .suffix = radium
+    .suffix = радій
 ent-ChlorineChemistryVial = { ent-BaseChemistryEmptyVial }
     .desc = { ent-BaseChemistryEmptyVial.desc }
-    .suffix = chlorine
+    .suffix = хлор
+ent-PlasmaChemistryVial = { ent-BaseChemistryEmptyVial }
+    .desc = { ent-BaseChemistryEmptyVial.desc }
+    .suffix = плазмам

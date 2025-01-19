@@ -59,19 +59,21 @@ ent-VendingMachinePwrGame = Pwr Game Vendor
 ent-VendingMachineDrGibb = Dr. Gibb Vendor
     .desc = Canned explosion of different flavors in this very vendor!
 
+ent-VendingMachineSmite = Smite Vendor
+    .desc = Popular with the administration.
 ent-VendingMachineDinnerware = Plasteel Chef's Dinnerware Vendor
     .desc = A kitchen and restaurant equipment vendor.
 
 ent-VendingMachineMagivend = MagiVend
     .desc = A magic vending machine.
 
-ent-VendingMachineDiscount = Discount Dan's
+ent-VendingMachineDiscount = Знижки від Дена
     .desc = A vending machine containing discount snacks from the infamous 'Discount Dan' franchise.
 
 ent-VendingMachineEngivend = Engi-Vend
     .desc = Spare tool vending. What? Did you expect some witty description?
 
-ent-VendingMachineMedical = NanoMed Plus
+ent-VendingMachineMedical = НаноМед Плюс
     .desc = It's a medical drug dispenser. Natural chemicals only!
 
 ent-VendingMachineNutri = NutriMax
@@ -122,7 +124,7 @@ ent-VendingMachineVendomat = ТоргоШаф
 ent-VendingMachineRobotics = Роботех Делюкс
     .desc = Усі потрібні інструменти для створення власної армії роботів.
 
-ent-VendingMachineYouTool = YouTool
+ent-VendingMachineYouTool = ТвійСтрумент
     .desc = A vending machine containing standard tools. A label reads: Tools for tools.
 
 ent-VendingMachineGames = Good Clean Fun
@@ -137,10 +139,10 @@ ent-VendingMachineSalvage = шахтарський автомат
 ent-VendingMachineDonut = Monkin' Donuts
     .desc = A donut vendor provided by Robust Industries, LLC.
 
-ent-VendingMachineWallmount = vending machine
+ent-VendingMachineWallmount = торговий апарат
     .desc = { ent-VendingMachine.desc }
 
-ent-VendingMachineWallMedical = NanoMed
+ent-VendingMachineWallMedical = НаноМед
     .desc = It's a wall-mounted medical equipment dispenser. Natural chemicals only!
 
 ent-VendingMachineHydrobe = БотанШаф
@@ -206,6 +208,8 @@ ent-VendingMachineCentDrobe = ЦентШаф
 ent-VendingMachineHappyHonk = автомат Щастливий Гудок
     .desc = Автомат коробок "Набір Шастливого Гудка", зроблений корпорацією Гудок! ко.
 
+ent-VendingMachinePride = Pride-O-Mat
+    .desc = A vending machine containing pride.
 ent-VendingMachineTankDispenserEVA = диспенсер балонів
     .desc = Автомат дла видачі газових балонів.
     .suffix = EVA [O2, N2]

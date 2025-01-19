@@ -114,6 +114,8 @@ ent-SeedExtractorMachineCircuitboard = плата екстрактора нас�
 ent-SMESMachineCircuitboard = плата НпМА
     .desc = Надрукована плата НпМа.
 
+ent-SMESAdvancedMachineCircuitboard = advanced SMES machine board
+    .desc = A machine printed circuit board for an Advanced SMES.
 ent-CellRechargerCircuitboard = плата зарядки батарейок
     .desc = Надрукована плата зарядки батарейок.
 

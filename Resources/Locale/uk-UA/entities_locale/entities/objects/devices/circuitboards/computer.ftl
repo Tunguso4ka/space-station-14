@@ -4,6 +4,8 @@ ent-BaseComputerCircuitboard = плата комп'ютеру
 ent-AlertsComputerCircuitboard = плата комп'ютеру тривог
     .desc = A computer printed circuit board for an alerts computer.
 
+ent-AtmosMonitoringComputerCircuitboard = atmospheric network monitor board
+    .desc = A computer printed circuit board for an atmospheric network monitor.
 ent-PowerComputerCircuitboard = плата комп'ютеру моніторингу живлення
     .desc = A computer printed circuit board for a power monitoring computer.
 
