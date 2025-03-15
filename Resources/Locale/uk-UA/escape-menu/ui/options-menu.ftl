@@ -112,6 +112,12 @@ ui-options-header-map-editor = Редактор мап
 ui-options-header-dev = Розробка
 ui-options-header-general = Загальні
 
+ui-options-header-text-cursor = Text cursor
+ui-options-header-text-cursor-select = Text selecting
+ui-options-header-text-edit = Text editing
+ui-options-header-text-chat = Chat
+ui-options-header-text-other = Text input other
+
 ui-options-hotkey-keymap = Використовувати US QWERTY
 ui-options-hotkey-toggle-walk = Перемикати ходьбу
 
@@ -238,6 +244,43 @@ ui-options-function-shuttle-rotate-right = Оберт вправо
 ui-options-function-shuttle-brake = Гальмування
 
 
+ui-options-function-text-cursor-left = Move cursor left
+ui-options-function-text-cursor-right = Move cursor right
+ui-options-function-text-cursor-up = Move cursor up
+ui-options-function-text-cursor-down = Move cursor down
+ui-options-function-text-cursor-word-left = Move cursor left by word
+ui-options-function-text-cursor-word-right = Move cursor right by word
+ui-options-function-text-cursor-begin = Move cursor to beginning
+ui-options-function-text-cursor-end = Move cursor to end
+ui-options-function-text-cursor-select = Select text
+ui-options-function-text-cursor-select-left = Expand selection left
+ui-options-function-text-cursor-select-right = Expand selection right
+ui-options-function-text-cursor-select-up = Expand selection up
+ui-options-function-text-cursor-select-down = Expand selection down
+ui-options-function-text-cursor-select-word-left = Expand selection left by word
+ui-options-function-text-cursor-select-word-right = Expand selection right by word
+ui-options-function-text-cursor-select-begin = Expand selection to beginning
+ui-options-function-text-cursor-select-end = Expand selection to end
+ui-options-function-text-backspace = Backspace
+ui-options-function-text-delete = Видалити
+ui-options-function-text-word-backspace = Backspace word
+ui-options-function-text-word-delete = Delete word
+ui-options-function-text-newline = Newline
+ui-options-function-text-submit = Submit
+ui-options-function-multiline-text-submit = Submit multiline
+ui-options-function-text-select-all = Select all
+ui-options-function-text-copy = Copy
+ui-options-function-text-cut = Cut
+ui-options-function-text-paste = Paste
+ui-options-function-text-history-prev = Previous from history
+ui-options-function-text-history-next = Next from history
+ui-options-function-text-release-focus = Release focus
+ui-options-function-text-scroll-to-bottom = Scroll to bottom
+ui-options-function-text-tab-complete = Tab completion
+ui-options-function-text-complete-next = Complete next
+ui-options-function-text-complete-prev = Complete previous
+
+
 ui-options-net-predict = Client-side prediction
 
 ui-options-net-interp-ratio = State buffer size
@@ -271,6 +314,9 @@ ui-options-net-pvs-leave-tooltip = This limits the rate at which the client will
 cmd-options-desc = Opens options menu, optionally with a specific tab selected.
 cmd-options-help = Використання: options [tab]
 
+ui-options-accessability-header-visuals = Візуали
+ui-options-accessability-header-content = Content
+
 ui-options-enable-color-name = Додати кольори до імен персонажів
 ui-options-colorblind-friendly = Режим для людей з вадами зору
 ui-options-reduced-motion = Зменшити рух візуальних ефектів
@@ -279,6 +325,9 @@ ui-options-chat-window-opacity = Прозорість вікна чата
 ui-options-speech-bubble-text-opacity = Speech bubble text opacity
 ui-options-speech-bubble-speaker-opacity = Speech bubble speaker opacity
 ui-options-speech-bubble-background-opacity = Speech bubble background opacity
+
+
+ui-options-censor-nudity = Censor character nudity
 
 
 ui-options-enable-classic-overlay = Revert antag overlay to classic mode
