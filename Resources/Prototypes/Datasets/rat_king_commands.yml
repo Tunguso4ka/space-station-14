@@ -1,26 +1,23 @@
-﻿- type: dataset
+﻿- type: localizedDataset
   id: RatKingCommandStay
   values:
-    - "Сидіти!"
-    - "Стояти!"
-    - "Зупинитися!"
+    prefix: rat-king-command-stay-
+    count: 3
 
-- type: dataset
+- type: localizedDataset
   id: RatKingCommandFollow
   values:
-    - "До ногі!"
-    - "Слідуйте!"
+    prefix: rat-king-command-follow-
+    count: 2
 
-- type: dataset
+- type: localizedDataset
   id: RatKingCommandCheeseEm
   values:
-    - "Атакуйте!"
-    - "Взяти!"
-    - "Вбийте!"
-    - "Уперед!"
+    prefix: rat-king-command-cheese-
+    count: 4
 
-- type: dataset
+- type: localizedDataset
   id: RatKingCommandLoose
   values:
-    - "Вільно!"
-    - "Розбіжатися!"
+    prefix: rat-king-command-loose-
+    count: 2

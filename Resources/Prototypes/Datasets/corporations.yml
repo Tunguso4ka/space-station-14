@@ -1,12 +1,5 @@
-- type: dataset
+- type: localizedDataset
   id: TraitorCorporations
   values:
-  - "КиберСан Індастрія"
-  - "Головорізи Ґорлакса"
-  - "MI13"
-  - "З'єднання Тигрів"
-  - "S.E.L.F."
-  - "Консорціум за Права Тварин"
-  - "Донк Корпорація"
-  - "Вафля Корпорація"
-  - "Інтердайн Фармацевтика"
+    prefix: traitor-corporations-dataset-
+    count: 9
