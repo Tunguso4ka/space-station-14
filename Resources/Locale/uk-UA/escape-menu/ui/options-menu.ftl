@@ -1,5 +1,6 @@
 ui-options-title = Гра
 ui-options-tab-accessibility = Доступність
+ui-options-tab-admin = Admin
 ui-options-tab-graphics = Графіка
 ui-options-tab-controls = Керування
 ui-options-tab-audio = Аудіо
@@ -273,5 +274,11 @@ cmd-options-help = Використання: options [tab]
 ui-options-enable-color-name = Додати кольори до імен персонажів
 ui-options-colorblind-friendly = Режим для людей з вадами зору
 ui-options-reduced-motion = Зменшити рух візуальних ефектів
-ui-options-chat-window-opacity = Прозорість вікна чата
 ui-options-screen-shake-intensity = Інтенсивність руху екрану
+ui-options-chat-window-opacity = Прозорість вікна чата
+ui-options-speech-bubble-text-opacity = Speech bubble text opacity
+ui-options-speech-bubble-speaker-opacity = Speech bubble speaker opacity
+ui-options-speech-bubble-background-opacity = Speech bubble background opacity
+
+
+ui-options-enable-classic-overlay = Revert antag overlay to classic mode
