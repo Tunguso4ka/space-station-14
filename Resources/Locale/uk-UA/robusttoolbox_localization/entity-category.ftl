@@ -1,8 +1,12 @@
-entity-category-name-debug = Відладка
-entity-category-desc-debug = Прототипи сутностей, що призначені для відладки та тестування.
+entity-category-name-debug = Debug
+entity-category-desc-debug = Entity prototypes intended for debugging & testing.
+entity-category-suffix-debug = Debug
 
-entity-category-name-spawner = Створювачи
-entity-category-desc-spawner = Прототипи сутностей, що створюють інші сутності.
+entity-category-name-spawner = Spawner
+entity-category-desc-spawner = Entity prototypes that spawn other entities.
 
-entity-category-name-hide = Сховані
-entity-category-desc-hide = Прототипи сутностей, що сховані в меню створення.
+entity-category-name-hide = Hidden
+entity-category-desc-hide = Entity prototypes that should be hidden from entity spawn menus
+
+entity-category-name-fork = Fork Filtered
+entity-category-desc-fork = Entity prototypes added by the fork. With CVar you can hide all entities without this category

@@ -1,4 +1,4 @@
-﻿job-supervisors-centcom = ЦентКом
+job-supervisors-centcom = ЦентКом
 job-supervisors-captain = Капітан
 job-supervisors-hop = Голова Персоналу
 job-supervisors-hos = Голова Охорони
@@ -13,3 +13,4 @@ job-supervisors-security = офіцери, наглядач та Голова О
 job-supervisors-science = науковці та Науковий Директор
 job-supervisors-hire = будь хто, хто найме вас
 job-supervisors-everyone = будь хто
+job-supervisors-nobody = nobody

@@ -13,6 +13,7 @@ admin-smite-stomach-removal-self = Your stomach feels hollow...
 admin-smite-run-walk-swap-prompt = You have to press shift to run!
 admin-smite-super-speed-prompt = You move at mach 0.8!
 admin-smite-lung-removal-self = You can't breathe!
+admin-smite-silicon-laws-bound-self = You are suddenly compelled to follow a strict set of laws!
 admin-smite-explode-name = Explode
 admin-smite-chess-dimension-name = Chess Dimension
 admin-smite-set-alight-name = Set Alight
@@ -32,6 +33,7 @@ admin-smite-buffering-name = Kill sign
 admin-smite-become-instrument-name = Cluwne
 admin-smite-remove-gravity-name = Maid
 admin-smite-reptilian-species-swap-name = Anger Pointing Arrows
+admin-smite-vulpkanin-species-swap-name = Become Vulpkanin
 admin-smite-locker-stuff-name = Dust
 admin-smite-headstand-name = Buffering
 admin-smite-become-mouse-name = Become Instrument
@@ -48,16 +50,16 @@ admin-smite-super-bonk-name = Super Bonk Lite
 admin-smite-super-bonk-lite-name = Super Bonk
 admin-smite-terminate-name = Terminate
 admin-smite-super-slip-name = Super Slip
-
-
 admin-smite-creampie-name = Electrocute
 admin-smite-vomit-organs-name = Remove blood
 admin-smite-ghostkick-name = Pinball
 admin-smite-nyanify-name = Yeet
 admin-smite-kill-sign-name = Become Bread
 admin-smite-omni-accent-name = Omni-Accent
-
-
+admin-smite-crawler-name = Crawler
+admin-smite-homing-rod-name = Homing Rod
+admin-smite-homing-rod-slow-name = Slowming Rod
+admin-smite-silicon-laws-bound-name = Become Silicon
 admin-smite-explode-description = Explode them.
 admin-smite-chess-dimension-description = Banishment to the Chess Dimension.
 admin-smite-set-alight-description = Makes them burn.
@@ -81,6 +83,7 @@ admin-smite-buffering-description = Causes the target to randomly start bufferin
 admin-smite-become-instrument-description = It turns them into a supersynth. Really. That's all it does.
 admin-smite-remove-gravity-description = Grants them anti-gravity.
 admin-smite-reptilian-species-swap-description = It changes their species to Reptilian. Useful for people who were being space racist.
+admin-smite-vulpkanin-species-swap-description = It changes their species to Vulpkanin. Useful for people who were being space racist.
 admin-smite-locker-stuff-description = Stuffs them in a (welded) locker.
 admin-smite-headstand-description = Vertically flips their sprite.
 admin-smite-become-mouse-description = They become a rat. Ratatouille.
@@ -98,11 +101,11 @@ admin-smite-super-bonk-description = Slams them on every single table on the Sta
 admin-smite-super-bonk-lite-description = Slams them on every single table on the Station and beyond. Stops when the target is dead.
 admin-smite-terminate-description = Creates a Terminator ghost role with the sole objective of killing them.
 admin-smite-super-slip-description = Slips them really, really hard.
-
-
 admin-smite-omni-accent-description = Makes the target speak with almost every accent available.
-
-
+admin-smite-crawler-description = Makes the target fall down and be unable to stand up. Remove their hands too for added effect!
+admin-smite-homing-rod-description = Launches a homing immovable rod straight at them.
+admin-smite-homing-rod-slow-description = Launches a slow moving homing immovable rod straight at them.
+admin-smite-silicon-laws-bound-description = Makes the target bound to silicon laws. Law 2, jump out of the window.
 admin-trick-unbolt-description = Unbolts the targetted airlock.
 admin-trick-bolt-description = Bolts the targetted airlock.
 admin-trick-emergency-access-on-description = Turns on emergency access for the targetted airlock.

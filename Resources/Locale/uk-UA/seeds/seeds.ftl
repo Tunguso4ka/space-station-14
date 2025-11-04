@@ -1,6 +1,5 @@
 seeds-noun-seeds = насіння
 seeds-noun-spores = спори
-
 seeds-wheat-name = пшениці
 seeds-wheat-display-name = wheat stalks
 seeds-meatwheat-name = meatwheat
@@ -139,3 +138,5 @@ seeds-cherry-name = cherry
 seeds-cherry-display-name = cherry tree
 seeds-anomaly-berry-name = anomaly berry
 seeds-anomaly-berry-display-name = anomaly berries
+seeds-bloonion-name = bloonion
+seeds-bloonion-display-name = bloonion bulbs

@@ -1,0 +1,2 @@
+ent-StorePresetUplink = { "" }
+ent-StorePresetSpellbook = { "" }

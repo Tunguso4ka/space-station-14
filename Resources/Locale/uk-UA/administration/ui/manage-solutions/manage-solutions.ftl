@@ -1,5 +1,9 @@
 admin-solutions-window-title = Редактор рідин - {$targetName}
 admin-solutions-window-solution-label = Ціль:
+admin-solutions-window-solution-button = Solution
+admin-solutions-window-solution-button-tooltip = Opens the corresponding server-side Solution instance in ViewVariables. Useful for debugging prediction issues.
+admin-solutions-window-vv-button = VV
+admin-solutions-window-vv-button-tooltip = Opens the corresponding solution entity in ViewVariables.
 admin-solutions-window-add-new-button = Додати нову рідину
 admin-solutions-window-volume-label = Об'єм {$currentVolume}/{$maxVolume}ю
 admin-solutions-window-capacity-label = Ємність (ю):

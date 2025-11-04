@@ -1,0 +1,12 @@
+ent-BaseWeaponSubMachineGun = BaseSMG
+    .desc = A rooty tooty point and shooty.
+ent-WeaponSubMachineGunAtreides = Atreides
+    .desc = Pla-ket-ket-ket-ket! Uses .35 auto ammo.
+ent-WeaponSubMachineGunC20r = C-20r sub machine gun
+    .desc = A firearm that is often used by the infamous nuclear operatives. Uses .35 auto ammo.
+ent-WeaponSubMachineGunC20rROW = C-20r ROW
+    .desc = A burst-fire C-20r submachine gun for use by cyborgs. Creates .35 caliber ammo on the fly from an internal ammo fabricator, which slowly self-charges.
+ent-WeaponSubMachineGunDrozd = Drozd
+    .desc = An excellent fully automatic Heavy SMG.
+ent-WeaponSubMachineGunWt550 = WT550
+    .desc = An excellent SMG, produced by NanoTrasen's Small Arms Division. Uses .35 auto ammo.

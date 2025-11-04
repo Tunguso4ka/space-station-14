@@ -1,0 +1,12 @@
+ent-BaseMagazineCaselessRifle = magazine (.25 caseless)
+    .desc = { ent-BaseItem.desc }
+ent-BaseMagazinePistolCaselessRifle = pistol magazine (.25 caseless)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-MagazinePistolCaselessRifle = pistol magazine (.25 caseless)
+    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+ent-MagazinePistolCaselessRiflePractice = pistol magazine (.25 caseless practice)
+    .desc = { ent-BaseMagazinePistolCaselessRifle.desc }
+ent-MagazineCaselessRifle = magazine (.25 caseless)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }
+ent-MagazineCaselessRiflePractice = magazine (.25 caseless practice)
+    .desc = { ent-BaseMagazineCaselessRifle.desc }

@@ -10,9 +10,12 @@ marking-used = {$marking-name}
 marking-used-forced = {$marking-name} (Forced)
 marking-slot-add = Додати
 marking-slot-remove = Прибрати
-
 marking-slot = Слот {$number}
-
+humanoid-marking-modifier-force = Force
+humanoid-marking-modifier-ignore-species = Ignore Species
+humanoid-marking-modifier-base-layers = Base layers
+humanoid-marking-modifier-enable = Enable
+humanoid-marking-modifier-prototype-id = Prototype id:
 markings-category-Special = Special
 markings-category-Hair = Волосся
 markings-category-FacialHair = Волосся на обличчі
@@ -20,6 +23,7 @@ markings-category-Head = Голова
 markings-category-HeadTop = Голова (Top)
 markings-category-HeadSide = Голова (Side)
 markings-category-Snout = Мордочка
+markings-category-SnoutCover = Snout (Cover)
 markings-category-UndergarmentTop = Undergarment (Top)
 markings-category-UndergarmentBottom = Undergarment (Bottom)
 markings-category-Chest = Chest

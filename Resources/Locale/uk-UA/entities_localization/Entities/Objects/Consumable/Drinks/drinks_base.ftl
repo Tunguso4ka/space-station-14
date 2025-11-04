@@ -1,0 +1,17 @@
+ent-DrinkBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-DrinkBaseEmptyTrash = { "" }
+    .suffix = Empty
+ent-DrinkBaseOpenable = { "" }
+ent-DrinkBaseOpenableOpen = { ent-DrinkBaseOpenable }
+    .desc = { ent-DrinkBaseOpenable.desc }
+ent-DrinkVisualsOpenable = { "" }
+ent-DrinkVisualsFill = { "" }
+ent-DrinkVisualsFillOverlay = { ent-DrinkVisualsFill }
+    .desc = { ent-DrinkVisualsFill.desc }
+ent-DrinkVisualsFillFilled = { ent-DrinkVisualsFill }
+    .desc = { ent-DrinkVisualsFill.desc }
+ent-DrinkVisualsAll = { ent-DrinkVisualsOpenable }
+    .desc = { ent-DrinkVisualsOpenable.desc }
+ent-DrinkVisualsAllFilled = { ent-DrinkVisualsAll }
+    .desc = { ent-DrinkVisualsAll.desc }

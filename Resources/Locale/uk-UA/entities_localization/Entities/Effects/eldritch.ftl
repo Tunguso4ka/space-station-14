@@ -1,0 +1,1 @@
+ent-EffectVoidBlink = void blink

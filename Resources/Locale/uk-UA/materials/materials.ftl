@@ -2,12 +2,12 @@ materials-glass = скло
 materials-reinforced-glass = армоване скло
 materials-plasma-glass = плазмоскло
 materials-reinforced-plasma-glass = армоване плазмоскло
-
+materials-uranium-glass = uranium glass
+materials-reinforced-uranium-glass = reinforced uranium glass
 materials-steel = сталь
 materials-gold = золото
 materials-silver = срібло
 materials-plasteel = пласталь
-
 materials-biomass = біомаса
 materials-cardboard = картон
 materials-cloth = тканина
@@ -24,7 +24,7 @@ materials-bones = кість
 materials-coal = вугілля
 materials-diamond = алмаз
 materials-gunpowder = порох
-
+materials-cotton = cotton
 materials-raw-iron = необроблене залізо
 materials-raw-quartz = необроблений кварц
 materials-raw-gold = необроблене золото

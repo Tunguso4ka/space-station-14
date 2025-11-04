@@ -1,4 +1,4 @@
-﻿# Used internally by the THE() function.
+# Used internally by the THE() function.
 zzzz-the = { PROPER($ent) ->
     *[false] { $ent }
      [true] { $ent }
@@ -18,6 +18,26 @@ zzzz-object-pronoun = { GENDER($ent) ->
     [female] її
     [epicene] їх
    *[neuter] його
+   }
+
+# Used internally by the DAT-OBJ() function.
+# Not used in en-US. Created to support other languages.
+# (e.g., "to him," "for her")
+zzzz-dat-object = { GENDER($ent) ->
+    [male] йому
+    [female] ній
+    [epicene] ним
+   *[neuter] йому
+   }
+
+# Used internally by the GENITIVE() function.
+# Not used in en-US. Created to support other languages.
+# e.g., "у него" (Russian), "seines Vaters" (German).
+zzzz-genitive = { GENDER($ent) ->
+    [male] у нього
+    [female] у неї
+    [epicene] у них
+   *[neuter] у нього
    }
 
 # Used internally by the POSS-PRONOUN() function.
@@ -46,8 +66,8 @@ zzzz-reflexive-pronoun = { GENDER($ent) ->
 
 # Used internally by the CONJUGATE-BE() function.
 zzzz-conjugate-be = { GENDER($ent) ->
-    [epicene] are
-   *[other] is
+    [epicene]
+   *[other]
    }
 
 # Used internally by the CONJUGATE-HAVE() function.

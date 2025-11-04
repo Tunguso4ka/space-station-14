@@ -20,10 +20,12 @@ guide-entry-manualvalve = Manual Valve
 guide-entry-signalvalve = Signal Valve
 guide-entry-pneumaticvalve = Pneumatic Valve
 guide-entry-passivegate = Passive Gate
+guide-entry-ressureregulator = Pressure Regulator
 guide-entry-mixingandfiltering = Mixing and Filtering
 guide-entry-gascanisters = Gas Canisters
 guide-entry-thermomachines = Thermomachines
 guide-entry-gascondensing = Gas Condensing
+guide-entry-gasrecycling = Gas Recycling
 guide-entry-radiators = Radiators
 guide-entry-atmosphericssystems = Atmospherics Systems
 guide-entry-pipenetworks = Pipe Networks
@@ -36,6 +38,7 @@ guide-entry-gasminingandstorage = Gas Mining and Storage
 guide-entry-atmosphericupsets = Atmospheric Upsets
 guide-entry-fires = Пожари та космос
 guide-entry-spacing = Spacing
+guide-entry-deltapressure = Delta Pressure
 guide-entry-atmostools = Atmos Tools
 guide-entry-gasses = Gasses
 guide-entry-botany = Ботаника
@@ -77,6 +80,8 @@ guide-entry-anomalous-research = Аномальні дослідження
 guide-entry-scanners-and-vessels = Сканери та Vessels
 guide-entry-ape = A.P.E.
 guide-entry-xenoarchaeology = Ксеноархеологія
+guide-entry-xenoarchaeologyunlockingnodes = Unlocking Nodes
+guide-entry-analysisconsole = Analysis Console
 guide-entry-artifact-reports = Звіт артефакта
 guide-entry-traversal-distorter = Traversal Distorter
 guide-entry-machine-upgrading = Покращення апаратів
@@ -88,15 +93,12 @@ guide-entry-defusal = Знешкодження бомб
 guide-entry-criminal-records = Кримінальні Записи
 guide-entry-command = Командування
 guide-entry-service = Сервіс
-
 guide-entry-newplayer = Новачок? Прочти це!
 guide-entry-charactercreation = Створення персонажу
 guide-entry-species = Види/Раси
-
 guide-entry-yourfirstcharacter = Ваш перший персонаж
 guide-entry-controls = Керування
 guide-entry-radio = Рація
-
 guide-entry-references = Таблиці & Референси
 guide-entry-chemicals = Хімікати
 guide-entry-drinks = Напої
@@ -126,7 +128,7 @@ guide-entry-salad-recipes = Salads
 guide-entry-medicinal-recipes = Medicinal
 guide-entry-other-recipes = Other
 guide-entry-secret-recipes = Secret
-
+guide-entry-lawsets = Silicon Lawsets
 guide-entry-antagonists = Антагоністи
 guide-entry-nuclear-operatives = Ядерні Оперативники
 guide-entry-traitors = Зрадники
@@ -134,11 +136,8 @@ guide-entry-zombies = Зомбі
 guide-entry-revolutionaries = Революціонери
 guide-entry-minor-antagonists = Мінорні антаги
 guide-entry-space-ninja = Космічний Ніндзя
-
 guide-entry-thieves = Thieves
-
 guide-entry-wizard = Wizard
-
 guide-entry-rules = Правила сервера
 guide-entry-rules-core-only = Core Only Ruleset
 guide-entry-rules-lrp = Стандартні правила
@@ -197,6 +196,5 @@ guide-entry-rules-sl-restricted-gear = Заборонено снарядженн
 guide-entry-rules-sl-restricted-weapons = Заборонена зброя
 guide-entry-rules-ban-types = Типи банів
 guide-entry-rules-ban-durations = Час банів
-
 guide-entry-writing = Написання
 guide-entry-glossary = Глосарій

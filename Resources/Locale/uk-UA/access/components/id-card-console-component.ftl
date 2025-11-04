@@ -6,7 +6,9 @@ id-card-console-window-job-title-label = Назва роботи:
 id-card-console-window-eject-button = Вийняти
 id-card-console-window-insert-button = Вставити
 id-card-console-window-job-selection-label = Пресети робот:
-
+id-card-console-window-select-all-button = Grant all
+id-card-console-window-deselect-all-button = Revoke all
 access-id-card-console-component-no-hands-error = У вас нема рук.
 id-card-console-privileged-id = Привілейоване ID
 id-card-console-target-id = Цільове ID
+id-card-console-damaged = Structural integrity compromised, ejecting contents.

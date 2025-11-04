@@ -8,6 +8,5 @@ species-name-moth = Ніана
 species-name-skeleton = Скелет
 species-name-vox = Вокс
 species-name-gingerbread = delicious baked good
-
-
+species-name-vulpkanin = Vulpkanin
 snail-hurt-by-salt-popup = The salty solution burns like acid!

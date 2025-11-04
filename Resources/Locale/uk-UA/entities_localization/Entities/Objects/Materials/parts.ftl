@@ -1,0 +1,11 @@
+ent-PartBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-PartRodMetal = металевий прут
+    .desc = { ent-PartBase.desc }
+    .suffix = Lingering, 0
+ent-PartRodMetal10 = металевий прут
+    .desc = { ent-PartRodMetal.desc }
+    .suffix = 10
+ent-PartRodMetal1 = металевий прут
+    .desc = { ent-PartRodMetal.desc }
+    .suffix = Single

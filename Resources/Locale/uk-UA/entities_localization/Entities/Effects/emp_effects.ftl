@@ -1,0 +1,2 @@
+ent-EffectEmpPulse = { "" }
+ent-EffectEmpDisabled = { "" }

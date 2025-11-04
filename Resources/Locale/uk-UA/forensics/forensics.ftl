@@ -9,7 +9,8 @@ forensic-scanner-interface-clear = Очистити
 forensic-scanner-report-title = Кримін. Рапорт: {$entity}
 forensic-pad-unused = Його ще не було використано.
 forensic-pad-sample = Він має відбиток на ньому: {$sample}
-forensic-pad-gloves = {CAPITALIZE($target)} носить рукавички.
+forensic-pad-no-access-due = Can't access the fingerprint due to {THE($entity)}.
+forensic-pad-no-access = Can't access the fingerprint.
 forensic-pad-start-scan-target = {CAPITALIZE($user)} бере відбитки з ваших пальців.
 forensic-pad-start-scan-user = Ви почали брати відбитки з пальців {CAPITALIZE($target)}.
 forensic-pad-already-used = Цей листик вже використаний.
@@ -19,9 +20,7 @@ forensic-scanner-match-none = Збігів не знайдено!
 forensic-scanner-printer-not-ready = Друкувач ще не готовий.
 forensic-scanner-verb-text = Сканувати
 forensic-scanner-verb-message = Зробити криміналістичний скан
-
 forensics-dna-unknown = невідоме ДНК
-
 forensics-verb-text = Прибрати докази
 forensics-verb-message = Прибрати відбитки та ДНК з об'єкту!
 forensics-cleaning = Ви почали прибирати докази з {$target}...

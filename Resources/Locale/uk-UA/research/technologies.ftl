@@ -3,7 +3,6 @@ research-discipline-industrial = Індустріальна
 research-discipline-arsenal = Арсенал
 research-discipline-experimental = Експериментальна
 research-discipline-civilian-services = Цивільна
-
 research-technology-fulton = Фултони
 research-technology-salvage-equipment = Шахтарське Обладнання
 research-technology-advanced-powercells = Просунуті Батарейки
@@ -18,11 +17,9 @@ research-technology-advanced-atmospherics = Просунута Атмосфер�
 research-technology-advanced-tools = Покращені Інструменти
 research-technology-super-powercells = Супер-Батарейки
 research-technology-bluespace-storage = Синєпросторні Сховища
-research-technology-portable-fission = Portable Fission
+research-technology-optimized-microgalvanism = Optimized Microgalvanism
 research-technology-space-scanning = Сканування космосу
-
 research-technology-excavation = Mass Excavation
-
 research-technology-salvage-weapons = Шахтарське Озброєння
 research-technology-draconic-munitions = Draconic Munitions
 research-technology-uranium-munitions = Уранові набої
@@ -36,9 +33,11 @@ research-technology-wave-particle-harnessing = Wave Particle Harnessing
 research-technology-advanced-riot-control = Покращене контрольовуння бунтів
 research-technology-portable-microfusion-weaponry = Portable Microfusion Weaponry
 research-technology-experimental-battery-ammo = Experimental Battery Ammo
+research-technology-kinetic-modifications = Kinetic Modifications
 research-technology-basic-shuttle-armament = Базове озброєння шатлів
 research-technology-advanced-shuttle-weapon = Просунуте озброєння шатлів
-
+research-technology-thermal-weaponry = Thermal Weaponry
+research-technology-dual-wielding-technology = Dual Wielding Technology
 research-technology-basic-robotics = Базова Робототехника
 research-technology-basic-anomalous-research = Базові Аномальні Дослідження
 research-technology-basic-xenoarcheology = Базова КсеноАрхеологія
@@ -49,11 +48,11 @@ research-technology-anomaly-harnessing = Anomaly Core Harnessing
 research-technology-abnormal-artifact-manipulation = Abnormal Artifact Manipulation
 research-technology-gravity-manipulation = Маніпуляція Гравітацією
 research-technology-quantum-leaping = Quantum Leaping
+research-technology-bluespace-time-manipulation = Bluespace Time Manipulation
 research-technology-advanced-anomaly-research = Просунуті Аномальні Дослідження
 research-technology-rped = Rapid Part Exchange
 research-technology-super-parts = Super Parts
 research-technology-deterrence = Deterrence Technologies
-
 research-technology-janitorial-equipment = Обладнання Прибиральників
 research-technology-laundry-tech = Laundry Tech
 research-technology-basic-hydroponics = Базова ботаника
@@ -69,6 +68,8 @@ research-technology-advanced-cleaning = Просунуте прибирання
 research-technology-meat-manipulation = Meat Manipulation
 research-technology-honk-mech = H.O.N.K. Мех
 research-technology-advanced-spray = Покращений спрей
+research-technology-launcher-syringe = Syringe Gun
 research-technology-bluespace-cargo-transport = Синєпросторне Транспортування Вантажів
+research-technology-clowning-utilities = Clowning Utilities
 research-technology-quantum-fiber-weaving = Quantum Fiber Weaving
 research-technology-bluespace-chemistry = Синєпросторна хімія

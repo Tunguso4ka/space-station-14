@@ -1,0 +1,17 @@
+ent-OrganVoxLungs = { ent-OrganHumanLungs }
+    .desc = { ent-OrganHumanLungs.desc }
+    .suffix = vox
+ent-OrganVoxStomach = stomach
+    .desc = A stomach that smells of ammonia.
+ent-OrganVoxLiver = liver
+    .desc = Smells flammable.
+ent-OrganVoxHeart = heart
+    .desc = The strange heart of a vox.
+ent-OrganVoxKidneys = kidney
+    .desc = Smells flammable.
+ent-OrganVoxEyes = eyes
+    .desc = { ent-OrganHumanEyes.desc }
+ent-OrganVoxTongueA = tongue
+    .desc = A fleshy muscle mostly used for screaming.
+ent-OrganVoxTongueB = tongue
+    .desc = A fleshy muscle mostly used for screaming.

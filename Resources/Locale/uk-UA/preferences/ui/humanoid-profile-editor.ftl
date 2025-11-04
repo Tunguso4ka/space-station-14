@@ -33,11 +33,9 @@ humanoid-profile-editor-preference-backpack = Рюкзак
 humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Мішок
 humanoid-profile-editor-guidebook-button-tooltip = Натисніть щоб дізнатися різницю.
-
 humanoid-profile-editor-preference-spawn-priority-none = Нема
 humanoid-profile-editor-preference-spawn-priority-arrivals = Прибуття
 humanoid-profile-editor-preference-spawn-priority-cryosleep = Кріосон
-
 humanoid-profile-editor-jobs-amount-in-department-tooltip = {$departmentName}
 humanoid-profile-editor-department-jobs-label = {$departmentName}
 humanoid-profile-editor-antags-tab = Антагоністи
@@ -52,9 +50,7 @@ humanoid-profile-editor-markings-tab = Маркування
 humanoid-profile-editor-flavortext-tab = Опис
 humanoid-profile-editor-traits-tab = Риси
 humanoid-profile-editor-no-traits = Рис не доступно
-
 humanoid-profile-editor-trait-count-hint = Балів доступно: [{$current}/{$max}]
-
 trait-category-disabilities = Вади
 trait-category-speech = Вимова
 trait-category-quirks = Примхи

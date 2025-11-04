@@ -1,0 +1,14 @@
+ent-BaseKeyedInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-SynthesizerInstrument = синтезатор
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-SuperSynthesizerInstrument = супер синтезатор
+    .desc = Розриває гето з Тоухоу MIDI з 2020 року.
+    .suffix = Admin
+ent-SuperSynthesizerNoLimitInstrument = { ent-SuperSynthesizerInstrument }
+    .desc = { ent-SuperSynthesizerInstrument.desc }
+    .suffix = NoLimits Admin
+ent-AccordionInstrument = акордеон
+    .desc = { ent-BaseHandheldInstrument.desc }
+ent-KalimbaInstrument = калімба
+    .desc = Сила піано прямо під вашима пальцями.
