@@ -1,24 +1,6 @@
 # "funny" placeholders of extremely minor/non-crimes for wanted reason dialog
-- type: dataset
+- type: localizedDataset
   id: CriminalRecordsWantedReasonPlaceholders
   values:
-  - З'їв смачний салатик
-  - З'їв свої черевеки
-  - Є клоуном
-  - Є мімом
-  - Не в тому місці дихає
-  - Увірвався на евакуацію
-  - Зробив буквально нічого
-  - Зробив свою роботу
-  - Не сказав мені Привіт
-  - Напився
-  - Має два коробки для інструментів, це забагато
-  - Збрехав по рації
-  - Дивно на мене подивився
-  - Змазав змазкою всі корідори
-  - Зробив АМД вчасно
-  - Підслізнув ГСБ
-  - Вкрав маску клоуна
-  - Розказав вчорашний жарт
-  - Носив газову маску
-  - Носив боксьорські рукавички
+    prefix: placeholders-criminal-records-wanted-reason-
+    count: 20

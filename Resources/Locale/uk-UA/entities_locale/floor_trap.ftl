@@ -1,6 +1,6 @@
 ent-CollideFloorTrap = { "" }
-
     .desc = { "" }
+
 ent-CollideFloorTrapSpawn = спавн пастка
     .desc = { ent-CollideFloorTrap.desc }
 

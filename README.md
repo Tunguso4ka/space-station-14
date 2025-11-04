@@ -1,4 +1,6 @@
-<p align="center"> <img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg" /></p>
+<div class="header" align="center">
+<img alt="Space Station 14" width="880" height="300" src="https://raw.githubusercontent.com/space-wizards/asset-dump/de329a7898bb716b9d5ba9a0cd07f38e61f1ed05/github-logo.svg">
+</div>
 
 Космічна Станція 14 це ремейк Космічної Станції 13, що працює на рушії [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), написаному на C#.
 
@@ -8,11 +10,20 @@
 
 ## Посилання
 
-[Сайт (Англійською)](https://spacestation14.io/) | [Discord (Англійською)](https://discord.ss14.io/) | [Форум (Англійською)](https://forum.spacestation14.io/) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Лончер](https://spacestation14.io/about/nightlies/)
+<div class="header" align="center">
+
+[Вебсайт](https://spacestation14.com/) | [Discord](https://discord.ss14.io/) | [Форум](https://forum.spacestation14.com/) | [Mastodon](https://mastodon.gamedev.place/@spacestation14) | [Patreon](https://www.patreon.com/spacestation14) | [Steam](https://store.steampowered.com/app/1255460/Space_Station_14/) | [Standalone Download](https://spacestation14.com/about/nightlies/)
+
+</div>
 
 ## Документація/Вікі
 
-[Сайт документації (Англійською)](https://docs.spacestation14.io/) містить документацію контенту, рушія, ігрових дизайнів та інше. Також тут знаходиться багато ресурсів для нових контрибʼюторів.
+[Сайт документації (Англійською)](https://docs.spacestation14.io/) містить документацію контенту, рушія, ігрових дизайнів та інше.
+Additionally, see these resources for license and attribution information:
+- [Robust Generic Attribution](https://docs.spacestation14.com/en/specifications/robust-generic-attribution.html)
+- [Robust Station Image](https://docs.spacestation14.com/en/specifications/robust-station-image.html)
+
+We also have lots of resources for new contributors to the project.
 
 ## Допомога розробці
 
@@ -23,10 +34,17 @@
 У випадку якщо ви хочете додати щось своє, то додайте це щось до власного форку, або до [Офіційного Репозиторію гри](https://github.com/space-wizards/space-station-14/).
 
 ## Збірка
-
-1. Клонуйте цей репозиторій.
-2. Запустить `RUN_THIS.py` щоб ініціалізувати підмодулі та завантажити рушій.
-3. Скомпілюйте рішення
+1. Клонуйте цей репозиторій:
+```shell
+git clone https://github.com/space-wizards/space-station-14.git
+```
+2. Перейдить у теку проєкту, та запустить `RUN_THIS.py`, щоб ініціалізувати підмодулі та завантажити рушій:
+```shell
+cd space-station-14
+python RUN_THIS.py
+```
+3. Скомпплюйте рішення:
+`dotnet build`.
 
 [Докладніша інструкція по збірці проекту (Англійською)](https://docs.spacestation14.com/en/general-development/setup.html)
 
