@@ -12,3 +12,4 @@ gravity-generator-window-power-off = Вимкнути
 gravity-generator-window-power-label = { $draw } / { $max } Вт
 gravity-generator-window-eta-none = Нема
 gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
+gravity-generator-unanchoring-failed = Can't unanchor an active gravity generator.

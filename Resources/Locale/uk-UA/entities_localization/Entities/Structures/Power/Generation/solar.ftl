@@ -1,4 +1,5 @@
 ent-SolarPanelBasePhysSprite = сонячна панель
+    .desc = { "" }
 ent-SolarPanelPlasma = solar panel plasma
     .desc = A plasma solar panel that generates power.
 ent-SolarPanelUranium = solar panel uranium

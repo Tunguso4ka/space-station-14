@@ -1,4 +1,5 @@
 ent-BaseLightning = блискавка
+    .desc = { "" }
 ent-Lightning = блискавка
     .desc = { ent-BaseLightning.desc }
 ent-LightningRevenant = страшна блискавка

@@ -1,4 +1,5 @@
-ent-ClickTestBase = ця сутність не має назви
+ent-ClickTestBase = { "" }
+    .desc = { "" }
     .suffix = DEBUG
 ent-ClickTestRotatingCornerVisible = ClickTestRotatingCornerVisible
     .desc = { ent-ClickTestBase.desc }

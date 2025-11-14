@@ -1,10 +1,12 @@
 ent-BaseControllable = { "" }
+    .desc = { "" }
 ent-BaseMob = { "" }
     .desc = { "" }
 ent-MobPolymorphable = { "" }
 ent-MobDamageable = { "" }
 ent-MobCombat = { "" }
 ent-MobAtmosExposed = { "" }
+    .desc = { "" }
 ent-MobAtmosStandard = { ent-MobAtmosExposed }
     .desc = { ent-MobAtmosExposed.desc }
 ent-MobFlammable = { "" }

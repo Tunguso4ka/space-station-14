@@ -5,6 +5,7 @@ ent-BaseSyndicateContraband = { "" }
 ent-BaseMinorContraband = { "" }
 ent-BaseMajorContraband = { "" }
 ent-BaseRestrictedContraband = { "" }
+    .desc = { "" }
 ent-BaseCentcommContraband = { ent-BaseRestrictedContraband }
     .desc = { ent-BaseRestrictedContraband.desc }
 ent-BaseCommandContraband = { ent-BaseRestrictedContraband }

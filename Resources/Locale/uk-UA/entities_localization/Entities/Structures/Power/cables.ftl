@@ -1,4 +1,5 @@
 ent-CablePhysBase = { "" }
+    .desc = { "" }
 ent-CableBase = { "" }
     .desc = { "" }
 ent-CableHV = ВВ дріт

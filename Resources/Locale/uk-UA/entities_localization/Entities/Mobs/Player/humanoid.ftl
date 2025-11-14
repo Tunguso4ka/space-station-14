@@ -1,6 +1,7 @@
 ent-RandomHumanoidSpawnerDeathSquad = агент Загону Смерті
     .suffix = ERTRole
 ent-RandomHumanoidSpawnerERTLeader = лідер ГШР
+    .desc = { "" }
     .suffix = ERTRole, Basic
 ent-RandomHumanoidSpawnerERTLeaderEVA = лідер ГШР
     .desc = { ent-RandomHumanoidSpawnerERTLeader.desc }
@@ -42,6 +43,7 @@ ent-RandomHumanoidSpawnerERTMedicalEVA = лікар ГШР
     .desc = { ent-RandomHumanoidSpawnerERTMedical.desc }
     .suffix = ERTRole, Armored EVA
 ent-RandomHumanoidSpawnerCBURNUnit = агент РХБЗ
+    .desc = { "" }
     .suffix = ERTRole
 ent-RandomHumanoidSpawnerCentcomOfficial = представник ЦентКома
 ent-RandomHumanoidSpawnerSyndicateAgent = агент синдикату

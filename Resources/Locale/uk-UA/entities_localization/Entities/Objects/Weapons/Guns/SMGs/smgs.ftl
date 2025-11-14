@@ -10,3 +10,6 @@ ent-WeaponSubMachineGunDrozd = Drozd
     .desc = An excellent fully automatic Heavy SMG.
 ent-WeaponSubMachineGunWt550 = WT550
     .desc = An excellent SMG, produced by NanoTrasen's Small Arms Division. Uses .35 auto ammo.
+ent-WeaponSubMachineGunBriefcase = brown briefcase
+    .desc = Useful for carrying items in your hands.
+    .suffix = Gun

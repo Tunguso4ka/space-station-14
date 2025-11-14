@@ -1,4 +1,5 @@
 ent-BaseRune = руна
+    .desc = { "" }
 ent-CollideRune = руна колізії
     .desc = { ent-BaseRune.desc }
 ent-ActivateRune = руна активації

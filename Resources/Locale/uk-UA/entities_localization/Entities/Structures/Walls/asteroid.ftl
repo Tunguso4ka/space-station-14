@@ -1,6 +1,7 @@
 ent-AsteroidRock = камінь астероїда
     .desc = Кам'янний астероїд.
 ent-BaseRockGibtonite = { "" }
+    .desc = { "" }
     .suffix = Gibtonite
 ent-AsteroidRockCoal = { ent-AsteroidRock }
     .desc = An ore vein rich with coal.

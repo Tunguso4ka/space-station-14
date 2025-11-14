@@ -1,4 +1,5 @@
 ent-XenoWardingTower = захисна башта ксеносів
+    .desc = { "" }
 ent-CarpStatue = статуя коропа
     .desc = Статуя одного з найсильніших коропів. Саме він довів нас до цього майбутнього. Зроблено іклами!
 ent-CarpStatueEmpty = { ent-CarpStatue }

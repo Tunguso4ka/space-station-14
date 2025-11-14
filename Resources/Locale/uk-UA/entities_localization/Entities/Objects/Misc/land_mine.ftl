@@ -1,4 +1,5 @@
-ent-BaseLandMine = ця сутність не має назви
+ent-BaseLandMine = { "" }
+    .desc = { "" }
 ent-LandMineKickUnarmed = kick mine
     .desc = { ent-BaseLandMine.desc }
 ent-LandMineKick = kick mine

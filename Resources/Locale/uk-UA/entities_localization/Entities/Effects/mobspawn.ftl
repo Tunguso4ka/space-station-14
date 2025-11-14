@@ -1,4 +1,5 @@
 ent-MobSpawnCrabQuartz = mobspawner quartzcrab
+    .desc = { "" }
 ent-MobSpawnCrabIron = mobspawner ironcrab
     .desc = { ent-MobSpawnCrabQuartz.desc }
 ent-MobSpawnCrabCoal = mobspawner coalcrab

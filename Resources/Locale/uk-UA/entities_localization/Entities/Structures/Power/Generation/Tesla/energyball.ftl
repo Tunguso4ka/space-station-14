@@ -1,4 +1,5 @@
-ent-BaseEnergyBall = ця сутність не має назви
+ent-BaseEnergyBall = { "" }
+    .desc = { "" }
 ent-TeslaEnergyBall = шарова блискавка
     .desc = Великий шар чистої енергії. Простір навколо її дзижчить та тане.
 ent-TeslaMiniEnergyBall = маленька шарова блискавка

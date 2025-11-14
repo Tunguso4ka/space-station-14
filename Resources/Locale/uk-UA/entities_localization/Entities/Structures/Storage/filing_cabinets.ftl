@@ -8,6 +8,7 @@ ent-filingCabinetTall = tall cabinet
 ent-filingCabinetDrawer = chest drawer
     .desc = A small drawer for all your filing needs, Now with wheels!
 ent-BaseBureaucraticStorageFill = { "" }
+    .desc = { "" }
     .suffix = Заповнений
 ent-filingCabinetRandom = { ent-BaseBureaucraticStorageFill }
     .desc = { ent-BaseBureaucraticStorageFill.desc }

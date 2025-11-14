@@ -1,4 +1,5 @@
 ent-AdminInstantEffectBase = instant effect
+    .desc = { "" }
 ent-AdminInstantEffectEMP = { ent-AdminInstantEffectBase }
     .desc = { ent-AdminInstantEffectBase.desc }
     .suffix = EMP

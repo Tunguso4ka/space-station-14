@@ -1,3 +1,4 @@
-ent-BaseItemCabinet = ця сутність не має назви
+ent-BaseItemCabinet = { "" }
+    .desc = { "" }
 ent-BaseItemCabinetGlass = { ent-BaseItemCabinet }
     .desc = { ent-BaseItemCabinet.desc }
