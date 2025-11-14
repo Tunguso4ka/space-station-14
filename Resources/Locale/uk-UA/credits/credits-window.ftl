@@ -9,9 +9,9 @@ credits-window-contribute-button = Зробите свій внесок!
 credits-window-contributors-section-title = Space Station 14 Контріб'ютори
 credits-window-codebases-section-title = Space Station 13 Сервера
 credits-window-original-remake-team-section-title = Орігінальная команда ремейку Space Station 13
+credits-window-immortals-title = In Memoriam
 credits-window-special-thanks-section-title = Особа Подяка
 credits-window-translation-team-title = Команда перекладу
-credits-window-immortals-title = In Memoriam
 credits-window-previous-page-button = Previous Page
 credits-window-next-page-button = Next Page
 credits-window-attributions-directory = [color=white]Directory:[/color] {$directory}
