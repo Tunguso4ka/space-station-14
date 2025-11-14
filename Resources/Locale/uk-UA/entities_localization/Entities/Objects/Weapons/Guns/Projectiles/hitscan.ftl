@@ -1,4 +1,5 @@
 ent-HitscanEffect = { "" }
+    .desc = { "" }
 ent-BasicHitscan = { "" }
     .desc = { "" }
 ent-RedLightLaser = { ent-BasicHitscan }

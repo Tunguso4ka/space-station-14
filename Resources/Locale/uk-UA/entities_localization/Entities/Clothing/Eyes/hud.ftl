@@ -1,5 +1,7 @@
 ent-ShowSecurityIcons = { "" }
+    .desc = { "" }
 ent-ShowMedicalIcons = { "" }
+    .desc = { "" }
 ent-ClothingEyesHudDiagnostic = прозорий дисплей діагностики
     .desc = Прозорий дисплей, що здатень аналізувати цілісність та статус роботів та екзокостюмів.
 ent-ClothingEyesHudMedical = медічний прозорий дисплей

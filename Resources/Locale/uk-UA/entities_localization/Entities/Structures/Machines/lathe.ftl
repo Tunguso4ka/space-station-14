@@ -3,6 +3,7 @@ ent-BaseLathe = лат
 ent-BaseLatheLube = { ent-BaseLathe }
     .desc = { ent-BaseLathe.desc }
 ent-BaseHyperlathe = { "" }
+    .desc = { "" }
 ent-Autolathe = автолат
     .desc = It produces items using metal and glass.
 ent-AutolatheHyperConvection = hyper convection autolathe

@@ -3,6 +3,7 @@ ent-ReagentContainerBase = { ent-BaseItem }
 ent-ReagentPacketBase = { ent-ReagentContainerBase }
     .desc = { ent-ReagentContainerBase.desc }
 ent-ItemHeftyBase = { "" }
+    .desc = { "" }
 ent-ReagentContainerFlour = мішок борошна
     .desc = Великий мішок борошна. Добре підходить для випікання!
 ent-ReagentContainerFlourSmall = пакет борошна

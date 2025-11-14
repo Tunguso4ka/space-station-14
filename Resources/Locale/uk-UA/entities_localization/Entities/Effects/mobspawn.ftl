@@ -13,3 +13,4 @@ ent-MobSpawnCrabUranium = mobspawner uraniumcrab
 ent-MobSpawnCrabBananium = mobspawner bananiumcrab
     .desc = { ent-MobSpawnCrabQuartz.desc }
 ent-EffectAnomalyFloraBulb = { "" }
+    .desc = { "" }

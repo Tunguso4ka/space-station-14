@@ -5,6 +5,7 @@ ent-ClothingShoesBaseButcherable = { ent-ClothingShoesBase }
 ent-ClothingShoesMilitaryBase = { ent-ClothingShoesBase }
     .desc = { ent-ClothingShoesBase.desc }
 ent-ClothingShoesBootsSecFilled = { "" }
+    .desc = { "" }
     .suffix = Filled
 ent-ClothingShoesBaseWinterBoots = { ent-ClothingShoesBaseButcherable }
     .desc = Пухнасті чоботи які допоможуть тобі пережити найхолоднішу із зим.

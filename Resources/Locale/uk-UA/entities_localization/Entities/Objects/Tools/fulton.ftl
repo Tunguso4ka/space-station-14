@@ -7,3 +7,4 @@ ent-Fulton1 = fulton
     .desc = { ent-Fulton.desc }
     .suffix = One
 ent-FultonEffect = fulton effect
+    .desc = { "" }

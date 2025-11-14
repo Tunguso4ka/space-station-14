@@ -1,4 +1,5 @@
 ent-JetpackEffect = { "" }
+    .desc = { "" }
 ent-BaseJetpack = реактивний ранець
     .desc = Це реактивний ранець.
 ent-ActionToggleJetpack = Перемкнути реакт. ранець
