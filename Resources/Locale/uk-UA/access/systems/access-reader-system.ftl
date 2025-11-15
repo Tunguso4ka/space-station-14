@@ -1,6 +1,6 @@
 access-reader-unknown-id = Невідомий
 access-reader-access-label = [color=yellow]{$access}[/color]
-access-reader-examination = Access is generally restricted to personnel with {$access} access.
-access-reader-examination-functionality-restricted = {$access} access may be required to use certain functions.
-access-reader-access-settings-modified-message = [italic]The access reader has been modified to accept personnel with {$access} access.[/italic]
-access-reader-access-settings-removed-message = [italic]The settings on the access reader have been deleted.[/italic]
+access-reader-examination = Доступ дозволено тільки для {$access}.
+access-reader-examination-functionality-restricted = Доступ {$access} потрібен для деяких функцій.
+access-reader-access-settings-modified-message = [italic]Зчитувач доступу було модифіковано, щоб приймати доступ {$access}.[/italic]
+access-reader-access-settings-removed-message = [italic]Налаштування зчитувача доступу було видалено.[/italic]
