@@ -1,6 +1,6 @@
 delete-verb-get-data-text = Видалити
 edit-solutions-verb-get-data-text = Редагувати рідину
-explode-verb-get-data-text = Взірвати
+explode-verb-get-data-text = Підірвати
 ahelp-verb-get-data-text = Повідомити
 admin-verbs-admin-logs-entity = Entity Logs
 admin-verbs-teleport-to = Телепортуватися до

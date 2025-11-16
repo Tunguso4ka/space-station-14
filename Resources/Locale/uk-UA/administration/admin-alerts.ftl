@@ -1,6 +1,6 @@
-admin-alert-shared-connection = {$player} має спільне з'єднання з {$otherCount} іншима гравцями: {$otherList}
-admin-alert-ipintel-blocked = {$player} was rejected from joining due to their IP having a {TOSTRING($percent, "P0")} confidence of being a VPN/Datacenter.
-admin-alert-ipintel-warning = {$player} IP has a {TOSTRING($percent, "P0")} confidence of being a VPN/Datacenter. Please watch them.
+admin-alert-shared-connection = {$player} має спільне з'єднання з {$otherCount} іншими гравцями: {$otherList}
+admin-alert-ipintel-blocked = {$player} було відмовлено, у під'єднанні, бо їх IP з вірогідністю {TOSTRING($percent, "P0")}  відсотків є VPN/Datacenter.
+admin-alert-ipintel-warning = IP гравця {$player} з вірогідністю{TOSTRING($percent, "P0")} відсотків є VPN/Datacenter. Будь ласка, слідкуйте за ними.
 admin-alert-antag-label = {$message} [ANTAG: {$name}, {$subtype}]
-admin-alert-tp-to-players-header = Players:{" "}
-admin-alert-tp-to-coords-header = Coords:{" "}
+admin-alert-tp-to-players-header = Гравці:{" "}
+admin-alert-tp-to-coords-header = Координати:{" "}

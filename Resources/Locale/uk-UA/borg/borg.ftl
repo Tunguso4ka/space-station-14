@@ -1,5 +1,5 @@
 borg-player-not-allowed = Мізки не вміщаються!
-borg-player-not-allowed-eject = Мізки дивним чином вислізнули з корпусу!
+borg-player-not-allowed-eject = Мізки дивним чином вислизнули з корпусу!
 borg-panel-not-open = Панель кіборга закрита...
 borg-mind-added = {CAPITALIZE($name)} вмикається!
 borg-mind-removed = {CAPITALIZE($name)} вимикається!

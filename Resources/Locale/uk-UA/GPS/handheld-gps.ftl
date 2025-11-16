@@ -1,1 +1,3 @@
-handheld-gps-coordinates-title = Координати: {$coordinates}
+handheld-gps-coordinates-title = 
+    Координати:
+    {$coordinates}

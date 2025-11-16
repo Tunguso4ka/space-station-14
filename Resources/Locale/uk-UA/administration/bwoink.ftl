@@ -1,9 +1,9 @@
 bwoink-user-title = Повідомлення від Адміністрації
-bwoink-admin-title = Admin Help
+bwoink-admin-title = Адмін Допомога
 bwoink-system-starmute-message-no-other-users = *Система: Немає адмінів у мережі. Повідомте їм у дискорд.
 bwoink-system-messages-being-relayed-to-discord = 
     Ваше повідомлення було переправлено в Дискорд.
-    Проблема може рішитися без повідомленнь.
+    Проблема може рішитися без повідомлень.
 bwoink-system-introductory-message = 
     Please describe the issue that you have encountered in detail. Assume that the game administrator who is resolving the problem does not have first-hand knowledge of what has occurred.
     Please do not ask for special events or punishments for other players.
@@ -21,6 +21,6 @@ bwoink-title-none-selected = Не обрано
 bwoink-system-rate-limited = Система: Ви відправляєте повідомлення занадто швидко.
 bwoink-system-player-disconnecting = від'єднався.
 bwoink-system-player-reconnecting = переприєднався.
-bwoink-system-player-banned = був забанений за {$banReason}
+bwoink-system-player-banned = був заблокований за {$banReason}
 bwoink-message-admin-only = (Тільки Адмінам)
 bwoink-message-silent = (Тихе)
