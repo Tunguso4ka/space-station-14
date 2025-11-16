@@ -2,11 +2,11 @@ anomaly-component-contact-damage = Аномалія обпалює твою шк
 anomaly-vessel-component-anomaly-assigned = Аномалію призначено до накопичувача.
 anomaly-vessel-component-not-assigned = Цей накопичувач не призначено до аномалії. Спробуй використати сканер на ній.
 anomaly-vessel-component-assigned = Цей накопичувач зараз призначено до аномалії.
-anomaly-particles-delta = Дельта-частки
-anomaly-particles-epsilon = Епсілон-частки
-anomaly-particles-zeta = Зета-частки
-anomaly-particles-omega = Омеґа-частки
-anomaly-particles-sigma = Сігма частинки
+anomaly-particles-delta = Дельта частинки
+anomaly-particles-epsilon = Епсилон частинки
+anomaly-particles-zeta = Зета частинки
+anomaly-particles-omega = Омега частинки
+anomaly-particles-sigma = Сигма частинки
 anomaly-scanner-component-scan-complete = Сканування завершено!
 anomaly-scanner-ui-title = сканер аномалій
 anomaly-scanner-no-anomaly = Зараз не сканується жодна аномалія.
@@ -18,7 +18,7 @@ anomaly-scanner-stability-high = Поточний стан аномалії: [co
 anomaly-scanner-stability-unknown = Поточний стан аномалії: [color=red]ПОМИЛКА[/color]
 anomaly-scanner-point-output = Вироблення очок: [color=gray]{$point}[/color]
 anomaly-scanner-point-output-unknown = Вироблення очок: [color=red]ПОМИЛКА[/color]
-anomaly-scanner-particle-readout = Зчитання реакції часток:
+anomaly-scanner-particle-readout = Зчитування реакції часток:
 anomaly-scanner-particle-danger = - [color=crimson]Тип небезпеки:[/color] {$type}
 anomaly-scanner-particle-unstable = - [color=plum]Тип нестабільності:[/color] {$type}
 anomaly-scanner-particle-containment = - [color=goldenrod]Тип стримання:[/color] {$type}
@@ -31,25 +31,25 @@ anomaly-scanner-pulse-timer = Часу до наступного поштовх�
 anomaly-gorilla-core-slot-name = Аномальне ядро
 anomaly-gorilla-charge-none = Не містить жодного [bold]аномального ядра[/bold].
 anomaly-gorilla-charge-limit = Містить [color={$count ->
-    [3]green
-    [2]yellow
-    [1]orange
-    [0]red
-    *[other]purple
+    [3]зелений
+    [2]жовтий
+    [1]помаранчевий
+    [0]червоний
+    *[other]фіолетовий
 }]{$count} {$count ->
-    [one]charge
-    *[other]charges
+    [one]заряд
+    *[other]заряди
 }[/color].
 anomaly-gorilla-charge-infinite = Містить [color=gold]невичерпну кількість зарядів[/color]. [italic]Натепер...[/italic]
 anomaly-sync-connected = Аномалію приєднано успішно
 anomaly-sync-disconnected = Звʼязок із аномалією було втрачено!
 anomaly-sync-no-anomaly = Жодної аномалії поблизу.
-anomaly-sync-examine-connected = [color=darkgreen]Є зʼєднання[/color] з аномалією.
-anomaly-sync-examine-not-connected = [color=darkred]Нема зʼєднання[/color] з аномалією.
+anomaly-sync-examine-connected = [color=darkgreen]Зʼєднано[/color] з аномалією.
+anomaly-sync-examine-not-connected = [color=darkred]Не зʼєднано[/color] з аномалією.
 anomaly-sync-connect-verb-text = Приєднати аномалією
 anomaly-sync-connect-verb-message = Приєднати ближчу аномалію до {$machine}.
-anomaly-sync-disconnect-verb-text = Detach anomaly
-anomaly-sync-disconnect-verb-message = Detach the connected anomaly from {THE($machine)}.
+anomaly-sync-disconnect-verb-text = Відʼєднати аномалію
+anomaly-sync-disconnect-verb-message = Відʼєднати аномалію від {$machine}.
 anomaly-generator-ui-title = Генератор Аномалій
 anomaly-generator-fuel-display = Паливо:
 anomaly-generator-cooldown = Перезарядка: [color=gray]{$time}[/color]
@@ -58,8 +58,8 @@ anomaly-generator-yes-fire = Стан: [color=forestgreen]Готовий[/color]
 anomaly-generator-no-fire = Стан: [color=crimson]Не готовий[/color]
 anomaly-generator-generate = Створити Аномалію
 anomaly-generator-charges = {$charges ->
-    [one] {$charges} charge
-    *[other] {$charges} charges
+    [one] {$charges} заряд
+    *[other] {$charges} зарядів
 }
 anomaly-generator-announcement = Аномалію було створено!
 anomaly-command-pulse = Поштовхує цільову аномалію

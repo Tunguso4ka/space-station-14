@@ -18,15 +18,15 @@ atmos-alerts-window-oxygenation-value = {$value}%
 atmos-alerts-window-other-gases-label = Інші гази
 atmos-alerts-window-other-gases-value = {$shorthand} ({$value}%)
 atmos-alerts-window-other-gases-value-nil = Нічого
-atmos-alerts-window-silence-alerts = Silence alerts from this alarm
-atmos-alerts-window-label-alert-types = Alert levels:
-atmos-alerts-window-normal-state = Normal
-atmos-alerts-window-warning-state = Warning
-atmos-alerts-window-danger-state = Danger!
-atmos-alerts-window-invalid-state = Inactive
-atmos-alerts-window-no-active-alerts = [font size=16][color=white]No active alerts -[/color] [color={$color}]Situation normal[/color][/font]
+atmos-alerts-window-silence-alerts = Вимкнути повідомлення з цієї тривоги
+atmos-alerts-window-label-alert-types = Рівні повідомлень:
+atmos-alerts-window-normal-state = Нормальна
+atmos-alerts-window-warning-state = Увага
+atmos-alerts-window-danger-state = Загроза!
+atmos-alerts-window-invalid-state = Не працює
+atmos-alerts-window-no-active-alerts = [font size=16][color=white]Не має загроз -[/color] [color={$color}]Система працездатна[/color][/font]
 atmos-alerts-window-no-data-available = Немає інформації
-atmos-alerts-window-alerts-being-silenced = Silencing alerts...
+atmos-alerts-window-alerts-being-silenced = Вимикаємо повідомлення...
 atmos-alerts-window-toggle-overlays = Toggle alarm display
 atmos-alerts-window-flavor-left = Contact an atmospheric technician for assistance
 atmos-alerts-window-flavor-right = v1.8

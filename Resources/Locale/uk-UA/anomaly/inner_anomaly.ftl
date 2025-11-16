@@ -1,7 +1,7 @@
-inner-anomaly-start-message-pyro = You can feel the insane flame inside of you. You became the host of a pyroclastic anomaly.
-inner-anomaly-start-message-shock = Lightning bolts quivering at your fingertips! You became the host of a electric anomaly.
-inner-anomaly-start-message-shadow = There's an impenetrable darkness oozing out of you... You became the host of a shadow anomaly.
-inner-anomaly-start-message-frost = The icy frost is binding your bones. You became the host of a ice anomaly.
+inner-anomaly-start-message-pyro = Ви відчуваєте божевільне полум'я всередині себе. Ви тепер володієте пірокластичною аномалією.
+inner-anomaly-start-message-shock = Блискавки тремтять на кінчиках ваших пальців! Ви тепер володієте електричною аномалією.
+inner-anomaly-start-message-shadow = З вас сочиться непроглядна темрява... Ви тепер володієте тіньовою аномалією.
+inner-anomaly-start-message-frost = Крижаний мороз проходить крізь ваші кості. Ви тепер володієте льодовою аномалією.
 inner-anomaly-start-message-flora = Leaves and flowers sprout through your skin! You became the host of a floral anomaly.
 inner-anomaly-start-message-bluespace = Your thoughts are racing like mad! You became the host of a bluespace anomaly.
 inner-anomaly-start-message-flesh = Your body is growing frantically. You became the host of a flesh anomaly.
